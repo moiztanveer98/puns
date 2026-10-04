@@ -1,3 +1,12 @@
+---
+title: "200+ Thanksgiving Puns That Are Gravy-licious"
+url: /thanksgiving-puns/
+meta_title: "200+ Thanksgiving Puns: One-Liners, Captions & Jokes"
+meta_description: "200+ Thanksgiving puns: one-liners, Instagram captions, love and kids puns. Copy a favorite or make your own with our free Pun Generator."
+---
+
+# 200+ Thanksgiving Puns That Are Gravy-licious
+
 Thanksgiving puns use turkey, gravy, stuffing, and feast-day traditions for quick wordplay with a built-in twist. Use them for dinner-table cards, Friendsgiving captions, or any moment Thanksgiving deserves its own one-liner.
 
 ## Thanksgiving Pun One-Liners

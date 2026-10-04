@@ -1,3 +1,12 @@
+---
+title: "200+ Craft Puns That Are Sew Crafty"
+url: /craft-puns/
+meta_title: "200+ Craft Puns: One-Liners, Captions & Jokes"
+meta_description: "Laugh with 200+ craft puns: one-liners, Instagram captions, love and kids puns, plus craft jokes. Copy a favorite or make your own with our Pun Generator."
+---
+
+# 200+ Craft Puns That Are Sew Crafty
+
 Craft puns use yarn, glue, stitches, and paint for quick wordplay with a built-in twist. Use them for maker captions, craft-fair signs, or any moment a project deserves its own one-liner.
 
 ## Craft Pun One-Liners

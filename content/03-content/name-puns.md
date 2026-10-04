@@ -1,3 +1,12 @@
+---
+title: "200+ Name Puns for Names That Get a Laugh"
+url: /name-puns/
+meta_title: "200+ Name Puns: One-Liners, Captions & Jokes"
+meta_description: "Laugh with 200+ name puns: one-liners, Instagram captions, love and kids puns, plus name jokes. Copy a favorite or make your own with our Pun Generator."
+---
+
+# 200+ Name Puns for Names That Get a Laugh
+
 Name puns play on the sound or meaning of a real first name — Jack, Grace, Will, Rose, Max — for quick wordplay built around that one specific name. Use them for personalized cards, nameplate captions, or any moment someone's name deserves its own one-liner.
 
 ## Name Pun One-Liners

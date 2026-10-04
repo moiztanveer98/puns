@@ -1,3 +1,12 @@
+---
+title: "200+ Puns for Kids That Are Clean, Silly and Fun"
+url: /puns-for-kids/
+meta_title: "200+ Puns for Kids: Clean, Silly Jokes They'll Love"
+meta_description: "Clean puns for kids: animal, food, school and holiday wordplay with easy jokes. Great for lunchbox notes, classrooms and family game night."
+---
+
+# 200+ Puns for Kids That Are Clean, Silly and Fun
+
 Clean puns for kids skip innuendo entirely and stick to simple words, usually in a question-and-answer format a child can read and repeat on their own. This page pulls the strongest kid-friendly jokes from across every topic, organized by theme so you can find the right one fast.
 
 ## Animal Puns for Kids

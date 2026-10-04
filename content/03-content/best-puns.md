@@ -1,3 +1,12 @@
+---
+title: "The 100 Best Puns of All Time"
+url: /best-puns/
+meta_title: "The Best Puns of All Time: 100 Classic Wordplay Gems"
+meta_description: "The best puns of all time, from classic wordplay to modern one-liners, with what makes each one work. Find your favorite and share the groan."
+---
+
+# The 100 Best Puns of All Time
+
 The best puns of all time are original lines, not recycled jokes, picked for how directly the wordplay lands and how widely they work across contexts. This flagship list curates the strongest lines from every corner of the site, organized by theme.
 
 ## Best Animal Puns

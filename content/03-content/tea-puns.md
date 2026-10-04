@@ -1,3 +1,12 @@
+---
+title: "200+ Tea Puns That Are Tea-riffic"
+url: /tea-puns/
+meta_title: "200+ Tea Puns: One-Liners, Captions & Jokes"
+meta_description: "Laugh with 200+ tea puns: one-liners, Instagram captions, love and kids puns, plus tea jokes. Copy a favorite or make your own with our Pun Generator."
+---
+
+# 200+ Tea Puns That Are Tea-riffic
+
 Tea puns use steeping, brewing, kettles, and the double meaning of "spilling the tea" for quick wordplay with a built-in twist. Use them for cozy captions, café signs, or any moment tea deserves its own one-liner.
 
 ## Tea Pun One-Liners

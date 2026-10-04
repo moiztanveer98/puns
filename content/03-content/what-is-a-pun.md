@@ -1,3 +1,12 @@
+---
+title: "What Is a Pun? Definition, Types & Examples"
+url: /what-is-a-pun/
+meta_title: "What Is a Pun? Meaning, Types & Examples"
+meta_description: "A pun is wordplay that uses a word's double meaning or a similar sound for humor. Learn the definition, main types of puns and easy examples."
+---
+
+# What Is a Pun? Definition, Types & Examples
+
 A pun is wordplay that uses a word's double meaning, or a word that sounds like another word, for humor. People use puns to add humor to jokes, headlines, conversation, and writing, because the twist rewards a listener the instant they catch it.
 
 ## What Is the Definition of a Pun?

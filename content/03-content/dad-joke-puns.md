@@ -1,3 +1,12 @@
+---
+title: "200+ Dad Joke Puns That Are Groan-tastic"
+url: /dad-joke-puns/
+meta_title: "200+ Dad Joke Puns: Corny, Clean & Groan-Worthy"
+meta_description: "Dad joke puns with corny setups and groaner punchlines. Clean, family-friendly wordplay for Father's Day, road trips and dinner-table laughs."
+---
+
+# 200+ Dad Joke Puns That Are Groan-tastic
+
 Dad joke puns always follow a setup-and-punchline format with a deliberately groan-worthy ending — the goal is a reaction, not subtlety. This page pulls the strongest setup-punchline lines from across every topic, organized by theme so you can find the right one fast.
 
 ## Animal Dad Jokes

@@ -1,3 +1,12 @@
+---
+title: "200+ Best Friend Puns for Your Pun Pal"
+url: /best-friend-puns/
+meta_title: "200+ Best Friend Puns: One-Liners, Captions & Jokes"
+meta_description: "200+ best friend puns: one-liners, Instagram captions, love and kids puns. Copy a favorite or make your own with our free Pun Generator."
+---
+
+# 200+ Best Friend Puns for Your Pun Pal
+
 Best friend puns use squad energy, inside jokes, and ride-or-die loyalty for quick wordplay with a built-in twist. Use them for friendship-day captions, birthday cards for your bestie, or any moment your pun pal deserves their own one-liner.
 
 ## Best Friend Pun One-Liners

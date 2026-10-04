@@ -1,3 +1,12 @@
+---
+title: "200+ Beach Puns That Are Shore to Please"
+url: /beach-puns/
+meta_title: "200+ Beach Puns: One-Liners, Captions & Jokes"
+meta_description: "Laugh with 200+ beach puns: one-liners, Instagram captions, love and kids puns, plus beach jokes. Copy a favorite or make your own with our Pun Generator."
+---
+
+# 200+ Beach Puns That Are Shore to Please
+
 Beach puns use sand, waves, shores, and tides for quick wordplay with a built-in twist. Use them for summer captions, vacation cards, or any moment the beach deserves its own one-liner.
 
 ## Beach Pun One-Liners

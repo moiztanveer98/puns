@@ -1,3 +1,12 @@
+---
+title: "200+ Cheese Puns That Are Simply Grate"
+url: /cheese-puns/
+meta_title: "200+ Cheese Puns: One-Liners, Captions & Jokes"
+meta_description: "200+ cheese puns: one-liners, Instagram captions, love and kids puns. Copy a favorite or make your own with our free Pun Generator."
+---
+
+# 200+ Cheese Puns That Are Simply Grate
+
 Cheese puns use specific cheeses — gouda, brie, cheddar, feta — along with grating, melting, and aging for quick wordplay with a built-in twist. Use them for charcuterie captions, party invites, or any moment cheese deserves its own one-liner.
 
 ## Cheese Pun One-Liners

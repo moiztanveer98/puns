@@ -1,3 +1,12 @@
+---
+title: "200+ Puns for Instagram Captions That Get the Likes Rolling"
+url: /puns-for-instagram-captions/
+meta_title: "200+ Puns for Instagram Captions (Short, Funny & Cute)"
+meta_description: "Find 200+ puns for Instagram captions by topic: food, animals, travel, holidays and more. Short, funny and cute lines ready to copy and post."
+---
+
+# 200+ Puns for Instagram Captions That Get the Likes Rolling
+
 Instagram caption puns stay short — under 8 words — so they read in a glance under a photo instead of competing with it for attention. This page pulls the strongest caption-length lines from across every topic, organized by theme so you can jump straight to the kind of photo you're posting.
 
 ## Animal Caption Puns

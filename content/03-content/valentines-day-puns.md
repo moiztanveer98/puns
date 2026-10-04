@@ -1,3 +1,12 @@
+---
+title: "200+ Valentine's Day Puns That Will Steal Your Heart"
+url: /valentines-day-puns/
+meta_title: "200+ Valentine's Day Puns: One-Liners, Captions & Jokes"
+meta_description: "200+ Valentine's Day puns: one-liners, Instagram captions, love and kids puns. Copy a favorite or make your own with our free Pun Generator."
+---
+
+# 200+ Valentine's Day Puns That Will Steal Your Heart
+
 Valentine's Day puns use hearts, cupid, roses, and chocolate for quick wordplay with a built-in twist. Use them for card messages, date-night captions, or any moment Valentine's Day deserves its own one-liner.
 
 ## Valentine's Day Pun One-Liners

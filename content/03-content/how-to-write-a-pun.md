@@ -1,3 +1,12 @@
+---
+title: "How to Write a Pun in 5 Simple Steps"
+url: /how-to-write-a-pun/
+meta_title: "How to Write a Pun: 5 Easy Steps With Examples"
+meta_description: "Learn how to write a pun step by step: pick a topic, build a word bank, find sound-alikes and test the line. Or try our free Pun Generator."
+---
+
+# How to Write a Pun in 5 Simple Steps
+
 Writing a pun takes 5 steps: pick a topic, build a word bank, find sound-alikes and double meanings, write the line, and test it out loud. Follow them in order and you'll end an original pun, not a recycled one — this guide builds one example pun, on coffee, all the way through.
 
 ## Step 1: Pick a Topic

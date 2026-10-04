@@ -1,3 +1,12 @@
+---
+title: "300+ Funny Puns That Will Make You Groan and Grin"
+url: /funny-puns/
+meta_title: "300+ Funny Puns: The Best Wordplay by Topic"
+meta_description: "The funniest puns on Crafty Puns, hand-picked from every topic: animals, food, holidays, science and more. One-liners and jokes you can copy instantly."
+---
+
+# 300+ Funny Puns That Will Make You Groan and Grin
+
 Funny puns are the strongest, most direct lines from across the whole site — the ones that land immediately instead of needing a second read. This page curates the best-of from every topic, organized by theme so you can find the type of funny you're looking for.
 
 ## Funniest Animal Puns

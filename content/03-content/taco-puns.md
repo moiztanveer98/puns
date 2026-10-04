@@ -1,3 +1,12 @@
+---
+title: "200+ Taco Puns Worth Taco-ing About"
+url: /taco-puns/
+meta_title: "200+ Taco Puns: One-Liners, Captions & Jokes"
+meta_description: "Laugh with 200+ taco puns: one-liners, Instagram captions, love and kids puns, plus taco jokes. Copy a favorite or make your own with our Pun Generator."
+---
+
+# 200+ Taco Puns Worth Taco-ing About
+
 Taco puns use shells, salsa, fillings, and fiesta energy for quick wordplay with a built-in twist. Use them for Taco Tuesday captions, party invites, or any moment a taco deserves its own one-liner.
 
 ## Taco Pun One-Liners

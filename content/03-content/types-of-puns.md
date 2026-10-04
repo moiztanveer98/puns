@@ -1,3 +1,12 @@
+---
+title: "Types of Puns: 7 Kinds of Wordplay With Examples"
+url: /types-of-puns/
+meta_title: "Types of Puns: 7 Kinds Explained With Examples"
+meta_description: "Learn the main types of puns, including homophonic, homographic, compound, recursive and visual puns, with clear examples of each."
+---
+
+# Types of Puns: 7 Kinds of Wordplay With Examples
+
 There are 7 main types of puns — homophonic, homographic, homonymic, compound, recursive, visual, and texting puns — each named for how its double meaning is built: by sound, by spelling, by combining both, by structure, or by swapping format entirely.
 
 ## What Are Homophonic Puns?

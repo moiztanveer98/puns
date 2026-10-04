@@ -1,3 +1,12 @@
+---
+title: "200+ Love Puns That Will Steal Your Heart"
+url: /love-puns/
+meta_title: "200+ Love Puns: Cute, Flirty & Romantic Wordplay"
+meta_description: "Cute and flirty love puns for texts, cards and captions, from sweet food puns to animal valentines. Find the perfect line to make someone smile."
+---
+
+# 200+ Love Puns That Will Steal Your Heart
+
 Love puns speak directly to "you" in a sweet, not cheesy, tone — the strongest ones read like something you'd actually text someone, not a generic greeting-card line. This page pulls the strongest love-themed lines from across every topic, organized by theme so you can find the right one fast.
 
 ## Animal Love Puns
