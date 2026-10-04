@@ -1,0 +1,211 @@
+[
+  {
+    "page": "What Is a Pun? Definition, Meaning & Examples",
+    "target_query": "what is a pun",
+    "slug": "what-is-a-pun",
+    "url_slug": "/what-is-a-pun/",
+    "priority": "P1",
+    "angle": "Definition-first; links to Types of Puns + Pun Generator",
+    "h1": "What Is a Pun? Definition, Types & Examples",
+    "meta_title": "What Is a Pun? Meaning, Types & Examples",
+    "meta_description": "A pun is wordplay that uses a word's double meaning or a similar sound for humor. Learn the definition, main types of puns and easy examples."
+  },
+  {
+    "page": "Types of Puns",
+    "target_query": "types of puns",
+    "slug": "types-of-puns",
+    "url_slug": "/types-of-puns/",
+    "priority": "P1",
+    "angle": "Hub for the 6 type pages below",
+    "h1": "Types of Puns: 7 Kinds of Wordplay With Examples",
+    "meta_title": "Types of Puns: 7 Kinds Explained With Examples",
+    "meta_description": "Learn the main types of puns, including homophonic, homographic, compound, recursive and visual puns, with clear examples of each."
+  },
+  {
+    "page": "Homophonic Puns",
+    "target_query": "homophonic puns",
+    "slug": "homophonic-puns",
+    "url_slug": "/homophonic-puns/",
+    "priority": "P2",
+    "angle": "Same/similar sound, different meaning",
+    "h1": "What Are Homophonic Puns? Meaning & Examples",
+    "meta_title": "Homophonic Puns: Meaning, How They Work & Examples",
+    "meta_description": "Homophonic puns use words that sound alike but mean different things. See how they work, why they land and examples you can use."
+  },
+  {
+    "page": "Homographic Puns",
+    "target_query": "homographic puns",
+    "slug": "homographic-puns",
+    "url_slug": "/homographic-puns/",
+    "priority": "P2",
+    "angle": "Same spelling, different meaning",
+    "h1": "What Are Homographic Puns? Meaning & Examples",
+    "meta_title": "Homographic Puns: Meaning & Examples",
+    "meta_description": "Homographic puns play on words spelled the same but with different meanings. Learn how they work with simple, funny examples."
+  },
+  {
+    "page": "Homonymic Puns",
+    "target_query": "homonymic puns",
+    "slug": "homonymic-puns",
+    "url_slug": "/homonymic-puns/",
+    "priority": "P3",
+    "angle": "Combines homophonic + homographic",
+    "h1": "What Are Homonymic Puns? Meaning & Examples",
+    "meta_title": "Homonymic Puns: Meaning & Examples",
+    "meta_description": "Homonymic puns use words that sound and look the same but mean different things. Learn how they differ from other pun types, with examples."
+  },
+  {
+    "page": "Compound Puns",
+    "target_query": "compound puns",
+    "slug": "compound-puns",
+    "url_slug": "/compound-puns/",
+    "priority": "P3",
+    "angle": "Several puns in one sentence",
+    "h1": "What Are Compound Puns? Meaning & Examples",
+    "meta_title": "Compound Puns: Meaning & Examples",
+    "meta_description": "Compound puns pack two or more puns into one sentence. See how they are built and read examples that stack the wordplay."
+  },
+  {
+    "page": "Recursive Puns",
+    "target_query": "recursive puns",
+    "slug": "recursive-puns",
+    "url_slug": "/recursive-puns/",
+    "priority": "P3",
+    "angle": "Second part depends on the first",
+    "h1": "What Are Recursive Puns? Meaning & Examples",
+    "meta_title": "Recursive Puns: Meaning & Examples",
+    "meta_description": "Recursive puns need the first part understood to get the second. Learn how this layered wordplay works, with examples."
+  },
+  {
+    "page": "Visual Puns",
+    "target_query": "visual puns",
+    "slug": "visual-puns",
+    "url_slug": "/visual-puns/",
+    "priority": "P2",
+    "angle": "Image-based; strong Pinterest asset",
+    "h1": "What Are Visual Puns? Meaning & Examples",
+    "meta_title": "Visual Puns: Meaning & Examples of Picture Wordplay",
+    "meta_description": "Visual puns use images instead of words to create a double meaning. Explore how they work in art, ads and memes, with examples."
+  },
+  {
+    "page": "Texting Puns (Letters & Numbers)",
+    "target_query": "texting puns",
+    "slug": "texting-puns",
+    "url_slug": "/texting-puns/",
+    "priority": "P3",
+    "angle": "Bridge to Meanings (slang) section",
+    "h1": "What Are Texting Puns? Letter & Number Wordplay",
+    "meta_title": "Texting Puns: Letter, Number & Spelling Wordplay",
+    "meta_description": "Texting puns use letters, numbers and short spellings, like 'gr8' or 'CU', for wordplay. See how they work, with examples."
+  },
+  {
+    "page": "How to Write a Pun",
+    "target_query": "how to write a pun",
+    "slug": "how-to-write-a-pun",
+    "url_slug": "/how-to-write-a-pun/",
+    "priority": "P1",
+    "angle": "Step-by-step; ends with Pun Generator CTA",
+    "h1": "How to Write a Pun in 5 Simple Steps",
+    "meta_title": "How to Write a Pun: 5 Easy Steps With Examples",
+    "meta_description": "Learn how to write a pun step by step: pick a topic, build a word bank, find sound-alikes and test the line. Or try our free Pun Generator."
+  },
+  {
+    "page": "Pun vs Joke vs Riddle",
+    "target_query": "pun vs joke",
+    "slug": "pun-vs-joke-vs-riddle",
+    "url_slug": "/pun-vs-joke-vs-riddle/",
+    "priority": "P2",
+    "angle": "Bridge to Riddles section",
+    "h1": "Pun vs Joke vs Riddle: What's the Difference?",
+    "meta_title": "Pun vs Joke vs Riddle: What's the Difference?",
+    "meta_description": "Puns, jokes and riddles all aim for a laugh, but they work differently. Learn the difference between each, with side-by-side examples."
+  },
+  {
+    "page": "Pun vs Double Entendre vs Malapropism",
+    "target_query": "pun vs double entendre",
+    "slug": "pun-vs-double-entendre",
+    "url_slug": "/pun-vs-double-entendre/",
+    "priority": "P2",
+    "angle": "Figures-of-speech comparison",
+    "h1": "Pun vs Double Entendre vs Malapropism: Key Differences",
+    "meta_title": "Pun vs Double Entendre vs Malapropism",
+    "meta_description": "Puns, double entendres and malapropisms are often confused. Learn how each figure of speech works and how to tell them apart."
+  },
+  {
+    "page": "Puns vs Dad Jokes",
+    "target_query": "are dad jokes puns",
+    "slug": "puns-vs-dad-jokes",
+    "url_slug": "/puns-vs-dad-jokes/",
+    "priority": "P2",
+    "angle": "Bridge to Dad Joke Puns hub",
+    "h1": "Are Dad Jokes Puns? Puns vs Dad Jokes Explained",
+    "meta_title": "Are Dad Jokes Puns? The Difference Explained",
+    "meta_description": "Many dad jokes rely on puns, but not all puns are dad jokes. Learn where the two overlap and what makes a joke a dad joke."
+  },
+  {
+    "page": "Famous Puns in Literature",
+    "target_query": "puns in literature",
+    "slug": "puns-in-literature",
+    "url_slug": "/puns-in-literature/",
+    "priority": "P2",
+    "angle": "Shakespeare, Oscar Wilde, etc.",
+    "h1": "Famous Puns in Literature, From Shakespeare to Wilde",
+    "meta_title": "Famous Puns in Literature: Shakespeare, Wilde & More",
+    "meta_description": "Explore famous puns in literature, from Shakespeare's wordplay to Oscar Wilde's The Importance of Being Earnest, and why writers love them."
+  },
+  {
+    "page": "History & Origin of Puns",
+    "target_query": "history of puns",
+    "slug": "history-of-puns",
+    "url_slug": "/history-of-puns/",
+    "priority": "P3",
+    "angle": "Etymology of 'pun' is uncertain; say so",
+    "h1": "The History of Puns: Where Wordplay Came From",
+    "meta_title": "History of Puns: The Origin of Wordplay",
+    "meta_description": "Explore the history of puns, from early wordplay to modern dad jokes, and what is known (and unknown) about where the word 'pun' comes from."
+  },
+  {
+    "page": "Why Do People Groan at Puns?",
+    "target_query": "why do people groan at puns",
+    "slug": "why-people-groan-at-puns",
+    "url_slug": "/why-people-groan-at-puns/",
+    "priority": "P3",
+    "angle": "Psychology angle; information gain",
+    "h1": "Why Do People Groan at Puns?",
+    "meta_title": "Why Do People Groan at Puns? The Psychology of Wordplay",
+    "meta_description": "Why do puns make people groan? Explore the psychology behind the reaction and why a groan is often a sign the pun worked."
+  },
+  {
+    "page": "National Pun Day (March 4)",
+    "target_query": "national pun day",
+    "slug": "national-pun-day",
+    "url_slug": "/national-pun-day/",
+    "priority": "P2",
+    "angle": "Seasonal; refresh each February",
+    "h1": "National Pun Day (March 4): History & How to Celebrate",
+    "meta_title": "National Pun Day: March 4 History & Ideas",
+    "meta_description": "National Pun Day falls on March 4. Learn its story, how to celebrate with puns at work and school, and grab ready-made puns to share."
+  },
+  {
+    "page": "Tom Swifties",
+    "target_query": "tom swifties",
+    "slug": "tom-swifties",
+    "url_slug": "/tom-swifties/",
+    "priority": "P3",
+    "angle": "Classic pun format with examples",
+    "h1": "What Are Tom Swifties? Meaning & Examples",
+    "meta_title": "Tom Swifties: Meaning & Funny Examples",
+    "meta_description": "Tom Swifties are puns where an adverb links to the quote, like 'I love pancakes,' said Tom flatly. Learn the format with examples."
+  },
+  {
+    "page": "Best Books About Puns",
+    "target_query": "books about puns",
+    "slug": "books-about-puns",
+    "url_slug": "/books-about-puns/",
+    "priority": "P3",
+    "angle": "Supplementary; affiliate potential",
+    "h1": "Best Books About Puns and Wordplay",
+    "meta_title": "Best Books About Puns & Wordplay to Read",
+    "meta_description": "The best books about puns and wordplay for pun lovers, writers and teachers, from pun histories to joke collections."
+  }
+]

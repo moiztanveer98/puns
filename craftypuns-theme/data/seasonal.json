@@ -1,0 +1,121 @@
+[
+  {
+    "event": "Halloween",
+    "event_date": "2026-10-31",
+    "publish_by": "ASAP (27 days left)",
+    "pages": "Halloween, Ghost, Witch, Skeleton, Pumpkin, Bat, Candy, Spider puns",
+    "flag": "URGENT"
+  },
+  {
+    "event": "Thanksgiving (US)",
+    "event_date": "2026-11-26",
+    "publish_by": "2026-10-12",
+    "pages": "Thanksgiving, Turkey, Pie puns",
+    "flag": "Next"
+  },
+  {
+    "event": "Christmas",
+    "event_date": "2026-12-25",
+    "publish_by": "2026-11-01",
+    "pages": "Christmas, Santa, Snowman, Elf, Reindeer, Cookie puns + Christmas Riddles bridge",
+    "flag": "Next"
+  },
+  {
+    "event": "New Year",
+    "event_date": "2027-01-01",
+    "publish_by": "2026-11-20",
+    "pages": "New Year, Gym & Fitness puns",
+    "flag": null
+  },
+  {
+    "event": "Valentine's Day",
+    "event_date": "2027-02-14",
+    "publish_by": "2026-12-20",
+    "pages": "Valentine's Day, Love, Chocolate puns",
+    "flag": null
+  },
+  {
+    "event": "National Pun Day",
+    "event_date": "2027-03-04",
+    "publish_by": "2027-01-15",
+    "pages": "National Pun Day page; homepage feature",
+    "flag": null
+  },
+  {
+    "event": "St. Patrick's Day",
+    "event_date": "2027-03-17",
+    "publish_by": "2027-01-25",
+    "pages": "St. Patrick's Day puns",
+    "flag": null
+  },
+  {
+    "event": "Easter",
+    "event_date": "2027-03-28",
+    "publish_by": "2027-02-01",
+    "pages": "Easter, Rabbit, Egg puns",
+    "flag": null
+  },
+  {
+    "event": "Star Wars Day",
+    "event_date": "2027-05-04",
+    "publish_by": "2027-03-15",
+    "pages": "Star Wars puns (original wordplay only)",
+    "flag": null
+  },
+  {
+    "event": "Mother's Day (US)",
+    "event_date": "2027-05-09",
+    "publish_by": "2027-03-20",
+    "pages": "Mother's Day puns",
+    "flag": null
+  },
+  {
+    "event": "Graduation season",
+    "event_date": "2027-05-15",
+    "publish_by": "2027-03-25",
+    "pages": "Graduation puns",
+    "flag": null
+  },
+  {
+    "event": "Father's Day (US)",
+    "event_date": "2027-06-20",
+    "publish_by": "2027-04-25",
+    "pages": "Father's Day, Dad Joke puns",
+    "flag": null
+  },
+  {
+    "event": "Summer",
+    "event_date": "2027-06-21",
+    "publish_by": "2027-04-25",
+    "pages": "Summer, Beach, Ice Cream, Watermelon puns",
+    "flag": null
+  },
+  {
+    "event": "Fourth of July",
+    "event_date": "2027-07-04",
+    "publish_by": "2027-05-10",
+    "pages": "Fourth of July puns",
+    "flag": null
+  },
+  {
+    "event": "Back to School",
+    "event_date": "2027-08-15",
+    "publish_by": "2027-06-20",
+    "pages": "School, Teacher puns",
+    "flag": null
+  },
+  {
+    "event": "Fall",
+    "event_date": "2027-09-23",
+    "publish_by": "2027-07-25",
+    "pages": "Fall, Apple, Leaf, Corn puns",
+    "flag": null
+  },
+  {
+    "event": "Rule: publish or refresh 6-8 weeks before the event so pages are indexed before demand peaks.",
+    "event_date": null,
+    "publish_by": null,
+    "pages": null,
+    "flag": null
+  }
+]

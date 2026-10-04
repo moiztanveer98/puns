@@ -1,0 +1,551 @@
+[
+  {
+    "type": "Hub",
+    "page": "Animal Puns",
+    "slug": "animal-puns",
+    "url_slug": "/animal-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Lists all 7 sub-hubs; mega-menu entry"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Pet Puns",
+    "slug": "pet-puns",
+    "url_slug": "/pet-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 6 topic posts"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Farm Animal Puns",
+    "slug": "farm-animal-puns",
+    "url_slug": "/farm-animal-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 10 topic posts"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Wild Animal Puns",
+    "slug": "wild-animal-puns",
+    "url_slug": "/wild-animal-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 14 topic posts"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Bird Puns",
+    "slug": "bird-puns",
+    "url_slug": "/bird-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 4 topic posts"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Sea Creature Puns",
+    "slug": "sea-creature-puns",
+    "url_slug": "/sea-creature-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 9 topic posts"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Insect & Bug Puns",
+    "slug": "insect-and-bug-puns",
+    "url_slug": "/insect-and-bug-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 6 topic posts"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Reptile & Amphibian Puns",
+    "slug": "reptile-and-amphibian-puns",
+    "url_slug": "/reptile-and-amphibian-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 5 topic posts"
+  },
+  {
+    "type": "Hub",
+    "page": "Food & Drink Puns",
+    "slug": "food-and-drink-puns",
+    "url_slug": "/food-and-drink-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Lists all 5 sub-hubs; mega-menu entry"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Fruit Puns",
+    "slug": "fruit-puns",
+    "url_slug": "/fruit-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 12 topic posts"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Vegetable Puns",
+    "slug": "vegetable-puns",
+    "url_slug": "/vegetable-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 8 topic posts"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Dessert & Sweet Puns",
+    "slug": "dessert-and-sweet-puns",
+    "url_slug": "/dessert-and-sweet-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 8 topic posts"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Meal & Dish Puns",
+    "slug": "meal-and-dish-puns",
+    "url_slug": "/meal-and-dish-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 12 topic posts"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Drink Puns",
+    "slug": "drink-puns",
+    "url_slug": "/drink-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 7 topic posts"
+  },
+  {
+    "type": "Hub",
+    "page": "Nature & Science Puns",
+    "slug": "nature-and-science-puns",
+    "url_slug": "/nature-and-science-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Lists all 6 sub-hubs; mega-menu entry"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Weather & Season Puns",
+    "slug": "weather-and-season-puns",
+    "url_slug": "/weather-and-season-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 8 topic posts"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Plant Puns",
+    "slug": null,
+    "url_slug": "(topic post)",
+    "wp_type": "Post",
+    "status": "Served by topic post",
+    "notes": "The 'Plant Puns' topic post doubles as this sub-hub: add a 'More Plant Puns' links block"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Earth & Water Puns",
+    "slug": "earth-and-water-puns",
+    "url_slug": "/earth-and-water-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 7 topic posts"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Space Puns",
+    "slug": null,
+    "url_slug": "(topic post)",
+    "wp_type": "Post",
+    "status": "Served by topic post",
+    "notes": "The 'Space Puns' topic post doubles as this sub-hub: add a 'More Space Puns' links block"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Science Puns",
+    "slug": null,
+    "url_slug": "(topic post)",
+    "wp_type": "Post",
+    "status": "Served by topic post",
+    "notes": "The 'Science Puns' topic post doubles as this sub-hub: add a 'More Science Puns' links block"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Body Puns",
+    "slug": "body-puns",
+    "url_slug": "/body-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 4 topic posts"
+  },
+  {
+    "type": "Hub",
+    "page": "Holiday & Event Puns",
+    "slug": "holiday-and-event-puns",
+    "url_slug": "/holiday-and-event-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Lists all 4 sub-hubs; mega-menu entry"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Christmas Puns",
+    "slug": null,
+    "url_slug": "(topic post)",
+    "wp_type": "Post",
+    "status": "Served by topic post",
+    "notes": "The 'Christmas Puns' topic post doubles as this sub-hub: add a 'More Christmas Puns' links block"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Halloween Puns",
+    "slug": null,
+    "url_slug": "(topic post)",
+    "wp_type": "Post",
+    "status": "Served by topic post",
+    "notes": "The 'Halloween Puns' topic post doubles as this sub-hub: add a 'More Halloween Puns' links block"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Seasonal Holiday Puns",
+    "slug": "seasonal-holiday-puns",
+    "url_slug": "/seasonal-holiday-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 9 topic posts"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Life Event Puns",
+    "slug": "life-event-puns",
+    "url_slug": "/life-event-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 6 topic posts"
+  },
+  {
+    "type": "Hub",
+    "page": "Object & Everyday Puns",
+    "slug": "object-and-everyday-puns",
+    "url_slug": "/object-and-everyday-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Lists all 4 sub-hubs; mega-menu entry"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Toy & Game Puns",
+    "slug": "toy-and-game-puns",
+    "url_slug": "/toy-and-game-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 4 topic posts"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Vehicle Puns",
+    "slug": "vehicle-puns",
+    "url_slug": "/vehicle-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 5 topic posts"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Household Puns",
+    "slug": "household-puns",
+    "url_slug": "/household-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 5 topic posts"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Tech Puns",
+    "slug": "tech-puns",
+    "url_slug": "/tech-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 3 topic posts"
+  },
+  {
+    "type": "Hub",
+    "page": "Sport & Hobby Puns",
+    "slug": "sport-and-hobby-puns",
+    "url_slug": "/sport-and-hobby-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Lists all 2 sub-hubs; mega-menu entry"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Sport Puns",
+    "slug": null,
+    "url_slug": "(topic post)",
+    "wp_type": "Post",
+    "status": "Served by topic post",
+    "notes": "The 'Sports Puns' topic post doubles as this sub-hub: add a 'More Sport Puns' links block"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Hobby Puns",
+    "slug": "hobby-puns",
+    "url_slug": "/hobby-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 12 topic posts"
+  },
+  {
+    "type": "Hub",
+    "page": "Work & School Puns",
+    "slug": "work-and-school-puns",
+    "url_slug": "/work-and-school-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Lists all 2 sub-hubs; mega-menu entry"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "School Puns",
+    "slug": null,
+    "url_slug": "(topic post)",
+    "wp_type": "Post",
+    "status": "Served by topic post",
+    "notes": "The 'School Puns' topic post doubles as this sub-hub: add a 'More School Puns' links block"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Job Puns",
+    "slug": "job-puns",
+    "url_slug": "/job-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 7 topic posts"
+  },
+  {
+    "type": "Hub",
+    "page": "Fantasy & Pop Culture Puns",
+    "slug": "fantasy-and-pop-culture-puns",
+    "url_slug": "/fantasy-and-pop-culture-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Lists all 2 sub-hubs; mega-menu entry"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Fantasy Puns",
+    "slug": "fantasy-puns",
+    "url_slug": "/fantasy-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 5 topic posts"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Pop Culture Puns",
+    "slug": "pop-culture-puns",
+    "url_slug": "/pop-culture-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 3 topic posts"
+  },
+  {
+    "type": "Hub",
+    "page": "People & Relationship Puns",
+    "slug": "people-and-relationship-puns",
+    "url_slug": "/people-and-relationship-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Lists all 3 sub-hubs; mega-menu entry"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "People Puns",
+    "slug": "people-puns",
+    "url_slug": "/people-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 3 topic posts"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Family Puns",
+    "slug": "family-puns",
+    "url_slug": "/family-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 6 topic posts"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Relationship Puns",
+    "slug": "relationship-puns",
+    "url_slug": "/relationship-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 4 topic posts"
+  },
+  {
+    "type": "Hub",
+    "page": "Word & Name Puns",
+    "slug": "word-and-name-puns",
+    "url_slug": "/word-and-name-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Lists all 2 sub-hubs; mega-menu entry"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Language Puns",
+    "slug": "language-puns",
+    "url_slug": "/language-puns/",
+    "wp_type": "Page",
+    "status": "New",
+    "notes": "Links to its 4 topic posts"
+  },
+  {
+    "type": "Sub-hub",
+    "page": "Name Puns",
+    "slug": null,
+    "url_slug": "(topic post)",
+    "wp_type": "Post",
+    "status": "Served by topic post",
+    "notes": "The 'Name Puns' topic post doubles as this sub-hub: add a 'More Name Puns' links block"
+  },
+  {
+    "type": "Section / Tool",
+    "page": "Homepage",
+    "slug": "",
+    "url_slug": "/",
+    "wp_type": "Page",
+    "status": "Existing",
+    "notes": "Pun Generator above the fold; links to all 10 hubs"
+  },
+  {
+    "type": "Section / Tool",
+    "page": "Puns (section hub)",
+    "slug": "puns",
+    "url_slug": "/puns/",
+    "wp_type": "Page",
+    "status": "Rebuild",
+    "notes": "Entry point to all hubs, use hubs and the outer section"
+  },
+  {
+    "type": "Section / Tool",
+    "page": "Riddles (section hub)",
+    "slug": "riddles",
+    "url_slug": "/riddles/",
+    "wp_type": "Page",
+    "status": "Existing",
+    "notes": "Existing section; bridge to Pun vs Joke vs Riddle"
+  },
+  {
+    "type": "Section / Tool",
+    "page": "Meanings (section hub)",
+    "slug": "meanings",
+    "url_slug": "/meanings/",
+    "wp_type": "Page",
+    "status": "Existing",
+    "notes": "Existing section; bridge to Grammar, Word, Texting puns"
+  },
+  {
+    "type": "Section / Tool",
+    "page": "Pun Generator",
+    "slug": "pun-generator",
+    "url_slug": "/pun-generator/",
+    "wp_type": "Page",
+    "status": "Existing",
+    "notes": "Existing tool"
+  },
+  {
+    "type": "Static",
+    "page": "About Us",
+    "slug": "about-us",
+    "url_slug": "/about-us/",
+    "wp_type": "Page",
+    "status": "Required",
+    "notes": "Footer link"
+  },
+  {
+    "type": "Static",
+    "page": "Contact",
+    "slug": "contact",
+    "url_slug": "/contact/",
+    "wp_type": "Page",
+    "status": "Required",
+    "notes": "Footer link"
+  },
+  {
+    "type": "Static",
+    "page": "Privacy Policy",
+    "slug": "privacy-policy",
+    "url_slug": "/privacy-policy/",
+    "wp_type": "Page",
+    "status": "Required",
+    "notes": "Footer link"
+  },
+  {
+    "type": "Static",
+    "page": "Terms & Conditions",
+    "slug": "terms-and-conditions",
+    "url_slug": "/terms-and-conditions/",
+    "wp_type": "Page",
+    "status": "Required",
+    "notes": "Footer link"
+  },
+  {
+    "type": "Static",
+    "page": "Disclaimer",
+    "slug": "disclaimer",
+    "url_slug": "/disclaimer/",
+    "wp_type": "Page",
+    "status": "Required",
+    "notes": "Footer link"
+  },
+  {
+    "type": "Static",
+    "page": "Cookie Policy",
+    "slug": "cookie-policy",
+    "url_slug": "/cookie-policy/",
+    "wp_type": "Page",
+    "status": "Required",
+    "notes": "Footer link"
+  },
+  {
+    "type": "Static",
+    "page": "Editorial Guidelines",
+    "slug": "editorial-guidelines",
+    "url_slug": "/editorial-guidelines/",
+    "wp_type": "Page",
+    "status": "Recommended",
+    "notes": "Footer link"
+  },
+  {
+    "type": "Static",
+    "page": "Our Authors",
+    "slug": "our-authors",
+    "url_slug": "/our-authors/",
+    "wp_type": "Page",
+    "status": "Recommended",
+    "notes": "Footer link"
+  },
+  {
+    "type": "Static",
+    "page": "DMCA",
+    "slug": "dmca",
+    "url_slug": "/dmca/",
+    "wp_type": "Page",
+    "status": "Recommended",
+    "notes": "Footer link"
+  }
+]

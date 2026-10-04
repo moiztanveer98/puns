@@ -1,0 +1,107 @@
+{
+  "h1_formula": "H1 formula: [Number]+ [X] Puns for [Top Use] That Are [Pun-based quality]   e.g. 150+ Cat Puns for Instagram Captions That Are Purr-fectly Funny",
+  "sections": [
+    {
+      "order": 1,
+      "heading": "Intro (no heading)",
+      "zone": "Main",
+      "rule": "2-sentence declaration: what [X] puns are + where to use them. No story opener."
+    },
+    {
+      "order": 2,
+      "heading": "[X] Pun One-Liners",
+      "zone": "Main",
+      "rule": "Single sentence, twist at the end"
+    },
+    {
+      "order": 3,
+      "heading": "Short [X] Puns",
+      "zone": "Main",
+      "rule": "1-5 words"
+    },
+    {
+      "order": 4,
+      "heading": "Funny [X] Puns",
+      "zone": "Main",
+      "rule": "Strongest groaners"
+    },
+    {
+      "order": 5,
+      "heading": "Cute [X] Puns",
+      "zone": "Main",
+      "rule": "Soft, sweet tone"
+    },
+    {
+      "order": 6,
+      "heading": "[X] Puns for Instagram Captions",
+      "zone": "Main",
+      "rule": "Under ~8 words, standalone; link to Captions hub"
+    },
+    {
+      "order": 7,
+      "heading": "[X] Puns for Kids",
+      "zone": "Main",
+      "rule": "Clean Q&A format; link to Kids hub"
+    },
+    {
+      "order": 8,
+      "heading": "[X] Love Puns",
+      "zone": "Main",
+      "rule": "Second person; link to Love hub"
+    },
+    {
+      "order": 9,
+      "heading": "[X] Birthday Puns",
+      "zone": "Main",
+      "rule": "Occasion-specific; link to Birthday hub"
+    },
+    {
+      "order": 10,
+      "heading": "[X] Pickup Lines",
+      "zone": "Main",
+      "rule": "Flirty, clean"
+    },
+    {
+      "order": 11,
+      "heading": "[X] Jokes",
+      "zone": "Main",
+      "rule": "Setup + punchline Q&A"
+    },
+    {
+      "order": 12,
+      "heading": "Make Your Own [X] Pun (Pun Generator box)",
+      "zone": "Border",
+      "rule": "Embedded generator prefilled with [X]"
+    },
+    {
+      "order": 13,
+      "heading": "How to Use [X] Puns",
+      "zone": "Supplementary",
+      "rule": "Cards, captions, party signs, classroom"
+    },
+    {
+      "order": 14,
+      "heading": "FAQ: What are the best [X] puns?",
+      "zone": "Supplementary",
+      "rule": "Max 4 sentences per answer"
+    },
+    {
+      "order": 15,
+      "heading": "FAQ: Are [X] puns good for kids?",
+      "zone": "Supplementary",
+      "rule": "Boolean answer starts with 'Yes,' or 'No,'"
+    },
+    {
+      "order": 16,
+      "heading": "FAQ: How do you make a [X] pun?",
+      "zone": "Supplementary",
+      "rule": "Link to How to Write a Pun"
+    },
+    {
+      "order": 17,
+      "heading": "Related Puns (contextual bridges)",
+      "zone": "Supplementary",
+      "rule": "Sub-hub + 2 sibling pages, descriptive anchors"
+    }
+  ]
+}

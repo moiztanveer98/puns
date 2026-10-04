@@ -1,0 +1,413 @@
+{
+  "header": [
+    {
+      "label": "Puns",
+      "depth": 0,
+      "type": "mega menu",
+      "slug": null,
+      "url_slug": null,
+      "notes": "Top-level nav item; opens mega menu"
+    },
+    {
+      "label": "By Topic",
+      "depth": 1,
+      "type": "sub-heading",
+      "slug": null,
+      "url_slug": null,
+      "notes": "Lists the 10 hubs below"
+    },
+    {
+      "label": "Animal Puns",
+      "depth": 1,
+      "type": "link",
+      "slug": "animal-puns",
+      "url_slug": "/animal-puns/",
+      "notes": "Hub page"
+    },
+    {
+      "label": "Food & Drink Puns",
+      "depth": 1,
+      "type": "link",
+      "slug": "food-and-drink-puns",
+      "url_slug": "/food-and-drink-puns/",
+      "notes": "Hub page"
+    },
+    {
+      "label": "Nature & Science Puns",
+      "depth": 1,
+      "type": "link",
+      "slug": "nature-and-science-puns",
+      "url_slug": "/nature-and-science-puns/",
+      "notes": "Hub page"
+    },
+    {
+      "label": "Holiday & Event Puns",
+      "depth": 1,
+      "type": "link",
+      "slug": "holiday-and-event-puns",
+      "url_slug": "/holiday-and-event-puns/",
+      "notes": "Hub page"
+    },
+    {
+      "label": "People & Relationship Puns",
+      "depth": 1,
+      "type": "link",
+      "slug": "people-and-relationship-puns",
+      "url_slug": "/people-and-relationship-puns/",
+      "notes": "Hub page"
+    },
+    {
+      "label": "Object & Everyday Puns",
+      "depth": 1,
+      "type": "link",
+      "slug": "object-and-everyday-puns",
+      "url_slug": "/object-and-everyday-puns/",
+      "notes": "Hub page"
+    },
+    {
+      "label": "Sport & Hobby Puns",
+      "depth": 1,
+      "type": "link",
+      "slug": "sport-and-hobby-puns",
+      "url_slug": "/sport-and-hobby-puns/",
+      "notes": "Hub page"
+    },
+    {
+      "label": "Work & School Puns",
+      "depth": 1,
+      "type": "link",
+      "slug": "work-and-school-puns",
+      "url_slug": "/work-and-school-puns/",
+      "notes": "Hub page"
+    },
+    {
+      "label": "Fantasy & Pop Culture Puns",
+      "depth": 1,
+      "type": "link",
+      "slug": "fantasy-and-pop-culture-puns",
+      "url_slug": "/fantasy-and-pop-culture-puns/",
+      "notes": "Hub page"
+    },
+    {
+      "label": "Word & Name Puns",
+      "depth": 1,
+      "type": "link",
+      "slug": "word-and-name-puns",
+      "url_slug": "/word-and-name-puns/",
+      "notes": "Hub page"
+    },
+    {
+      "label": "By Use",
+      "depth": 1,
+      "type": "sub-heading",
+      "slug": null,
+      "url_slug": null,
+      "notes": "Lists the top use hubs"
+    },
+    {
+      "label": "Puns for Instagram Captions",
+      "depth": 1,
+      "type": "link",
+      "slug": "puns-for-instagram-captions",
+      "url_slug": "/puns-for-instagram-captions/",
+      "notes": "Use hub"
+    },
+    {
+      "label": "Puns for Kids",
+      "depth": 1,
+      "type": "link",
+      "slug": "puns-for-kids",
+      "url_slug": "/puns-for-kids/",
+      "notes": "Use hub"
+    },
+    {
+      "label": "Love Puns",
+      "depth": 1,
+      "type": "link",
+      "slug": "love-puns",
+      "url_slug": "/love-puns/",
+      "notes": "Use hub"
+    },
+    {
+      "label": "Dad Joke Puns",
+      "depth": 1,
+      "type": "link",
+      "slug": "dad-joke-puns",
+      "url_slug": "/dad-joke-puns/",
+      "notes": "Use hub"
+    },
+    {
+      "label": "Best Puns of All Time",
+      "depth": 1,
+      "type": "link",
+      "slug": "best-puns",
+      "url_slug": "/best-puns/",
+      "notes": "Use hub"
+    },
+    {
+      "label": "Learn",
+      "depth": 1,
+      "type": "sub-heading",
+      "slug": null,
+      "url_slug": null,
+      "notes": "Outer section"
+    },
+    {
+      "label": "What Is a Pun?",
+      "depth": 1,
+      "type": "link",
+      "slug": "what-is-a-pun",
+      "url_slug": "/what-is-a-pun/",
+      "notes": "Outer page"
+    },
+    {
+      "label": "Types of Puns",
+      "depth": 1,
+      "type": "link",
+      "slug": "types-of-puns",
+      "url_slug": "/types-of-puns/",
+      "notes": "Outer page"
+    },
+    {
+      "label": "Riddles",
+      "depth": 0,
+      "type": "link",
+      "slug": "riddles",
+      "url_slug": "/riddles/",
+      "notes": "Existing section"
+    },
+    {
+      "label": "Meanings",
+      "depth": 0,
+      "type": "link",
+      "slug": "meanings",
+      "url_slug": "/meanings/",
+      "notes": "Existing section"
+    },
+    {
+      "label": "Pun Generator",
+      "depth": 0,
+      "type": "button",
+      "slug": "pun-generator",
+      "url_slug": "/pun-generator/",
+      "notes": "Styled apart from the rest; right side of nav"
+    }
+  ],
+  "footer": [
+    {
+      "zone": "Brand",
+      "label": "Logo",
+      "type": "logo",
+      "slug": null,
+      "url_slug": null,
+      "notes": "Links to homepage"
+    },
+    {
+      "zone": "Brand",
+      "label": "Tagline",
+      "type": "text",
+      "slug": null,
+      "url_slug": null,
+      "notes": "\"Crafty Puns is a wordplay library of original puns, riddles, and a free Pun Generator.\""
+    },
+    {
+      "zone": "Brand",
+      "label": "Pinterest",
+      "type": "social",
+      "slug": "https://www.pinterest.com/craftypuns/",
+      "url_slug": "https://www.pinterest.com/craftypuns/",
+      "notes": "Existing account"
+    },
+    {
+      "zone": "Brand",
+      "label": "Facebook",
+      "type": "social",
+      "slug": null,
+      "url_slug": null,
+      "notes": "Add if active"
+    },
+    {
+      "zone": "Brand",
+      "label": "Instagram",
+      "type": "social",
+      "slug": null,
+      "url_slug": null,
+      "notes": "Add if active"
+    },
+    {
+      "zone": "Popular Hubs",
+      "label": "Animal Puns",
+      "type": "link",
+      "slug": "animal-puns",
+      "url_slug": "/animal-puns/",
+      "notes": null
+    },
+    {
+      "zone": "Popular Hubs",
+      "label": "Food & Drink Puns",
+      "type": "link",
+      "slug": "food-and-drink-puns",
+      "url_slug": "/food-and-drink-puns/",
+      "notes": null
+    },
+    {
+      "zone": "Popular Hubs",
+      "label": "Holiday & Event Puns",
+      "type": "link",
+      "slug": "holiday-and-event-puns",
+      "url_slug": "/holiday-and-event-puns/",
+      "notes": null
+    },
+    {
+      "zone": "Popular Hubs",
+      "label": "People & Relationship Puns",
+      "type": "link",
+      "slug": "people-and-relationship-puns",
+      "url_slug": "/people-and-relationship-puns/",
+      "notes": null
+    },
+    {
+      "zone": "Popular Hubs",
+      "label": "Puns for Instagram Captions",
+      "type": "link",
+      "slug": "puns-for-instagram-captions",
+      "url_slug": "/puns-for-instagram-captions/",
+      "notes": null
+    },
+    {
+      "zone": "Popular Hubs",
+      "label": "Puns for Kids",
+      "type": "link",
+      "slug": "puns-for-kids",
+      "url_slug": "/puns-for-kids/",
+      "notes": null
+    },
+    {
+      "zone": "Explore",
+      "label": "Pun Generator",
+      "type": "link",
+      "slug": "pun-generator",
+      "url_slug": "/pun-generator/",
+      "notes": null
+    },
+    {
+      "zone": "Explore",
+      "label": "Riddles",
+      "type": "link",
+      "slug": "riddles",
+      "url_slug": "/riddles/",
+      "notes": null
+    },
+    {
+      "zone": "Explore",
+      "label": "Meanings",
+      "type": "link",
+      "slug": "meanings",
+      "url_slug": "/meanings/",
+      "notes": null
+    },
+    {
+      "zone": "Explore",
+      "label": "What Is a Pun?",
+      "type": "link",
+      "slug": "what-is-a-pun",
+      "url_slug": "/what-is-a-pun/",
+      "notes": null
+    },
+    {
+      "zone": "Explore",
+      "label": "Types of Puns",
+      "type": "link",
+      "slug": "types-of-puns",
+      "url_slug": "/types-of-puns/",
+      "notes": null
+    },
+    {
+      "zone": "Company",
+      "label": "About Us",
+      "type": "link",
+      "slug": "about-us",
+      "url_slug": "/about-us/",
+      "notes": "Required"
+    },
+    {
+      "zone": "Company",
+      "label": "Our Authors",
+      "type": "link",
+      "slug": "our-authors",
+      "url_slug": "/our-authors/",
+      "notes": "Recommended"
+    },
+    {
+      "zone": "Company",
+      "label": "Editorial Guidelines",
+      "type": "link",
+      "slug": "editorial-guidelines",
+      "url_slug": "/editorial-guidelines/",
+      "notes": "Recommended"
+    },
+    {
+      "zone": "Company",
+      "label": "Contact",
+      "type": "link",
+      "slug": "contact",
+      "url_slug": "/contact/",
+      "notes": "Required"
+    },
+    {
+      "zone": "Bottom bar",
+      "label": "© 2026 Crafty Puns",
+      "type": "text",
+      "slug": null,
+      "url_slug": null,
+      "notes": null
+    },
+    {
+      "zone": "Bottom bar",
+      "label": "Privacy Policy",
+      "type": "link",
+      "slug": "privacy-policy",
+      "url_slug": "/privacy-policy/",
+      "notes": "Required"
+    },
+    {
+      "zone": "Bottom bar",
+      "label": "Terms & Conditions",
+      "type": "link",
+      "slug": "terms-and-conditions",
+      "url_slug": "/terms-and-conditions/",
+      "notes": "Required"
+    },
+    {
+      "zone": "Bottom bar",
+      "label": "Disclaimer",
+      "type": "link",
+      "slug": "disclaimer",
+      "url_slug": "/disclaimer/",
+      "notes": "Required"
+    },
+    {
+      "zone": "Bottom bar",
+      "label": "Cookie Policy",
+      "type": "link",
+      "slug": "cookie-policy",
+      "url_slug": "/cookie-policy/",
+      "notes": "Required (can merge into Privacy Policy)"
+    },
+    {
+      "zone": "Bottom bar",
+      "label": "DMCA",
+      "type": "link",
+      "slug": "dmca",
+      "url_slug": "/dmca/",
+      "notes": "Recommended"
+    }
+  ],
+  "rules": [
+    "Footer links go to hubs / use-hubs only, never individual topic posts (~20-25 links total).",
+    "Descriptive anchors: 'Animal Puns', not 'Animals'.",
+    "No rotating 'Latest' widgets in the footer.",
+    "Add Organization schema (name, logo, sameAs) on the brand block.",
+    "Header: a mega menu (2-3 columns) once hub count passes ~6, not one long dropdown."
+  ]
+}

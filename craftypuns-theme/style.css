@@ -1,0 +1,10 @@
+/*
+Theme Name: Crafty Puns
+Theme URI: https://craftypuns.net/
+Author: Crafty Puns
+Description: Topical-authority theme for Crafty Puns, built from the topical map. Styles are compiled from src/tailwind.css into assets/css/style.css via "npm run build" and enqueued there — this file exists only to satisfy WordPress's theme-header requirement.
+Version: 1.0.0
+Requires at least: 6.0
+Requires PHP: 7.4
+Text Domain: craftypuns
+*/

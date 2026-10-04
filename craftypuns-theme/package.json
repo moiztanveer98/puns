@@ -1,0 +1,14 @@
+{
+  "name": "craftypuns-theme",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Build pipeline for the Crafty Puns WordPress theme's Tailwind CSS.",
+  "scripts": {
+    "build": "tailwindcss -i ./src/tailwind.css -o ./assets/css/style.css --minify",
+    "watch": "tailwindcss -i ./src/tailwind.css -o ./assets/css/style.css --watch"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.10",
+    "tailwindcss": "^3.4.1"
+  }
+}
