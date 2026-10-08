@@ -11,6 +11,8 @@ Fish puns use fish's own vocabulary — scales, gills, fins, hooks, and the fact
 
 ## Fish Pun One-Liners
 
+These one-liners work well as a quick joke or a ready-made caption.
+
 - I'm not fishing for compliments, I'm just naturally this o-fish-al.
 - That joke was reel funny, no bait required.
 - She's got a fin-tastic sense of humor.
@@ -23,6 +25,8 @@ Fish puns use fish's own vocabulary — scales, gills, fins, hooks, and the fact
 - He's not lying, he's just embellishing like a fish tale.
 
 ## Short Fish Puns
+
+These short puns pack a laugh into just a few words.
 
 - Fin-tastic.
 - O-fish-ally great.
@@ -37,6 +41,8 @@ Fish puns use fish's own vocabulary — scales, gills, fins, hooks, and the fact
 
 ## Funny Fish Puns
 
+These are the boldest, most direct lines on this list.
+
 - My fish tank is basically a tiny apartment with way too many roommates.
 - A fish never has to worry about its phone falling in the water.
 - My goldfish has a 3-second memory and still remembers my feeding schedule better than I do.
@@ -49,6 +55,8 @@ Fish puns use fish's own vocabulary — scales, gills, fins, hooks, and the fact
 - A fish tank at 2am is the most relaxing chaos you'll ever watch.
 
 ## Cute Fish Puns
+
+These lines keep the tone sweet and gentle rather than laugh-out-loud.
 
 - A goldfish circling its bowl is basically doing tiny victory laps all day.
 - Watching fish glide through coral feels like slow-motion magic.
@@ -63,6 +71,8 @@ Fish puns use fish's own vocabulary — scales, gills, fins, hooks, and the fact
 
 ## Fish Puns for Instagram Captions
 
+These captions are short enough to drop straight under a photo.
+
 - Just keep swimming.
 - Reel good vibes only.
 - O-fish-ally obsessed.
@@ -75,6 +85,8 @@ Fish puns use fish's own vocabulary — scales, gills, fins, hooks, and the fact
 - Net positive energy.
 
 ## Fish Puns for Kids
+
+These jokes are clean, simple, and built for kids.
 
 - Q: Why don't fish like basketball? A: They're afraid of the net!
 - Q: What do you call a fish with no eyes? A: A fsh!
@@ -89,6 +101,8 @@ Fish puns use fish's own vocabulary — scales, gills, fins, hooks, and the fact
 
 ## Fish Love Puns
 
+These lines turn affection into wordplay.
+
 - You're the catch I never want to let go.
 - I'm hooked on you, no bait required.
 - You had me at hello, reel and true.
@@ -102,6 +116,8 @@ Fish puns use fish's own vocabulary — scales, gills, fins, hooks, and the fact
 
 ## Fish Birthday Puns
 
+These lines add a laugh to the celebration.
+
 - Happy birthday to someone who's a real catch, every single year.
 - Hope your birthday is o-fish-ally your best one yet.
 - Another year older, still the fin-tastic one of the group.
@@ -113,6 +129,8 @@ Fish puns use fish's own vocabulary — scales, gills, fins, hooks, and the fact
 
 ## Fish Pickup Lines
 
+These pickup lines are flirty, clean, and ready to use.
+
 - Are you a fish? Because I'm hooked already.
 - Is your name Nemo? Because I've been searching for you.
 - I must be a fisherman, because I can't stop reeling you in.
@@ -123,6 +141,8 @@ Fish puns use fish's own vocabulary — scales, gills, fins, hooks, and the fact
 - Are you a school of fish? Because I can't look away.
 
 ## Fish Jokes
+
+These jokes follow a classic setup-and-punchline format.
 
 - Q: Why did the fish get bad grades? A: Because it was below sea level!
 - Q: What do you call a fish without any eyes? A: A fsh, still swimming!

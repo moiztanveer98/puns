@@ -11,6 +11,8 @@ Tea puns use steeping, brewing, kettles, and the double meaning of "spilling the
 
 ## Tea Pun One-Liners
 
+These one-liners work well as a quick joke or a ready-made caption.
+
 - That gossip session really spilled the tea tonight.
 - She's steeped in good taste, honestly.
 - This brew situation is getting toasty.
@@ -23,6 +25,8 @@ Tea puns use steeping, brewing, kettles, and the double meaning of "spilling the
 - She's got a brew-tiful outlook on life.
 
 ## Short Tea Puns
+
+These short puns pack a laugh into just a few words.
 
 - Spill the tea.
 - Steeped in style.
@@ -37,6 +41,8 @@ Tea puns use steeping, brewing, kettles, and the double meaning of "spilling the
 
 ## Funny Tea Puns
 
+These are the boldest, most direct lines on this list.
+
 - My tea collection has more variety than my actual personality.
 - A proper steep time is the one thing I will not rush.
 - My kettle and I have a very committed morning relationship.
@@ -49,6 +55,8 @@ Tea puns use steeping, brewing, kettles, and the double meaning of "spilling the
 - A kettle's whistle is the most dramatic alarm clock I own.
 
 ## Cute Tea Puns
+
+These lines keep the tone sweet and gentle rather than laugh-out-loud.
 
 - The first sip of tea on a cold morning feels like a warm hug.
 - Watching steam curl off a fresh cup never gets old.
@@ -63,6 +71,8 @@ Tea puns use steeping, brewing, kettles, and the double meaning of "spilling the
 
 ## Tea Puns for Instagram Captions
 
+These captions are short enough to drop straight under a photo.
+
 - Spill the tea, please.
 - Steeped in good vibes.
 - Brew-tiful morning.
@@ -75,6 +85,8 @@ Tea puns use steeping, brewing, kettles, and the double meaning of "spilling the
 - Cup half full, always.
 
 ## Tea Puns for Kids
+
+These jokes are clean, simple, and built for kids.
 
 - Q: Why did the tea bag go to school? A: To get a little steeped in knowledge!
 - Q: What do you call a sad cup of tea? A: De-steep-ressed!
@@ -89,6 +101,8 @@ Tea puns use steeping, brewing, kettles, and the double meaning of "spilling the
 
 ## Tea Love Puns
 
+These lines turn affection into wordplay.
+
 - You're the honey to my tea.
 - I'd choose you over my morning cup, and that's saying a lot.
 - You're the reason I steep a little slower every morning.
@@ -102,6 +116,8 @@ Tea puns use steeping, brewing, kettles, and the double meaning of "spilling the
 
 ## Tea Birthday Puns
 
+These lines add a laugh to the celebration.
+
 - Happy birthday to someone who brews up joy wherever they go.
 - Hope your birthday is warm, calm, and perfectly steeped.
 - Another year older, still the chamomile the world needed. Happy birthday!
@@ -113,6 +129,8 @@ Tea puns use steeping, brewing, kettles, and the double meaning of "spilling the
 
 ## Tea Pickup Lines
 
+These pickup lines are flirty, clean, and ready to use.
+
 - Are you tea? Because I can't start my day without you.
 - Is your name Chamomile? Because you just calmed my whole heart.
 - I must be sugar, because I'm falling for you completely.
@@ -123,6 +141,8 @@ Tea puns use steeping, brewing, kettles, and the double meaning of "spilling the
 - Are you herbal? Because even then, I'd still be wired for you.
 
 ## Tea Jokes
+
+These jokes follow a classic setup-and-punchline format.
 
 - Q: Why did the tea bag go to therapy? A: It had too many leaves for concern!
 - Q: What do you call a tea that won't shut up? A: A loud-mouth brew!

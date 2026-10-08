@@ -11,6 +11,8 @@ Craft puns use yarn, glue, stitches, and paint for quick wordplay with a built-i
 
 ## Craft Pun One-Liners
 
+These one-liners work well as a quick joke or a ready-made caption.
+
 - That project turned out sew well.
 - She's really stitching together something special.
 - This glue situation is getting sticky, in a good way.
@@ -23,6 +25,8 @@ Craft puns use yarn, glue, stitches, and paint for quick wordplay with a built-i
 - She's needled her way into everyone's favorite projects.
 
 ## Short Craft Puns
+
+These short puns pack a laugh into just a few words.
 
 - Sew crafty.
 - Cut it out.
@@ -37,6 +41,8 @@ Craft puns use yarn, glue, stitches, and paint for quick wordplay with a built-i
 
 ## Funny Craft Puns
 
+These are the boldest, most direct lines on this list.
+
 - My craft supply closet has its own zip code at this point.
 - A hot glue gun is the most dangerous tool I trust myself with.
 - My yarn stash could outlast several winters, realistically speaking.
@@ -49,6 +55,8 @@ Craft puns use yarn, glue, stitches, and paint for quick wordplay with a built-i
 - A craft project at 11pm always seems like a better idea than it is.
 
 ## Cute Craft Puns
+
+These lines keep the tone sweet and gentle rather than laugh-out-loud.
 
 - A handmade gift means more than anything bought off a shelf.
 - Teaching someone their first stitch is a small, patient kind of joy.
@@ -63,6 +71,8 @@ Craft puns use yarn, glue, stitches, and paint for quick wordplay with a built-i
 
 ## Craft Puns for Instagram Captions
 
+These captions are short enough to drop straight under a photo.
+
 - Sew crafty today.
 - Cut it out, literally.
 - Glue-tiful mess.
@@ -75,6 +85,8 @@ Craft puns use yarn, glue, stitches, and paint for quick wordplay with a built-i
 - Craft mode: fully on.
 
 ## Craft Puns for Kids
+
+These jokes are clean, simple, and built for kids.
 
 - Q: Why did the crayon go to school? A: To get a little sharper!
 - Q: What do you call a dinosaur that loves crafts? A: A do-it-yourself-asaurus!
@@ -89,6 +101,8 @@ Craft puns use yarn, glue, stitches, and paint for quick wordplay with a built-i
 
 ## Craft Love Puns
 
+These lines turn affection into wordplay.
+
 - You're the glue that holds my whole world together.
 - I'm stitched to you, heart and thread.
 - You're sew easy to love, it's almost unfair.
@@ -102,6 +116,8 @@ Craft puns use yarn, glue, stitches, and paint for quick wordplay with a built-i
 
 ## Craft Birthday Puns
 
+These lines add a laugh to the celebration.
+
 - Happy birthday to someone who's truly sew crafty, every year.
 - Hope your birthday is pieced together with everything you love.
 - Another year older, still the most creative one in the room. Happy birthday!
@@ -113,6 +129,8 @@ Craft puns use yarn, glue, stitches, and paint for quick wordplay with a built-i
 
 ## Craft Pickup Lines
 
+These pickup lines are flirty, clean, and ready to use.
+
 - Are you glue? Because I'm stuck on you already.
 - Is your name Yarn? Because I can't stop getting tangled up in you.
 - I must be a needle, because I'm drawn straight to you.
@@ -123,6 +141,8 @@ Craft puns use yarn, glue, stitches, and paint for quick wordplay with a built-i
 - Are you a scrapbook page? Because I want to keep you forever.
 
 ## Craft Jokes
+
+These jokes follow a classic setup-and-punchline format.
 
 - Q: Why did the glue stick break up with the tape? A: It needed its own space!
 - Q: What do you call a craft project that's always on time? A: Punc-tu-al, glitter and all!

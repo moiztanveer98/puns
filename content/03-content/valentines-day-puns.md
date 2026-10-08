@@ -11,6 +11,8 @@ Valentine's Day puns use hearts, cupid, roses, and chocolate for quick wordplay 
 
 ## Valentine's Day Pun One-Liners
 
+These one-liners work well as a quick joke or a ready-made caption.
+
 - You've stolen my heart, and I'm not even mad about it.
 - Cupid really aimed well this year.
 - That rose situation is getting romantic fast.
@@ -23,6 +25,8 @@ Valentine's Day puns use hearts, cupid, roses, and chocolate for quick wordplay 
 - He's got a crush on you that won't quit.
 
 ## Short Valentine's Day Puns
+
+These short puns pack a laugh into just a few words.
 
 - Heart and soul.
 - Cupid approved.
@@ -37,6 +41,8 @@ Valentine's Day puns use hearts, cupid, roses, and chocolate for quick wordplay 
 
 ## Funny Valentine's Day Puns
 
+These are the boldest, most direct lines on this list.
+
 - My Valentine's Day plans are 90% chocolate, 10% actual romance.
 - A box of chocolates missing one piece is basically quality control.
 - My heart skips a beat and then immediately asks for snacks.
@@ -49,6 +55,8 @@ Valentine's Day puns use hearts, cupid, roses, and chocolate for quick wordplay 
 - A heart-shaped pizza is still just pizza, and that's perfectly fine.
 
 ## Cute Valentine's Day Puns
+
+These lines keep the tone sweet and gentle rather than laugh-out-loud.
 
 - A handwritten card still beats any store-bought one, every time.
 - Sharing the last chocolate in the box is basically a love language.
@@ -63,6 +71,8 @@ Valentine's Day puns use hearts, cupid, roses, and chocolate for quick wordplay 
 
 ## Valentine's Day Puns for Instagram Captions
 
+These captions are short enough to drop straight under a photo.
+
 - Heart and soul, always.
 - Cupid did his job.
 - Rose-colored everything.
@@ -75,6 +85,8 @@ Valentine's Day puns use hearts, cupid, roses, and chocolate for quick wordplay 
 - XOXO, every day.
 
 ## Valentine's Day Puns for Kids
+
+These jokes are clean, simple, and built for kids.
 
 - Q: What did one Valentine card say to the other? A: 'You're the stamp of approval I need!'
 - Q: Why did the boy bring a ladder to school on Valentine's Day? A: He wanted to reach new heights of love!
@@ -89,6 +101,8 @@ Valentine's Day puns use hearts, cupid, roses, and chocolate for quick wordplay 
 
 ## Valentine's Love Puns
 
+These lines turn affection into wordplay.
+
 - You're the cupid's arrow that actually hit its mark.
 - I'm smitten with you, no chocolate required, though it helps.
 - You had me at 'will you be my valentine.'
@@ -102,6 +116,8 @@ Valentine's Day puns use hearts, cupid, roses, and chocolate for quick wordplay 
 
 ## Valentine's Day Birthday Puns
 
+These lines add a laugh to the celebration.
+
 - Happy birthday to someone who's a valentine any day of the year.
 - Hope your birthday is as sweet as a box of chocolates.
 - Another year older, still stealing hearts everywhere you go. Happy birthday!
@@ -113,6 +129,8 @@ Valentine's Day puns use hearts, cupid, roses, and chocolate for quick wordplay 
 
 ## Valentine's Day Pickup Lines
 
+These pickup lines are flirty, clean, and ready to use.
+
 - Are you cupid's arrow? Because you just hit me straight in the heart.
 - Is your name Rose? Because you're the prettiest thing in the room.
 - I must be chocolate, because I melt a little every time you smile.
@@ -123,6 +141,8 @@ Valentine's Day puns use hearts, cupid, roses, and chocolate for quick wordplay 
 - Are you a heart? Because you're the only one I'm thinking about.
 
 ## Valentine's Day Jokes
+
+These jokes follow a classic setup-and-punchline format.
 
 - Q: Why did the Valentine's card blush? A: It saw the love letters!
 - Q: What do you call a very happy Valentine? A: Smitten and grinnin'!

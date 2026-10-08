@@ -11,6 +11,8 @@ Name puns play on the sound or meaning of a real first name — Jack, Grace, Wil
 
 ## Name Pun One-Liners
 
+These one-liners work well as a quick joke or a ready-made caption.
+
 - Jack of all trades, master of puns.
 - Grace under pressure, and under punchlines too.
 - Will power got him through the whole week.
@@ -23,6 +25,8 @@ Name puns play on the sound or meaning of a real first name — Jack, Grace, Wil
 - Dawn breaks early, and so does her humor.
 
 ## Short Name Puns
+
+These short puns pack a laugh into just a few words.
 
 - Jack-pot.
 - Grace-fully done.
@@ -37,6 +41,8 @@ Name puns play on the sound or meaning of a real first name — Jack, Grace, Wil
 
 ## Funny Name Puns
 
+These are the boldest, most direct lines on this list.
+
 - Every "Jack" eventually hears "Jack of all trades" and just accepts it.
 - A "Grace" falling down still somehow looks graceful, ironically.
 - "Will" gets asked if he has the willpower more than anyone should.
@@ -49,6 +55,8 @@ Name puns play on the sound or meaning of a real first name — Jack, Grace, Wil
 - A "Will" named after a legal document is a joke that writes itself.
 
 ## Cute Name Puns
+
+These lines keep the tone sweet and gentle rather than laugh-out-loud.
 
 - Hearing your own name turned into a pun feels like a tiny inside joke made just for you.
 - A nickname built from a name pun sticks around for years, usually fondly.
@@ -63,6 +71,8 @@ Name puns play on the sound or meaning of a real first name — Jack, Grace, Wil
 
 ## Name Puns for Instagram Captions
 
+These captions are short enough to drop straight under a photo.
+
 - Jack-pot energy today.
 - Grace-fully doing my thing.
 - Will-ing to make it happen.
@@ -75,6 +85,8 @@ Name puns play on the sound or meaning of a real first name — Jack, Grace, Wil
 - Dawn of something good.
 
 ## Name Puns for Kids
+
+These jokes are clean, simple, and built for kids.
 
 - Q: What do you call a boy named Jack who loves puzzles? A: Jack-in-the-box of ideas!
 - Q: Why is Grace always picked first for dance class? A: Because she's naturally graceful!
@@ -89,6 +101,8 @@ Name puns play on the sound or meaning of a real first name — Jack, Grace, Wil
 
 ## Name Love Puns
 
+These lines turn affection into wordplay.
+
 - Your name might as well mean "the one I choose."
 - I'd pick your name out of any crowd, every time.
 - You turned your name into my favorite word.
@@ -102,6 +116,8 @@ Name puns play on the sound or meaning of a real first name — Jack, Grace, Wil
 
 ## Name Birthday Puns
 
+These lines add a laugh to the celebration.
+
 - Happy birthday to someone whose name says it all.
 - Hope your birthday lives up to your excellent name.
 - Another year older, still living up to your name. Happy birthday!
@@ -113,6 +129,8 @@ Name puns play on the sound or meaning of a real first name — Jack, Grace, Wil
 
 ## Name Pickup Lines
 
+These pickup lines are flirty, clean, and ready to use.
+
 - Is your name Grace? Because you just fell straight into my heart.
 - Is your name Hope? Because you're all I've been thinking about.
 - I must not know your name yet, because I'm already smitten.
@@ -123,6 +141,8 @@ Name puns play on the sound or meaning of a real first name — Jack, Grace, Wil
 - Is your name Dawn? Because you just brightened my whole day.
 
 ## Name Jokes
+
+These jokes follow a classic setup-and-punchline format.
 
 - Q: Why did Jack bring a ladder to the party? A: He heard the drinks were on the house!
 - Q: What do you call Grace when she's late? A: Still graceful, just rushing!
