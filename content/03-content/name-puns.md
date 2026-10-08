@@ -7,7 +7,7 @@ meta_description: "Laugh with 200+ name puns: one-liners, Instagram captions, lo
 
 # 200+ Name Puns for Names That Get a Laugh
 
-Name puns play on the sound or meaning of a real first name — Jack, Grace, Will, Rose, Max — for quick wordplay built around that one specific name. Use them for personalized cards, nameplate captions, or any moment someone's name deserves its own one-liner.
+Name puns play on the sound or meaning of a real first name — Jack, Grace, Will, Rose, Max — for quick wordplay built around that one specific name. Use them for personalized cards, nameplate captions, or any moment someone's name deserves its own one-liner. Find name one-liners, short lines, funny and cute puns, Instagram captions, kids' jokes, love and birthday lines, pickup lines, and jokes below, plus how to use them, a quick FAQ, and more name puns.
 
 ## Name Pun One-Liners
 

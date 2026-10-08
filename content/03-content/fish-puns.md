@@ -7,7 +7,7 @@ meta_description: "Laugh with 200+ fish puns: one-liners, Instagram captions, lo
 
 # 200+ Fish Puns That Are O-fish-ally Funny
 
-Fish puns use fish's own vocabulary — scales, gills, fins, hooks, and the fact that a school is both a group of fish and a place you learn — for quick wordplay with a built-in twist. Use them for Instagram captions, aquarium visit posts, fishing-trip cards, or any moment a fish shows up and a laugh would land well.
+Fish puns use fish's own vocabulary — scales, gills, fins, hooks, and the fact that a school is both a group of fish and a place you learn — for quick wordplay with a built-in twist. Use them for Instagram captions, aquarium visit posts, fishing-trip cards, or any moment a fish shows up and a laugh would land well. Find fish one-liners, short lines, funny and cute puns, Instagram captions, kids' jokes, love and birthday lines, pickup lines, and jokes below, plus how to use them, a quick FAQ, and related puns.
 
 ## Fish Pun One-Liners
 

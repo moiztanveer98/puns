@@ -7,7 +7,7 @@ meta_description: "200+ Halloween puns: one-liners, Instagram captions, love and
 
 # 200+ Halloween Puns That Are Spook-tacular
 
-Halloween puns use pumpkins, costumes, candy, and spooky season staples for quick wordplay with a built-in twist. Use them for trick-or-treat captions, party invites, classroom worksheets, or any moment Halloween deserves its own one-liner.
+Halloween puns use pumpkins, costumes, candy, and spooky season staples for quick wordplay with a built-in twist. Use them for trick-or-treat captions, party invites, classroom worksheets, or any moment Halloween deserves its own one-liner. Find Halloween one-liners, short lines, funny and cute puns, Instagram captions, kids' jokes, love and birthday lines, pickup lines, and jokes below, plus how to use them, a quick FAQ, and more Halloween puns.
 
 ## Halloween Pun One-Liners
 

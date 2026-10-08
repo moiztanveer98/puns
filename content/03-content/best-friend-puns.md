@@ -7,7 +7,7 @@ meta_description: "200+ best friend puns: one-liners, Instagram captions, love a
 
 # 200+ Best Friend Puns for Your Pun Pal
 
-Best friend puns use squad energy, inside jokes, and ride-or-die loyalty for quick wordplay with a built-in twist. Use them for friendship-day captions, birthday cards for your bestie, or any moment your pun pal deserves their own one-liner.
+Best friend puns use squad energy, inside jokes, and ride-or-die loyalty for quick wordplay with a built-in twist. Use them for friendship-day captions, birthday cards for your bestie, or any moment your pun pal deserves their own one-liner. Find best friend one-liners, short lines, funny and cute puns, Instagram captions, kids' jokes, love and birthday lines, pickup lines, and jokes below, plus how to use them, a quick FAQ, and related puns.
 
 ## Best Friend Pun One-Liners
 

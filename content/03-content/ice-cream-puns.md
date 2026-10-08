@@ -7,7 +7,7 @@ meta_description: "200+ ice cream puns: one-liners, Instagram captions, love and
 
 # 200+ Ice Cream Puns That Are Sundae-licious
 
-Ice cream puns use scoops, cones, sprinkles, and melting moments for quick wordplay with a built-in twist. Use them for summer captions, dessert-shop signs, birthday cards, or any moment ice cream deserves its own one-liner.
+Ice cream puns use scoops, cones, sprinkles, and melting moments for quick wordplay with a built-in twist. Use them for summer captions, dessert-shop signs, birthday cards, or any moment ice cream deserves its own one-liner. Find ice cream one-liners, short lines, funny and cute puns, Instagram captions, kids' jokes, love and birthday lines, pickup lines, and jokes below, plus how to use them, a quick FAQ, and related puns.
 
 ## Ice Cream Pun One-Liners
 
