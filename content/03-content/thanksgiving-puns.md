@@ -153,6 +153,120 @@ These jokes follow a classic setup-and-punchline format.
 - Q: Why did the pie win an award? A: Outstanding crust and all!
 - Q: What's a turkey's favorite dance? A: The stuffin' shuffle!
 
+## More Thanksgiving Puns
+
+These extra lines round out the list with more gravy-licious wordplay.
+
+- Cranberry sauce from a can keeps its shape better than most New Year's resolutions.
+- Mashed potatoes without enough butter are just a cry for help.
+- Green bean casserole shows up once a year and somehow still gets seconds.
+- Pumpkin pie peaked the moment whipped cream got involved.
+- Black Friday starts the second the pie plates get cleared, apparently.
+- The parade on TV is just background noise for the real event in the kitchen.
+- Football after dinner is the nap everyone pretends they're watching.
+- Leftovers the next day taste better than the original meal, and everyone knows it.
+- A turkey coma hits exactly when the dishes need doing, conveniently.
+- The wishbone pull decides nothing but still gets taken very seriously.
+- A drumstick disappears before the rest of the turkey even gets served.
+- Giblets exist purely to make gravy taste like someone's grandmother made it.
+- Brining a turkey overnight is basically marinating patience itself.
+- The table setting always has one extra fork nobody can explain.
+- A cornucopia centerpiece looks impressive and gets completely ignored at dinner.
+- Hosting Thanksgiving means becoming a logistics expert for exactly one day.
+- A potluck dish labeled 'secret recipe' never actually stays secret past dessert.
+- The kids table always ends up louder than the adults', every single year.
+- Saying what you're thankful for around the table takes longer than the actual meal.
+- Autumn leaves outside set the mood the oven can't quite match indoors.
+- Apple cider simmering on the stove makes the whole house smell like the holiday.
+- Sweet potatoes with marshmallow topping settle the dessert-or-side debate permanently.
+- Dinner rolls disappear before anyone officially sits down to eat.
+- Pecan pie quietly outshines pumpkin pie every single year, and nobody admits it.
+- A turkey trot race the same morning is everyone's favorite pre-feast lie to themselves.
+- The tablecloth survives gravy spills better than any other fabric known to man.
+- Place cards at Thanksgiving dinner are the only diplomacy some families get.
+- Grace before the meal takes longer the hungrier everyone already is.
+- The carving knife gets sharpened once a year and somehow still struggles.
+- An oven timer going off mid-conversation changes the whole room's priorities instantly.
+- The doorbell on Thanksgiving means someone's arriving with the one dish everyone was waiting for.
+- A turkey baster left in the drawer all year finally gets its one moment to shine.
+- Mashed potato lumps spark more honest family feedback than anything else on the table.
+- A casserole dish passed around the table never quite makes it back to its owner.
+- Pumpkin pie spice took over an entire season and nobody's complained yet.
+- The turkey thermometer pop-up timer is weirdly the most trusted device in the kitchen.
+- A Friendsgiving guest list somehow always doubles the week before.
+- Cranberry relish homemade versus canned is a debate with no peaceful resolution.
+- The gravy boat runs dry exactly when the mashed potatoes need it most.
+- A turkey leftover sandwich the next day deserves its own holiday, honestly.
+- The centerpiece gourds get admired and then completely forgotten by dessert.
+- A Thanksgiving dinner seating chart requires more strategy than most actual negotiations.
+- The oven gets more action on Thanksgiving than the rest of the month combined.
+- A turkey too big for the oven is a crisis measured in inches and panic.
+- Stuffing made outside the turkey finally got the respect it always deserved.
+- The pie crust edge always burns slightly, and somehow it's still fine.
+- A second helping of everything is just Thanksgiving's unofficial dress code.
+- The gravy whisking arm workout counts as exercise, at least once a year.
+- A turkey carving demonstration always draws more attention than the actual game on TV.
+- Candied yams convinced an entire holiday that vegetables could also be dessert.
+- The Thanksgiving grocery list gets longer every single year, reliably.
+- A turkey brine bucket taking up the whole fridge is a seasonal sacrifice everyone accepts.
+- The dinner conversation always somehow circles back to how good the food smells.
+- A pie cooling on the windowsill is the most old-fashioned flex in the whole meal.
+- The turkey's wishbone gets fought over by people who don't even believe in wishes.
+- A Thanksgiving centerpiece with real pumpkins smells faintly of regret by day three.
+- The oven mitt search right before basting time is a yearly, frantic tradition.
+- A pie delivery to the wrong house has happened at least once in every neighborhood.
+- The turkey platter garnish gets admired for exactly one photo and never touched again.
+- A Thanksgiving playlist of mellow acoustic songs sets a tone nobody follows after dessert.
+- The gravy lumps get strained out by someone who takes the job far too seriously.
+- A turkey leg tug-of-war between siblings predates most family therapy sessions.
+- The centerpiece candles get blown out the moment anyone reaches for the rolls.
+- A Thanksgiving dinner running two hours late is basically tradition at this point.
+- The pie selection debate always ends with everyone just taking a slice of both.
+- A turkey carved too early loses all its juices and most of its dignity.
+- The leftovers container shortage every year is a genuinely predictable household crisis.
+- A Thanksgiving dinner toast always runs longer than anyone actually planned.
+- The stuffing recipe handed down for generations has never once been written down.
+- A turkey roasting smell drifting through the house starts the countdown to dinner.
+- The centerpiece turkey salt-and-pepper shakers come out exactly once a year, dutifully.
+- A Thanksgiving dinner dish count in the sink afterward requires its own moment of silence.
+- The gravy ladle gets passed around the table like a tiny ceremonial object.
+- A turkey platter big enough for the bird never quite fits the actual fridge.
+- The Thanksgiving morning kitchen chaos has its own unofficial choreography by now.
+- A pie slice cut unevenly always goes to whoever complains about it least.
+- The turkey pop-up timer going off too early has ruined at least one dinner, historically.
+- A Thanksgiving dessert table negotiation between pie flavors never truly ends in peace.
+- The oven door opening too often for 'just checking' lets out more heat than help.
+- A turkey carcass simmered into soup the next day is the holiday's quiet encore.
+- The centerpiece corn husk dolls have survived more Thanksgivings than most decorations.
+- A Thanksgiving dinner grace that runs long gets side-eyed by at least one hungry cousin.
+- The stuffing-versus-dressing naming debate depends entirely on which side of the family you ask.
+- A turkey basted every thirty minutes turns the cook into the oven's most devoted assistant.
+- The dinner rolls warming in foil keep disappearing before the table's even fully set.
+- A Thanksgiving leftovers sandwich stacked too high always collapses on the first bite.
+- The centerpiece's fall foliage arrangement gets more compliments than most of the cooking.
+- A turkey neck set aside for gravy flavor is the unsung hero nobody photographs.
+- The Thanksgiving table runner survives gravy, gratitude, and at least one spilled drink.
+- A pie server passed hand to hand always ends up slightly sticky by the end.
+- The turkey's golden skin gets more compliments before dinner than the actual meal does after.
+- A Thanksgiving host's secret weapon is always the dish nobody expected to be that good.
+- The centerpiece candle wax drip onto the tablecloth is an annual, forgivable tradition.
+- A turkey roasting pan cleanup the next morning is the holiday's true final boss.
+- The dinner's gravy train runs out exactly one plate before everyone's actually done.
+- A Thanksgiving dessert plate holding three kinds of pie is completely socially acceptable.
+- The turkey's resting time before carving tests patience more than anything else on the menu.
+- A Thanksgiving grocery run the day before turns the store into a full contact sport.
+- The centerpiece pumpkins get repurposed into pie filling by someone, somewhere, every year.
+- A turkey dinner seating arrangement negotiation rivals actual diplomatic summits.
+- The stuffing bowl scrape at the end of dinner always sounds louder than it should.
+- A Thanksgiving dish passed down three generations always tastes like more than food.
+- The turkey platter's parsley garnish gets eaten by exactly one brave guest, every year.
+- A Thanksgiving nap on the couch counts as dessert digestion, scientifically speaking.
+- The centerpiece gourds eventually make their way to the compost, mission quietly accomplished.
+- A turkey dinner cleanup crew forms spontaneously the second the last plate clears.
+- The Thanksgiving leftovers divide negotiation between relatives has no official rulebook either.
+- A pie fork left unattended near dessert is basically an open invitation.
+- The whole Thanksgiving table agreeing on one thing, that dinner was worth it, never once fails.
+
 ## How to Use Thanksgiving Puns
 
 Thanksgiving puns fit place cards, dinner-table games, Friendsgiving invites, and captions for every turkey, pie, and family-gathering photo of the season.

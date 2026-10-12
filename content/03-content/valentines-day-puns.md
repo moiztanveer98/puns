@@ -153,6 +153,120 @@ These jokes follow a classic setup-and-punchline format.
 - Q: Why did the box of chocolates win an award? A: Outstanding presentation, bow and all!
 - Q: What's cupid's favorite dance? A: The heart-throb shuffle!
 
+## More Valentine's Day Puns
+
+These extra lines round out the list with more heart-stopping wordplay.
+
+- Conversation hearts say more in four words than most actual conversations.
+- A dozen red roses still can't out-talk one good love letter.
+- Teddy bears given on Valentine's Day somehow outlive every relationship that gave them.
+- A heart-shaped box of chocolates always has one mystery flavor nobody claims.
+- Being someone's secret admirer requires surprisingly good handwriting.
+- A love note slipped into a locker is still undefeated as a grand gesture.
+- Matchmakers take credit for chemistry they definitely didn't invent.
+- A blind date survives entirely on low expectations and good lighting.
+- Love being in the air apparently also means it's in every store display by January.
+- Soulmates argue about dinner plans just like everyone else, allegedly.
+- A heart emoji sent too early in a text exchange changes everything, instantly.
+- A diamond ring hidden in dessert is a proposal with genuinely high stakes.
+- An anniversary forgotten by one partner becomes legend in that relationship forever.
+- Date night plans always sound more ambitious than the couch ends up being.
+- A flower delivery at the office turns an entire department into detectives.
+- Chocolate-covered strawberries make fruit feel like it's finally being taken seriously.
+- Champagne on Valentine's Day makes even a Tuesday feel like an occasion.
+- A slow dance in the kitchen beats most professionally planned dates.
+- A long-stemmed rose wilts slower than most New Year's resolutions, somehow.
+- Wearing your heart on your sleeve is a bold fashion choice, emotionally speaking.
+- Lovebirds at brunch make everyone else's solo pancake order feel louder.
+- Falling head over heels is just love's way of testing your balance.
+- Puppy love hits before anyone's old enough to know what hit them.
+- A Valentine's dance in middle school remains the most nervous anyone's ever been.
+- Speed dating is basically a job interview with worse small talk and better odds of chemistry.
+- Galentine's Day proved that love letters work just fine between best friends too.
+- Singles Awareness Day jokes get funnier every year they get repeated.
+- A love potion recipe always sounds easier than the actual relationship that follows.
+- Cupid's aim has started more awkward situations than actual romances, probably.
+- A heart-shaped balloon loses a little dignity every time it deflates slightly sideways.
+- A kiss under mistletoe is winter's job, but Valentine's Day still tries to compete.
+- A lipstick mark left on a card says more than the card itself.
+- Perfume picked specifically for someone is basically a love letter you can't read.
+- A jewelry box opened the wrong way around still gets the same excited gasp.
+- A love song dedicated on the radio embarrasses someone, somewhere, every single time.
+- A mixtape made for someone takes longer to perfect than most actual relationships.
+- Saying 'you had me at hello' still works, shockingly, decades later.
+- A proposal rehearsed too much always comes out sounding less natural than planned.
+- Wedding bells ringing after a Valentine's proposal make the whole holiday retroactively romantic.
+- A candy heart with a chipped message still somehow gets the point across.
+- A bouquet picked out last-minute at the gas station carries surprising emotional weight.
+- A Valentine's Day card picked for the joke always wins over the sincere one.
+- A love letter written by hand beats any text, purely on effort alone.
+- A first date that runs long is the best kind of red flag to ignore.
+- A couple's matching Valentine's outfits are a bold, unified fashion statement.
+- A love song played on repeat says more about the mood than the lyrics do.
+- A Valentine's gift that's clearly re-gifted gets noticed faster than anyone admits.
+- A candlelit dinner with a power outage becomes the story told for years.
+- A crush confessed through a friend is still, somehow, the move for some people.
+- A love letter sealed with wax feels fancier than anything sent digitally ever could.
+- A Valentine's Day engagement ring box opened in public turns strangers into an audience.
+- A rose given with thorns still intact teaches a small, immediate lesson.
+- A long-distance Valentine's Day survives entirely on video calls and shipped chocolate.
+- A couple's inside joke outlives every actual Valentine's gift they've exchanged.
+- A love letter written in a rush always has the best, most honest lines.
+- A Valentine's Day breakup story becomes the one everyone remembers at reunions.
+- A first 'I love you' said too early changes the whole relationship's timeline forever.
+- A candy box heart shape gets reused as storage long after the chocolate's gone.
+- A Valentine's Day surprise planned too far in advance always has one hiccup.
+- A love letter found years later hits differently than it did the first time.
+- A couple's anniversary dinner reservation gets booked earlier every single year.
+- A Valentine's Day gift of socks somehow still gets genuine enthusiasm, occasionally.
+- A rose quartz bracelet gifted 'for luck' is really just romance in disguise.
+- A couple's Valentine's Day tradition started as a joke and became sacred.
+- A love letter's postscript often says more than the actual letter did.
+- A Valentine's Day dinner reservation at five is still a reservation, and that's fine.
+- A couple who argues about the best Valentine's movie never actually agrees.
+- A rose left on a doorstep anonymously raises more questions than it answers.
+- A Valentine's Day card signed only with initials keeps the mystery going longer.
+- A couple's matching tattoos get the Valentine's Day origin story every single time.
+- A love letter mailed instead of texted arrives like a tiny time capsule.
+- A Valentine's Day candlelit bath gets interrupted by at least one phone notification.
+- A couple's first dance song gets requested at every anniversary party since.
+- A rose bouquet wrapped in brown paper feels more personal than one from a shop display.
+- A Valentine's Day surprise party for a couple always risks ruining the actual surprise.
+- A love note tucked into a lunchbox turns an ordinary Tuesday into something sweeter.
+- A couple's Valentine's Day budget negotiation happens quietly every single year.
+- A rose pressed into a book outlives the relationship it was picked for, sometimes.
+- A Valentine's Day gift returned quietly is a story nobody tells at the dinner table.
+- A couple's shared playlist says more about their relationship than any card could.
+- A love letter's handwriting gets judged almost as much as its actual content.
+- A Valentine's Day dinner at home beats a reservation nobody could get, every time.
+- A couple's pet name for each other started as a joke neither remembers clearly.
+- A rose given on the first date sets expectations the second date has to meet.
+- A Valentine's Day gift wrapped badly still counts, as long as the thought's there.
+- A couple's anniversary trip gets planned around whichever year feels the roundest.
+- A love letter signed 'yours always' ages into either sweet or slightly haunting, depending.
+- A Valentine's Day proposal filmed secretly always has at least one shaky camera moment.
+- A couple's favorite restaurant gets fully booked the second Valentine's Day approaches.
+- A rose that survives past its first week earns a permanent spot on the windowsill.
+- A Valentine's Day card picked out together defeats the whole purpose, charmingly.
+- A couple's long engagement gets asked about at every single family gathering.
+- A love letter never sent still somehow says everything it needed to.
+- A Valentine's Day gift exchange between friends feels more honest than any romantic one.
+- A couple's first kiss story gets slightly more dramatic with every retelling.
+- A rose corsage pinned wrong still gets worn proudly for the whole night.
+- A Valentine's Day dinner cooked together ends messier and sweeter than one eaten out.
+- A couple's shared umbrella on a rainy Valentine's Day becomes the whole romantic plot.
+- A love letter tucked under a windshield wiper turns a parking lot into a scene.
+- A Valentine's Day dessert shared with two spoons settles more arguments than words ever could.
+- A couple's matching Valentine's socks are the quiet, comfortable version of romance.
+- A rose garden walk on Valentine's Day beats a crowded restaurant every single time.
+- A love letter's last line always takes the longest to write, somehow.
+- A Valentine's Day surprise breakfast in bed gets crumbs everywhere and nobody minds.
+- A couple's anniversary countdown app notification always catches someone off guard.
+- A rose bouquet that outlasts the relationship becomes a surprisingly funny story later.
+- A Valentine's Day slow song at a wedding reception gets at least three couples crying.
+- A love letter's envelope sealed with a sticker instead of wax still counts fully.
+- A Valentine's Day spent simply together beats any grand gesture, every single year.
+
 ## How to Use Valentine's Day Puns
 
 Valentine's Day puns fit card messages, date-night captions, classroom valentine exchanges, and any photo from a candlelit dinner or flower delivery that deserves its own line.
