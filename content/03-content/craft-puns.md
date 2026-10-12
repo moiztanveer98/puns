@@ -153,6 +153,120 @@ These jokes follow a classic setup-and-punchline format.
 - Q: Why did the craft table win an award? A: Outstanding presentation, mess and all!
 - Q: What's glitter's favorite dance? A: The shimmy and shine!
 
+## More Craft Puns
+
+These extra lines round out the list with more sew-worthy wordplay.
+
+- Crochet hooks disappear into couch cushions like they're training for hide and seek.
+- My embroidery hoop holds more unfinished promises than actual thread.
+- Origami folds patience into every single crease.
+- Pottery wheels turn clay into chaos before they turn it into anything else.
+- My woodworking plans are always more ambitious than my actual sawdust tolerance.
+- A bead organizer is just a tiny kingdom of inevitable spills.
+- Washi tape solves problems that duct tape was never invited to.
+- Mod Podge fixes more craft disasters than it probably should be allowed to.
+- My knitting needles click louder than my actual progress suggests.
+- Quilting one square at a time is basically patience with a deadline.
+- Calligraphy makes even a grocery list look like a love letter.
+- Macrame turns rope into something nobody saw coming.
+- Resin art traps glitter in time, permanently and unapologetically.
+- Polymer clay bakes faster than my patience for waiting on it.
+- Cross-stitch turns swearing into a surprisingly wholesome hobby.
+- My DIY project estimate is always off by at least one trip to the store.
+- A Cricut machine cuts vinyl and also my confidence in equal measure.
+- Glue sticks disappear at the exact moment a deadline appears.
+- Pom-poms multiply in craft bins like they have their own agenda.
+- Ribbon spools unravel the second nobody is watching closely enough.
+- Pipe cleaners bend to every idea except the one you actually had.
+- A stencil only works perfectly on the one project you don't need it for.
+- Acrylic paint dries the instant you decide you need five more minutes.
+- My button jar has more personality than most of my finished projects.
+- Fabric scraps pile up like they're building their own small civilization.
+- A spool of thread always runs out mid-stitch, every single time.
+- Bobbins tangle themselves purely out of spite, I'm convinced.
+- A loom turns patience into something you can actually wear.
+- Tassels add drama to a project that definitely didn't ask for any.
+- A craft pattern's instructions are suggestions, apparently, strictly suggestions.
+- My craft template collection outnumbers my finished templates ten to one.
+- The craft room floor doubles as emergency storage, permanently.
+- A hobby-store run for 'one thing' never once stayed that way.
+- A Pinterest fail is just a craft project with extra personality.
+- A hot glue burn is basically a craft hobby's rite of passage.
+- Calling myself crafty is generous, but I stand by it anyway.
+- Handmade gifts take longer, but the guilt savings are immeasurable.
+- Upcycling an old jar makes it feel like a whole new personality.
+- My craft supply budget and my craft supply reality rarely agree.
+- A glue gun trigger finger is a very specific kind of craft injury.
+- My felt scraps are too small to use and too many to throw away.
+- A craft fair booth setup takes longer than the actual selling.
+- My embroidery floss drawer is a rainbow with zero organization.
+- A sewing pattern pinned just right feels like a tiny personal victory.
+- My craft table has officially given up pretending to be a dining table.
+- A glitter spill follows you home long after the project is finished.
+- My yarn tension issues are really just a metaphor for everything else.
+- A craft project deadline always gets closer faster than the project does.
+- My scrapbook pages are 90 percent photos and 10 percent actual decoration.
+- A quilting square cut wrong throws off the whole pattern, instantly.
+- My craft scissors have a strict no-paper-only policy that nobody follows.
+- A macrame plant hanger holds more than plants, it holds real ambition.
+- My washi tape collection is bigger than most of my finished projects.
+- A craft kit's 'easy' label is doing a lot of unearned heavy lifting.
+- My polymer clay jewelry always bakes slightly crooked, charmingly so.
+- A calligraphy pen makes even bad handwriting look intentional.
+- My craft bin lids never close the same way they opened.
+- A resin mold bubble ruins the one piece you actually wanted to keep.
+- My felt stitching skills peaked somewhere around year two of trying.
+- A craft project shared with a kid takes twice as long and means twice as much.
+- My bead bracelet count has officially outpaced my wrist count.
+- A Cricut design file glitch is the modern crafter's final boss.
+- My craft room cleanup always reveals three abandoned projects.
+- A knitting dropped stitch is a tiny crisis with an easy fix, eventually.
+- My crochet granny square count says more about my commitment than my patience.
+- A woodworking splinter is basically a tiny badge of honor.
+- My craft table glue puddle has its own permanent zip code.
+- A paper quilling project takes forever and somehow still feels relaxing.
+- My craft supply swap with a friend always favors whoever brought snacks.
+- A pottery glaze reveal is the craft world's version of a plot twist.
+- My craft stash 'inventory system' is really just a series of hopeful bins.
+- A hand-sewn hem looks fine until someone gets close enough to check.
+- My craft Pinterest board has become a museum of things I'll never make.
+- A string art project turns one board and a lot of nails into actual art.
+- My craft glue gun temperature setting has exactly one speed: regret.
+- A quilling tool makes tiny paper coils feel like a legitimate skill.
+- My craft room smells permanently like hot glue and good intentions.
+- A hand-lettered sign always looks better in photos than it did in person.
+- My craft supply closet reorganization lasts exactly until the next project.
+- A beading needle is tiny, sharp, and somehow always finds a finger.
+- My embroidery backstitch is the only stitch I've fully committed to learning.
+- A craft fair purchase always costs more than the actual materials would have.
+- My scrapbook corner stickers are doing more work than the actual photos.
+- A felt ornament craft night always ends with glitter in places it shouldn't be.
+- My craft project 'quick fix' always takes longer than starting over.
+- A yarn skein unraveling mid-project is a very specific kind of panic.
+- My craft drawer label system worked great for about a week.
+- A paint palette left uncovered overnight teaches a hard lesson by morning.
+- My craft room playlist is the only consistent part of the whole process.
+- A sewing machine bobbin jam always happens at the worst possible stitch.
+- My craft supply haul from the clearance aisle never disappoints.
+- A handmade card takes an hour and gets read in about four seconds, happily.
+- My craft glue stick cap situation is a mystery I've never solved.
+- A knitting pattern repeat row is where most of my attention quietly leaves.
+- My craft bin organization peaked the day I bought the bins.
+- A macrame knot tutorial video always moves faster than my actual hands.
+- My craft table corner has slowly taken over the entire room.
+- A fabric remnant bin is where good intentions go to multiply.
+- My craft project photo never quite matches the Pinterest inspiration, ever.
+- A glue gun glob is basically modern art if you squint hard enough.
+- My craft hobby budget has its own secret line item by now.
+- A hand-painted ornament always looks better hanging than it did drying.
+- My craft room 'organization day' always ends in a bigger mess than before.
+- A crochet amigurumi project takes patience and roughly forty video tutorials.
+- My craft stash donation pile somehow grows every time I try to shrink it.
+- A handmade wreath takes all afternoon and gets complimented for a whole season.
+- My craft project 'almost done' has meant three different things this week alone.
+- A good craft night with friends turns glue, glitter, and chaos into a memory.
+- My craft supply list for 'one simple project' always reads like a shopping spree.
+
 ## How to Use Craft Puns
 
 Craft puns fit maker captions, craft-fair booth signs, birthday cards for crafty friends, and classroom worksheets for an art unit — anywhere a project comes together and a quick line would land well. Fittingly, "Crafty Puns" is itself a pun worth smiling at.

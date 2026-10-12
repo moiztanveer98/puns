@@ -153,6 +153,119 @@ These jokes follow a classic setup-and-punchline format.
 - Q: Why did the friendship win an award? A: Outstanding support, through and through!
 - Q: What's a bestie's favorite dance? A: Whatever one makes the other laugh!
 
+## More Best Friend Puns
+
+These extra lines round out the list with more squad-approved wordplay.
+
+- My best friend isn't just my plus-one, she's my plus-everything.
+- We're not a squad, we're a conspiracy with better snacks.
+- My best friend is my built-in alibi, no questions asked.
+- We finish each other's sentences because neither of us ever finishes a thought alone.
+- A best friend is the one person who reads your texts in your exact tone of voice.
+- My bestie and I share one brain cell, and today it's her turn.
+- My best friend's number one skill is making bad decisions sound like great ideas.
+- We didn't plan matching outfits, we just think alike, apparently.
+- My best friend is proof that soulmates don't have to be romantic to be real.
+- A group chat with your best friend is 90 percent memes and 10 percent actual plans.
+- We've been best friends so long we've started finishing each other's naps.
+- My bestie's hype-woman skills should come with a certification.
+- My best friend and I have a secret language made entirely of eyebrow raises.
+- Day-one friends don't need an explanation, just an inside joke.
+- My best friend's couch has basically adopted me at this point.
+- We're not twins, we just happened to text the same thing at the same time, again.
+- My best friend's advice is 50 percent wisdom, 50 percent 'do it anyway.'
+- My bestie and I have matching emotional-support snacks.
+- Friendship goals: someone who laughs at your joke before you finish telling it.
+- My best friend is the human version of a security blanket.
+- We've survived more inside jokes than actual outside crises.
+- My best friend's honesty policy has zero exceptions and even fewer apologies.
+- A best friend's silence in the group chat is somehow still a full conversation.
+- My bestie is the built-in therapist I never had to pay a copay for.
+- We've been through everything together, mostly snacks and minor emergencies.
+- My best friend's opinion is the only second opinion I actually trust.
+- Best friends don't judge your 3 a.m. texts, they just reply with more questions.
+- A friendship bracelet is basically a tiny trophy for showing up.
+- We've survived every trend, diet, and haircut phase together, mostly unscathed.
+- My best friend's calendar has a permanent slot labeled 'emergency snacks.'
+- Best friends are the only people who can read 'k.' and know exactly what it means.
+- My bestie's playlist knows my mood before I even admit I'm in one.
+- We've never once needed a reason to go get fries, only each other.
+- My best friend's loyalty comes with zero terms and conditions.
+- A best friend's group selfie face is always 10 percent more enthusiastic than reality.
+- My bestie keeps every secret except the embarrassing ones, which she tells everyone, lovingly.
+- Best friends split the bill and the blame equally.
+- We've got matching chaos energy and a shared group chat to prove it.
+- My bestie's 'we need to talk' is usually about brunch plans, thankfully.
+- Best friends are the family you accidentally picked really, really well.
+- My best friend's advice column would just say 'yes, do the thing' every time.
+- We've never needed a reason to dance in the kitchen, only a song.
+- Best friends remember your birthday and somehow still forget their own passwords.
+- My best friend's hugs come with a side of unsolicited life advice.
+- We've survived every bad haircut decision because someone always says 'cute.'
+- My bestie's taste in snacks is questionable, but her loyalty never is.
+- Best friends don't need plans, just a couch and zero shame.
+- My best friend's laugh is the loudest thing in every room, including mine.
+- We've got a friendship older than most of our houseplants, and it's thriving more.
+- Best friends know exactly when to send memes instead of advice.
+- My best friend's closet is basically my second wardrobe at this point.
+- We've never once needed a filter, just good lighting and each other.
+- My bestie's opinions are strong, loud, and somehow always right.
+- Best friends are the only ones allowed to roast you and hug you in the same sentence.
+- My best friend's group chat energy could power a small city.
+- We've survived every diet trend by agreeing to just order pizza instead.
+- Best friends don't do small talk, they do all talk, all the time.
+- My best friend's memory for my embarrassing moments is unfortunately excellent.
+- We've got a friendship with zero expiration date and infinite snack breaks.
+- Best friends know your coffee order, your ex's name, and your worst dance move.
+- My best friend's loyalty shows up before I even have to ask.
+- We've turned 'just checking in' into a full-time friendship job.
+- My bestie's playlist has somehow become my whole personality.
+- Best friends don't need a reason to laugh, just a shared glance across the room.
+- My best friend's advice always starts with 'okay, hear me out' and rarely ends well.
+- We've survived every group project because one of us actually did the work.
+- My bestie's 'I have an idea' is both the best and worst four words I know.
+- Best friends remember the little things, like how you take your heartbreak.
+- My best friend's group chat replies are faster than my own thoughts.
+- We've never needed a special occasion to order dessert first.
+- My bestie's pep talks should come with their own theme music.
+- Best friends show up in sweatpants and somehow still make it a whole event.
+- We've survived more errand runs than actual emergencies, somehow.
+- My bestie's 'text me when you're home' is the most loving threat I know.
+- Best friends don't keep score, except for who owes who fries.
+- We've got a friendship built on snacks, secrets, and zero judgment.
+- My bestie's group chat nickname for me says more than any therapist could.
+- Best friends remember your worst breakup and still let you date again.
+- My best friend's advice is unqualified but somehow always exactly right.
+- We've turned 'road trip' into just driving to get snacks, repeatedly.
+- My bestie's energy during karaoke night should be studied by scientists.
+- Best friends don't need matching outfits, just matching chaos.
+- My best friend's late-night texts always start with 'are you up' and end in plans.
+- We've got a bond stronger than our group chat's unread-message count.
+- My bestie's 'I told you so' is somehow always said with love.
+- Best friends know when to send a meme instead of a pep talk.
+- My best friend's loyalty has survived every bad date I've ever had.
+- We've never once needed a reason to celebrate, just each other and some cake.
+- My bestie's honesty policy comes with free emotional-support snacks.
+- My best friend's group chat energy never clocks out, not even at midnight.
+- We've survived every trend, breakup, and bad haircut, mostly thanks to each other.
+- My bestie's hugs fix more problems than they probably should.
+- Best friends are the ones who show up with snacks before you even ask.
+- My best friend and I might argue about everything, but never about getting fries.
+- A best friend's 'one more episode' has never once meant one episode.
+- My bestie's handwriting on a card means more than any store-bought one.
+- Best friends share playlists the way other people share secrets.
+- My best friend's car is basically a second living room by now.
+- We've turned 'borrowing' clothes into a permanent joint custody agreement.
+- My bestie's opinion on my outfit carries more weight than any mirror.
+- Best friends remember the punchline even when you forget the setup.
+- My best friend's silence during a crisis says more than any speech could.
+- We've survived enough road trips to know exactly whose turn it is to pick the music.
+- My bestie's group chat typing bubble is more suspenseful than most movies.
+- Best friends split dessert and somehow still both feel like they won.
+- My best friend's 'you good?' text always arrives at exactly the right moment.
+- We've got a friendship that survives bad wifi, bad moods, and worse decisions.
+- My bestie's laugh at 2 a.m. is still louder than my alarm the next morning.
+
 ## How to Use Best Friend Puns
 
 Best friend puns fit Friendship Day captions, birthday cards for your bestie, matching t-shirt slogans, and any photo from a friend hangout that deserves its own line.

@@ -153,6 +153,120 @@ These jokes follow a classic setup-and-punchline format.
 - Q: Why did the ice cream truck win an award? A: Outstanding jingle!
 - Q: What's a sundae's favorite dance? A: The soft shuffle-serve!
 
+## More Ice Cream Puns
+
+These extra lines round out the list with more sundae-licious wordplay.
+
+- Waffle cones exist purely to make dessert feel like an event.
+- Gelato is just ice cream with a passport and better posture.
+- Sorbet pretends to be healthy, and somehow everyone just allows it.
+- A popsicle melting on a hot sidewalk is summer's cruelest plot twist.
+- Milkshakes bring more people to conversations than coffee ever has.
+- A banana split is dessert's way of refusing to commit to one flavor.
+- A root beer float is basically dessert and a drink negotiating a truce.
+- Rocky road ice cream has more personality than most actual roads.
+- Mint chip is the flavor that divides dinner tables the most reliably.
+- Cookie dough ice cream is just raw dessert cosplaying as a topping.
+- Neapolitan ice cream is three desserts refusing to pick a side.
+- An ice cream sandwich solves the cone-versus-bowl debate entirely.
+- The ice cream truck's jingle has legally defined summer for decades.
+- An ice cream social is just a party that decided dessert should headline.
+- The ice cream parlor menu board always has one flavor nobody's tried.
+- A scoop shop line on a hot day tests patience more than any gym class.
+- Flavor of the month is dessert's version of a limited-time personality.
+- A double dip at the ice cream counter is a bold, unapologetic move.
+- Brain freeze is the price of admission for eating ice cream too fast, always.
+- The ice cream churn turns cream and patience into something worth the wait.
+- Vanilla gets called boring by people who've clearly never had good vanilla.
+- Chocolate ice cream never has to explain itself to anyone.
+- Fro-yo convinced an entire generation that frozen yogurt counts as a treat.
+- Nice cream is just a banana pretending it's dessert, and honestly, it works.
+- An ice cream cake makes every birthday instantly more negotiable.
+- Stacking a cone too high is ambition that gravity always eventually punishes.
+- The ice cream van's music range has exactly one song, and it's iconic anyway.
+- The cherry on top gets all the credit for a sundae it barely contributed to.
+- A soft-serve machine jamming mid-swirl is a small, personal tragedy.
+- Churned ice cream tastes better than anything that skipped the wait.
+- Creamy texture is the only review that actually matters for a new flavor.
+- Hearing someone yell for ice cream still works on every single generation.
+- A sundae bar at a party turns dessert into a full-contact sport.
+- Hot fudge dripping down a sundae is basically dessert's version of lava.
+- An ice cream scoop that won't release the scoop is a test of true patience.
+- A cone's crunch is the only sound effect dessert has ever needed.
+- An ice cream flavor named after a dessert is just dessert inception.
+- A pint left out too long becomes soup, and soup is not the goal.
+- An ice cream topping bar always has one jar nobody fully understands.
+- The scoop shop's free sample spoon is the tiniest, most powerful tool in dessert.
+- A milkshake straw that's too thin ruins the whole experience, instantly.
+- An ice cream float fizzing over the glass is dessert's version of a plot twist.
+- A waffle cone cracking mid-lick is a crisis only napkins can solve.
+- An ice cream truck parked outside school hits different than any bell ever could.
+- A scoop of ice cream on a warm pie turns dessert into a full event.
+- The ice cream aisle freezer fog is basically a tiny dramatic entrance every time.
+- A sundae with too many toppings stops being ice cream and starts being a dare.
+- An ice cream headache hits exactly when you refuse to slow down, every time.
+- A flavor swap at the counter always happens right as your order gets called.
+- The ice cream scoop's perfect ball shape is a skill nobody appreciates enough.
+- A soft-serve swirl peak is architecture nobody will ever properly credit.
+- An ice cream sandwich wrapper always sticks to the cookie no matter what.
+- A pint shared between two people is really just a polite suggestion.
+- The ice cream truck jingle fading down the street is a very specific kind of sadness.
+- A milkshake thickness debate has ended more than one friendly dinner.
+- An ice cream cone dripped onto a shoe ruins the whole outing, instantly.
+- A churned batch of homemade ice cream tastes like bragging rights.
+- The scoop shop's loyalty punch card is basically a treasure map to a free cone.
+- An ice cream float's foam cap disappears the second you look away.
+- A flavor combo that shouldn't work somehow always becomes the new favorite.
+- The ice cream truck's menu board photos never match what actually gets handed over.
+- A melting scoop racing down the cone is a competition nobody wins gracefully.
+- An ice cream cake's writing in frosting always runs out of room at the end.
+- A sundae's whipped cream peak collapses the second a spoon gets near it.
+- The ice cream parlor's waffle bowl option quietly outclasses every regular cone.
+- A pint of ice cream in the freezer door never survives past one weekend.
+- An ice cream social's real competition is who brought the best toppings.
+- A scoop shop's seasonal flavor announcement gets more excitement than most holidays.
+- The soft-serve twist pattern is dessert's one truly reliable form of art.
+- An ice cream truck's bell ring still works faster than any group text.
+- A banana split's three scoops never get equal attention, and bananas know it.
+- The freezer burn warning sign on old ice cream is dessert's saddest plot twist.
+- A cone stacked two scoops high is optimism in physical form.
+- An ice cream flavor taste test at the store always turns into a full debate.
+- A root beer float's fizz settling down is the quiet calm before the best part.
+- The scoop shop's extra sprinkles upcharge has started real arguments.
+- An ice cream sandwich eaten sideways is a controversial but valid life choice.
+- A melting popsicle stick left bare is summer's tiniest trophy.
+- The ice cream truck driver's patience with excited kids deserves actual applause.
+- A sundae built for sharing rarely survives the walk back to the table.
+- An ice cream flavor named after a holiday shows up exactly once a year, dramatically.
+- The scoop shop's waffle cone smell alone should be bottled and sold separately.
+- A pint with a spoon already in the freezer is a very specific kind of honesty.
+- An ice cream truck route is basically a neighborhood's unofficial clock.
+- A flavor mashup gone wrong still somehow gets finished, out of loyalty.
+- The soft-serve cone's perfect swirl height is a skill passed down like a family recipe.
+- An ice cream sundae's nuts topping always divides the table, instantly.
+- A scoop that falls off the cone is a tragedy measured in seconds of silence.
+- The ice cream aisle's limited-edition flavor disappears faster than it arrived.
+- A milkshake blended too thin loses all its credibility immediately.
+- An ice cream float's straw-versus-spoon debate has no correct answer, only loyalty.
+- The scoop shop's birthday freebie policy turns one day into a whole event.
+- A cone held too long in the sun becomes a small, sticky emergency.
+- An ice cream truck jingle stuck in your head outlasts the actual ice cream.
+- A sundae's banana slice placement is more strategic than it has any right to be.
+- The soft-serve machine's 'out of order' sign is basically a tiny tragedy announcement.
+- An ice cream flavor taste-off at a party always ends in a tie, diplomatically.
+- A pint shared on the couch after a long day fixes more than it should.
+- The scoop shop's hand-painted sign has aged better than most actual buildings.
+- An ice cream cone's drip guard trick only works for the first three licks.
+- A banana split menu photo always looks more ambitious than the real thing.
+- The ice cream truck's seasonal menu swap gets debated like a major policy change.
+- A sundae topped with cookie crumbles turns dessert into a full texture experience.
+- An ice cream scooper left out of the freezer refuses to cooperate, every time.
+- The scoop shop's free water cup policy is the real unsung hero of hot days.
+- A melting cone handed to a toddler is a calculated risk every parent takes anyway.
+- An ice cream flavor combo invented on the spot becomes a permanent order within a week.
+- The soft-serve swirl's final flick of the wrist separates amateurs from professionals.
+- A sundae shared at the end of a long day is basically dessert doing its best work.
+
 ## How to Use Ice Cream Puns
 
 Ice cream puns fit summer captions, dessert-shop chalkboards, birthday cards for ice cream lovers, and classroom jokes for a weather or seasons unit — anywhere a scoop shows up and a quick line would land well.

@@ -153,6 +153,120 @@ These jokes follow a classic setup-and-punchline format.
 - Q: Why did Dawn start a bakery? A: She liked getting up early for fresh bread!
 - Q: What do you call Jay at a bird-watching club? A: The guest of honor!
 
+## Extra Name Puns
+
+These extra lines round out the list with more name-built wordplay.
+
+- Lily blooms into every room she walks into, pun fully intended.
+- Ruby's sparkle shows up before she even says a word.
+- Jade's cool composure never once cracks under pressure.
+- Sage gives advice like it's literally her job, because apparently it is.
+- Crystal's clarity makes every conversation feel a little clearer too.
+- Harmony somehow keeps every group chat from falling apart.
+- Journey never takes the short way, and nobody minds.
+- Destiny shows up fashionably late, exactly as planned.
+- Melody hums through every room before she even realizes it.
+- Trinity's threefold energy covers everyone else's missing enthusiasm.
+- Paige always turns the next chapter before anyone else finishes reading.
+- Brooke never stops moving, true to her name.
+- River goes with the flow until it's absolutely necessary not to.
+- Sky sets the bar impossibly high, and somehow clears it anyway.
+- Phoenix rises from every bad week looking suspiciously refreshed.
+- Violet's favorite color question gets asked more than anyone else's.
+- Ivy somehow ends up in every group photo, climbing right in.
+- Hazel's eyes get more compliments than her actual name does.
+- Blake's name rhymes with 'cake,' and he's used that fact shamelessly.
+- Chase never actually runs anywhere, ironically.
+- Zane's name sounds cooler than anything he's actually done, allegedly.
+- Leo roars into every room like he already owns it.
+- Felix's name means lucky, and his group chat luck proves it daily.
+- Olive branches out into every new hobby without hesitation.
+- Daisy pushes up everyone's mood, not just actual daisies.
+- Summer peaked early and never let anyone forget it.
+- Winter's name gets colder jokes every single December, reliably.
+- Angel's halo slips exactly as often as everyone else's does.
+- Joy shows up uninvited to every bad mood and wins anyway.
+- Patience is the one name that gets tested the most, constantly.
+- Charity gives more than she takes, true to her name every time.
+- Mercy shows up right when an argument needs it most.
+- Gale blows through every room like she's late for something important.
+- Storm's entrance always feels a little more dramatic than planned.
+- Stone never cracks under pressure, name checks out completely.
+- Clay reshapes his plans more often than anyone else in the group.
+- Forrest somehow gets lost on purpose, just to see the scenery.
+- Wade never rushes into anything, true to his cautious name.
+- Reed bends but never quite breaks, which is honestly impressive.
+- Heath keeps everyone grounded, pun absolutely intended.
+- Glen's low-key energy keeps the whole group chat calm.
+- Dale rolls through every valley of drama completely unbothered.
+- Ford drives every plan forward whether anyone's ready or not.
+- Carter's name carries more weight than he lets on.
+- Mason builds every friendship like it's meant to last decades.
+- Cooper's energy runs circles around everyone else in the room.
+- Hunter somehow always finds the best snacks first, every time.
+- Archer never misses the point, even when everyone else does.
+- Fisher reels in compliments the way others reel in actual fish.
+- Gunner's name alone makes every group project feel competitive.
+- Ranger leads every trip like he's already scouted it twice.
+- Knox never lets a locked plan stay closed for long.
+- Reign takes over every room without even trying.
+- Royal acts exactly like his name suggests, crown or no crown.
+- Legend lives up to the hype at literally every family reunion.
+- Maverick does his own thing, and somehow it always works out.
+- Justice settles every group chat argument faster than anyone expects.
+- A Grant always seems to arrive right when you need one most.
+- A Frank never sugarcoats anything, true to his name every single time.
+- A Barry somehow ends up the loudest voice in every small room.
+- A Lance always jumps straight to the point, no warm-up needed.
+- A Victor wins the argument before anyone else finishes their sentence.
+- A Victoria rules the group chat with surprising, gentle authority.
+- A Brandy gets carded more than anyone with an actual drink order.
+- A Candy gets called sweet before she's said a single word.
+- A Noble lives up to the name without ever asking for credit.
+- A King gets teased about the crown at every single birthday.
+- A Duke somehow outranks everyone at the family dinner table, informally.
+- A Mark leaves one on every project he touches, pun intended.
+- An Earl never quite explains why his name sounds like a title.
+- A Constance never once changes her mind, true to form.
+- A Prudence thinks twice about everything, exactly as advertised.
+- A Blessing shows up right when the day needs one most.
+- A Journey's whole personality is refusing to take the direct route.
+- A Phoenix's comeback story gets told at every single gathering.
+- A Sky's mood changes faster than anyone can keep up with.
+- A River's calm only lasts until the next group chat drama.
+- A Violet blends into every room while somehow still standing out.
+- A Hazel's eye-color compliments have officially outnumbered her actual name jokes.
+- A Blake's cake joke gets retired and revived every single birthday.
+- A Chase gets asked if he's ever actually been chased, constantly.
+- A Zane's cool-sounding name rarely matches his actual chaos energy.
+- A Leo's birthday month gets brought up before his actual personality does.
+- A Felix's lucky streak at board games has become a running joke.
+- An Olive's name pun potential at every salad bar is fully unavoidable.
+- A Daisy's flower crown phase never really ended, and nobody's mad.
+- A Summer's birthday in December confuses everyone, every single year.
+- A Winter's birthday in July confuses everyone just as reliably.
+- An Angel's patience wears thinner than her halo jokes suggest.
+- A Joy's bad mood is rare enough to count as breaking news.
+- A Patience's name gets ironic the moment she's stuck in traffic.
+- A Charity's generosity somehow extends to covering everyone's coffee order.
+- A Mercy's forgiveness runs out slightly faster than her name implies.
+- A Gale's energy clears a room faster than any actual storm could.
+- A Stone's poker face has never once given anything away.
+- A Clay's flexibility in plans makes him the easiest friend to travel with.
+- A Forrest's sense of direction is somehow worse than his name suggests.
+- A Wade's caution has saved the group from at least one bad decision.
+- A Reed's quiet strength shows up exactly when the group needs it.
+- A Heath's grounded energy balances out everyone else's chaos.
+- A Dale's calm takes over the room the second he walks in.
+- A Carter's name has started more 'what does that even mean' conversations than most.
+- A Mason's patience for building things extends to patience for people, too.
+- A Cooper's energy never once matches his actual nap schedule.
+- A Hunter's competitive streak shows up even during board games.
+- An Archer's focus under pressure makes him the group's go-to for deadlines.
+- A Fisher's patience for waiting rivals his patience for actual fishing.
+- A Gunner's name has made every group project sound more dramatic than it is.
+- A Knox's stubbornness has never once budged, locked in from day one.
+
 ## How to Use Name Puns
 
 Name puns fit personalized birthday cards, nameplate or desk captions, classroom name-tag activities, and the Pun Generator's custom-word mode — type in any name to generate a pun built just for it.
