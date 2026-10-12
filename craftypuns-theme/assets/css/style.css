@@ -5,3 +5,6 @@
 .pun-copy-btn:hover{background:#fde68a;color:#78350f}
 .pun-copy-btn.is-copied{background:#15803d;border-color:#15803d;color:#fff}
 @media (max-width:640px){.pun-line{padding-right:0}.pun-copy-btn{position:static;display:inline-block;margin-top:.35rem}}
+
+/* Header logo sizing */
+.custom-logo-link img.custom-logo{max-height:48px;width:auto;height:auto}
