@@ -25,7 +25,7 @@ get_header();
 		<h2 class="text-2xl font-bold"><?php esc_html_e( 'Browse Puns by Topic', 'craftypuns' ); ?></h2>
 		<div class="mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
 			<?php
-			$hubs = get_categories( array( 'parent' => 0, 'hide_empty' => false ) );
+			$hubs = get_categories( array( 'parent' => 0, 'hide_empty' => true ) );
 			foreach ( $hubs as $hub ) :
 				?>
 				<a class="rounded-2xl border border-slate-100 p-6 transition hover:border-amber-300 hover:shadow-md" href="<?php echo esc_url( get_term_link( $hub ) ); ?>">
