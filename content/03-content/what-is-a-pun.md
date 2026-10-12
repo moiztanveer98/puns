@@ -23,6 +23,8 @@ Puns fall into several named categories based on exactly how the double meaning 
 
 ## What Are Examples of Puns?
 
+These five examples show the double-meaning mechanism at work in different everyday lines.
+
 - "I used to be a baker, but I couldn't make enough dough" plays on the double meaning of *dough* (bread ingredient and money).
 - "A bicycle can't stand on its own because it's two-tired" plays on the sound-alike between *two-tired* and *too tired*.
 - "I'm reading a book on anti-gravity — it's impossible to put down" plays on the double meaning of *put down* (set aside and stop, physically).
