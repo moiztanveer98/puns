@@ -49,8 +49,8 @@
 		document.body.removeChild( textarea );
 	}
 
-	function initPunCopyButtons() {
-		var containers = document.querySelectorAll( '.prose' );
+	function initPunCopyButtons( scope ) {
+		var containers = ( scope || document ).querySelectorAll( '.prose' );
 		containers.forEach( function ( container ) {
 			var items = container.querySelectorAll( 'li' );
 			items.forEach( function ( item ) {
@@ -70,8 +70,11 @@
 		} );
 	}
 
+	// Exposed so the Pun Generator tool can re-run this on freshly inserted results.
+	window.craftypunsInitPunCopy = initPunCopyButtons;
+
 	if ( document.readyState === 'loading' ) {
-		document.addEventListener( 'DOMContentLoaded', initPunCopyButtons );
+		document.addEventListener( 'DOMContentLoaded', function () { initPunCopyButtons(); } );
 	} else {
 		initPunCopyButtons();
 	}

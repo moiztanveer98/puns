@@ -45,6 +45,22 @@ function craftypuns_assets() {
 	$script_path = CRAFTYPUNS_DIR . '/assets/js/main.js';
 	$script_ver  = file_exists( $script_path ) ? filemtime( $script_path ) : CRAFTYPUNS_VERSION;
 	wp_enqueue_script( 'craftypuns-main', CRAFTYPUNS_URI . '/assets/js/main.js', array(), $script_ver, true );
+
+	if ( is_page_template( 'page-templates/page-pun-generator.php' ) ) {
+		$data_path = CRAFTYPUNS_DIR . '/assets/data/puns-dataset.json';
+		$data_ver  = file_exists( $data_path ) ? filemtime( $data_path ) : CRAFTYPUNS_VERSION;
+		$gen_path  = CRAFTYPUNS_DIR . '/assets/js/pun-generator.js';
+		$gen_ver   = file_exists( $gen_path ) ? filemtime( $gen_path ) : CRAFTYPUNS_VERSION;
+
+		wp_enqueue_script( 'craftypuns-pun-generator', CRAFTYPUNS_URI . '/assets/js/pun-generator.js', array( 'craftypuns-main' ), $gen_ver, true );
+		wp_add_inline_script(
+			'craftypuns-pun-generator',
+			'window.craftypunsData = ' . wp_json_encode( array(
+				'punsUrl' => CRAFTYPUNS_URI . '/assets/data/puns-dataset.json?v=' . $data_ver,
+			) ) . ';',
+			'before'
+		);
+	}
 }
 add_action( 'wp_enqueue_scripts', 'craftypuns_assets' );
 

@@ -8,3 +8,7 @@
 
 /* Header logo sizing */
 .custom-logo-link img.custom-logo{max-height:48px;width:auto;height:auto}
+
+/* Pun Generator Tool */
+#pg-generate:disabled{opacity:.5;cursor:not-allowed}
+#pg-results ul{list-style:disc;padding-inline-start:1.625em}
