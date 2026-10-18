@@ -23,15 +23,14 @@ function craftypuns_fallback_primary_menu() {
 						<p class="mb-3 text-xs font-semibold uppercase tracking-wide text-slate-400"><?php esc_html_e( 'By Topic', 'craftypuns' ); ?></p>
 						<ul class="space-y-2 text-sm">
 							<li><a class="text-slate-700 hover:text-amber-600" href="<?php echo esc_url( home_url( '/animal-puns/' ) ); ?>"><?php esc_html_e( 'Animal Puns', 'craftypuns' ); ?></a></li>
-							<li><a class="text-slate-700 hover:text-amber-600" href="<?php echo esc_url( home_url( '/food-and-drink-puns/' ) ); ?>"><?php esc_html_e( 'Food & Drink Puns', 'craftypuns' ); ?></a></li>
-							<li><a class="text-slate-700 hover:text-amber-600" href="<?php echo esc_url( home_url( '/nature-and-science-puns/' ) ); ?>"><?php esc_html_e( 'Nature & Science Puns', 'craftypuns' ); ?></a></li>
-							<li><a class="text-slate-700 hover:text-amber-600" href="<?php echo esc_url( home_url( '/holiday-and-event-puns/' ) ); ?>"><?php esc_html_e( 'Holiday & Event Puns', 'craftypuns' ); ?></a></li>
-							<li><a class="text-slate-700 hover:text-amber-600" href="<?php echo esc_url( home_url( '/people-and-relationship-puns/' ) ); ?>"><?php esc_html_e( 'People & Relationship Puns', 'craftypuns' ); ?></a></li>
-							<li><a class="text-slate-700 hover:text-amber-600" href="<?php echo esc_url( home_url( '/object-and-everyday-puns/' ) ); ?>"><?php esc_html_e( 'Object & Everyday Puns', 'craftypuns' ); ?></a></li>
-							<li><a class="text-slate-700 hover:text-amber-600" href="<?php echo esc_url( home_url( '/sport-and-hobby-puns/' ) ); ?>"><?php esc_html_e( 'Sport & Hobby Puns', 'craftypuns' ); ?></a></li>
-							<li><a class="text-slate-700 hover:text-amber-600" href="<?php echo esc_url( home_url( '/work-and-school-puns/' ) ); ?>"><?php esc_html_e( 'Work & School Puns', 'craftypuns' ); ?></a></li>
-							<li><a class="text-slate-700 hover:text-amber-600" href="<?php echo esc_url( home_url( '/fantasy-and-pop-culture-puns/' ) ); ?>"><?php esc_html_e( 'Fantasy & Pop Culture Puns', 'craftypuns' ); ?></a></li>
-							<li><a class="text-slate-700 hover:text-amber-600" href="<?php echo esc_url( home_url( '/word-and-name-puns/' ) ); ?>"><?php esc_html_e( 'Word & Name Puns', 'craftypuns' ); ?></a></li>
+							<li><a class="text-slate-700 hover:text-amber-600" href="<?php echo esc_url( home_url( '/food-drink-puns/' ) ); ?>"><?php esc_html_e( 'Food & Drink Puns', 'craftypuns' ); ?></a></li>
+							<li><a class="text-slate-700 hover:text-amber-600" href="<?php echo esc_url( home_url( '/nature-science-puns/' ) ); ?>"><?php esc_html_e( 'Nature & Science Puns', 'craftypuns' ); ?></a></li>
+							<li><a class="text-slate-700 hover:text-amber-600" href="<?php echo esc_url( home_url( '/holiday-event-puns/' ) ); ?>"><?php esc_html_e( 'Holiday & Event Puns', 'craftypuns' ); ?></a></li>
+							<li><a class="text-slate-700 hover:text-amber-600" href="<?php echo esc_url( home_url( '/people-relationship-puns/' ) ); ?>"><?php esc_html_e( 'People & Relationship Puns', 'craftypuns' ); ?></a></li>
+							<li><a class="text-slate-700 hover:text-amber-600" href="<?php echo esc_url( home_url( '/sport-hobby-puns/' ) ); ?>"><?php esc_html_e( 'Sport & Hobby Puns', 'craftypuns' ); ?></a></li>
+							<li><a class="text-slate-700 hover:text-amber-600" href="<?php echo esc_url( home_url( '/word-name-puns/' ) ); ?>"><?php esc_html_e( 'Word & Name Puns', 'craftypuns' ); ?></a></li>
+							<li><a class="text-slate-700 hover:text-amber-600" href="<?php echo esc_url( home_url( '/learn-about-puns/' ) ); ?>"><?php esc_html_e( 'Learn About Puns', 'craftypuns' ); ?></a></li>
+							<li><a class="text-slate-700 hover:text-amber-600" href="<?php echo esc_url( home_url( '/puns-by-use/' ) ); ?>"><?php esc_html_e( 'Puns by Use', 'craftypuns' ); ?></a></li>
 						</ul>
 					</div>
 					<div>
@@ -54,8 +53,7 @@ function craftypuns_fallback_primary_menu() {
 				</div>
 			</div>
 		</li>
-		<li><a class="font-semibold text-slate-800 hover:text-amber-600" href="<?php echo esc_url( home_url( '/riddles/' ) ); ?>"><?php esc_html_e( 'Riddles', 'craftypuns' ); ?></a></li>
-		<li><a class="font-semibold text-slate-800 hover:text-amber-600" href="<?php echo esc_url( home_url( '/meanings/' ) ); ?>"><?php esc_html_e( 'Meanings', 'craftypuns' ); ?></a></li>
+		<li><a class="font-semibold text-slate-800 hover:text-amber-600" href="<?php echo esc_url( home_url( '/what-is-a-pun/' ) ); ?>"><?php esc_html_e( 'What Is a Pun?', 'craftypuns' ); ?></a></li>
 		<li>
 			<a class="inline-flex items-center rounded-full bg-amber-400 px-5 py-2 font-semibold text-slate-900 transition hover:bg-amber-300" href="<?php echo esc_url( home_url( '/pun-generator/' ) ); ?>">
 				<?php esc_html_e( 'Pun Generator', 'craftypuns' ); ?>
@@ -83,9 +81,9 @@ function craftypuns_fallback_footer_menu() {
 			<p class="mb-3 text-sm font-semibold uppercase tracking-wide text-slate-300"><?php esc_html_e( 'Popular Hubs', 'craftypuns' ); ?></p>
 			<ul class="space-y-2 text-sm text-slate-400">
 				<li><a class="hover:text-amber-400" href="<?php echo esc_url( home_url( '/animal-puns/' ) ); ?>"><?php esc_html_e( 'Animal Puns', 'craftypuns' ); ?></a></li>
-				<li><a class="hover:text-amber-400" href="<?php echo esc_url( home_url( '/food-and-drink-puns/' ) ); ?>"><?php esc_html_e( 'Food & Drink Puns', 'craftypuns' ); ?></a></li>
-				<li><a class="hover:text-amber-400" href="<?php echo esc_url( home_url( '/holiday-and-event-puns/' ) ); ?>"><?php esc_html_e( 'Holiday & Event Puns', 'craftypuns' ); ?></a></li>
-				<li><a class="hover:text-amber-400" href="<?php echo esc_url( home_url( '/people-and-relationship-puns/' ) ); ?>"><?php esc_html_e( 'People & Relationship Puns', 'craftypuns' ); ?></a></li>
+				<li><a class="hover:text-amber-400" href="<?php echo esc_url( home_url( '/food-drink-puns/' ) ); ?>"><?php esc_html_e( 'Food & Drink Puns', 'craftypuns' ); ?></a></li>
+				<li><a class="hover:text-amber-400" href="<?php echo esc_url( home_url( '/holiday-event-puns/' ) ); ?>"><?php esc_html_e( 'Holiday & Event Puns', 'craftypuns' ); ?></a></li>
+				<li><a class="hover:text-amber-400" href="<?php echo esc_url( home_url( '/people-relationship-puns/' ) ); ?>"><?php esc_html_e( 'People & Relationship Puns', 'craftypuns' ); ?></a></li>
 				<li><a class="hover:text-amber-400" href="<?php echo esc_url( home_url( '/puns-for-instagram-captions/' ) ); ?>"><?php esc_html_e( 'Puns for Instagram Captions', 'craftypuns' ); ?></a></li>
 				<li><a class="hover:text-amber-400" href="<?php echo esc_url( home_url( '/puns-for-kids/' ) ); ?>"><?php esc_html_e( 'Puns for Kids', 'craftypuns' ); ?></a></li>
 			</ul>
@@ -94,8 +92,6 @@ function craftypuns_fallback_footer_menu() {
 			<p class="mb-3 text-sm font-semibold uppercase tracking-wide text-slate-300"><?php esc_html_e( 'Explore', 'craftypuns' ); ?></p>
 			<ul class="space-y-2 text-sm text-slate-400">
 				<li><a class="hover:text-amber-400" href="<?php echo esc_url( home_url( '/pun-generator/' ) ); ?>"><?php esc_html_e( 'Pun Generator', 'craftypuns' ); ?></a></li>
-				<li><a class="hover:text-amber-400" href="<?php echo esc_url( home_url( '/riddles/' ) ); ?>"><?php esc_html_e( 'Riddles', 'craftypuns' ); ?></a></li>
-				<li><a class="hover:text-amber-400" href="<?php echo esc_url( home_url( '/meanings/' ) ); ?>"><?php esc_html_e( 'Meanings', 'craftypuns' ); ?></a></li>
 				<li><a class="hover:text-amber-400" href="<?php echo esc_url( home_url( '/what-is-a-pun/' ) ); ?>"><?php esc_html_e( 'What Is a Pun?', 'craftypuns' ); ?></a></li>
 				<li><a class="hover:text-amber-400" href="<?php echo esc_url( home_url( '/types-of-puns/' ) ); ?>"><?php esc_html_e( 'Types of Puns', 'craftypuns' ); ?></a></li>
 			</ul>

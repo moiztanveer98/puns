@@ -12,6 +12,33 @@ define( 'CRAFTYPUNS_DIR', get_template_directory() );
 define( 'CRAFTYPUNS_URI', get_template_directory_uri() );
 
 /**
+ * Expose _seo_title / _seo_description postmeta to the REST API so they can
+ * be set programmatically and are picked up by craftypuns_get_seo_title()/
+ * craftypuns_get_seo_description() in inc/seo-meta.php.
+ */
+function craftypuns_register_seo_meta() {
+	foreach ( array( 'post', 'page' ) as $post_type ) {
+		register_post_meta( $post_type, '_seo_title', array(
+			'type'          => 'string',
+			'single'        => true,
+			'show_in_rest'  => true,
+			'auth_callback' => function () {
+				return current_user_can( 'edit_posts' );
+			},
+		) );
+		register_post_meta( $post_type, '_seo_description', array(
+			'type'          => 'string',
+			'single'        => true,
+			'show_in_rest'  => true,
+			'auth_callback' => function () {
+				return current_user_can( 'edit_posts' );
+			},
+		) );
+	}
+}
+add_action( 'init', 'craftypuns_register_seo_meta' );
+
+/**
  * Theme supports + nav menu registration.
  */
 function craftypuns_setup() {
