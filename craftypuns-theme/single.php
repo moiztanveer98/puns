@@ -15,6 +15,12 @@ while ( have_posts() ) :
 		<article>
 			<h1 class="mt-4 text-3xl font-extrabold tracking-tight sm:text-4xl"><?php the_title(); ?></h1>
 
+			<?php if ( has_post_thumbnail() ) : ?>
+				<div class="mt-6 overflow-hidden rounded-2xl">
+					<?php the_post_thumbnail( 'large', array( 'class' => 'w-full h-auto object-cover', 'loading' => 'eager' ) ); ?>
+				</div>
+			<?php endif; ?>
+
 			<?php get_template_part( 'template-parts/content-pun-sections' ); ?>
 
 			<div class="mt-10 rounded-2xl border border-amber-200 bg-amber-50 p-6 text-center">

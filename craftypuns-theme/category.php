@@ -33,9 +33,14 @@ $term = get_queried_object();
 			while ( have_posts() ) :
 				the_post();
 				?>
-				<a class="block rounded-2xl border border-slate-100 p-5 transition hover:border-amber-300 hover:shadow-md" href="<?php the_permalink(); ?>">
-					<h3 class="font-semibold"><?php the_title(); ?></h3>
-					<p class="mt-2 text-sm text-slate-600"><?php echo esc_html( get_the_excerpt() ); ?></p>
+				<a class="block overflow-hidden rounded-2xl border border-slate-100 transition hover:border-amber-300 hover:shadow-md" href="<?php the_permalink(); ?>">
+					<?php if ( has_post_thumbnail() ) : ?>
+						<?php the_post_thumbnail( 'medium', array( 'class' => 'aspect-[3/2] w-full object-cover' ) ); ?>
+					<?php endif; ?>
+					<div class="p-5">
+						<h3 class="font-semibold"><?php the_title(); ?></h3>
+						<p class="mt-2 text-sm text-slate-600"><?php echo esc_html( get_the_excerpt() ); ?></p>
+					</div>
 				</a>
 				<?php
 			endwhile;
