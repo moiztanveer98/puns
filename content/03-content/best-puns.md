@@ -59,7 +59,7 @@ The best everyday lines come from [Craft Puns](/craft-puns/), [Name Puns](/name-
 A pun earns a spot on this list when the wordplay lands immediately, the line works outside of needing its topic page for context, and it hasn't been recycled from somewhere else. Directness and originality matter more than cleverness alone.
 
 **Do the best puns need to be original?**
-Yes, the best puns on this list are original lines, not recycled jokes pulled from other sites — see [What Is a Pun?](/what-is-a-pun/) for how a genuine pun is defined and why originality is part of what makes one work.
+Yes, the best puns on this list are original lines, not recycled jokes pulled from other sites. See [What Is a Pun?](/what-is-a-pun/) for how a genuine pun is defined and why originality is part of what makes one work.
 
 **Where do these puns come from?**
 Every line here is pulled from one of Crafty Puns' own topic pages, each written from that topic's own vocabulary rather than a generic template. Visit [What Is a Pun?](/what-is-a-pun/) to see the full definition and mechanism behind how they're built.

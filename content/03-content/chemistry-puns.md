@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You've got all the right elements, and I mean that forever."
 - "My heart feels extra reactive every time I see you."
-- "You had me at 'chemical bond' — now I'm yours forever."
+- "You had me at 'chemical bond.' Now I'm yours forever."
 - "Loving you is easy; it's elementally natural."
 - "You're the only compound I actually want to form."
 - "You make my heart react in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still elementally amazing. Happy birthday!"
 - "May your birthday be filled with reactions and zero spills."
 - "You're not getting older, you're just leveling up your bond."
-- "Happy birthday — go celebrate like a perfect chemical reaction."
+- "Happy birthday! Go celebrate like a perfect chemical reaction."
 - "Here's to a birthday as reactive as a new compound."
 - "Happy birthday to a true lab-bench favorite."
 
@@ -224,13 +224,13 @@ Chemistry puns work in birthday cards for science lovers, party signs for a lab 
 ## FAQ
 
 **What are the best chemistry puns?**
-The best chemistry puns lean on real chemistry features — bonds, elements and reactions — rather than generic smart jokes. Lines like "all the right elements" and "chemical reaction" work because they sound like natural chemistry wordplay. The strongest ones double as both a joke and a caption.
+The best chemistry puns lean on real chemistry features, such as bonds, elements and reactions, rather than generic smart jokes. Lines like "all the right elements" and "chemical reaction" work because they sound like natural chemistry wordplay. The strongest ones double as both a joke and a caption.
 
 **Are chemistry puns good for kids?**
 Yes, chemistry puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's chemistry's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a chemistry pun?**
-Start with a chemistry-specific word — "element", "reaction", "bond", "molecule", "beaker" — and listen for a word it sounds like or rhymes with, such as "all the right elements" from the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a chemistry-specific word, such as "element", "reaction", "bond", "molecule", and "beaker", and listen for a word it sounds like or rhymes with, such as "all the right elements" from the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

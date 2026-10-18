@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You drive me bananas, in the best possible way."
 - "My heart feels extra ripe every time I see you."
-- "You had me at 'smoothie' — now I'm yours forever."
+- "You had me at 'smoothie.' Now I'm yours forever."
 - "Loving you is easy; it's a-peel-ing and natural."
 - "You're the only fruit bowl I actually want to settle into."
 - "You make my heart peel in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still perfectly ripe. Happy birthday!"
 - "May your birthday be filled with bananas and zero brown spots."
 - "You're not getting older, you're just leveling up your ripeness."
-- "Happy birthday — go celebrate like a banana fresh off the bunch."
+- "Happy birthday! Go celebrate like a banana fresh off the bunch."
 - "Here's to a birthday as sweet as a ripe banana."
 - "Happy birthday to a true fruit bowl favorite."
 
@@ -224,13 +224,13 @@ Banana puns work in birthday cards for fruit lovers, party signs for a tropical-
 ## FAQ
 
 **What are the best banana puns?**
-The best banana puns lean on real banana features — peeling, bunches and ripeness — rather than generic food jokes. Lines like "drive you bananas" and "a-peel-ing" work because they sound like natural banana wordplay. The strongest ones double as both a joke and a caption.
+The best banana puns lean on real banana features, such as peeling, bunches and ripeness, rather than generic food jokes. Lines like "drive you bananas" and "a-peel-ing" work because they sound like natural banana wordplay. The strongest ones double as both a joke and a caption.
 
 **Are banana puns good for kids?**
 Yes, banana puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a banana's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a banana pun?**
-Start with a banana-specific word — "peel", "bunch", "split", "ripe", "smoothie" — and listen for a word it sounds like or rhymes with, such as "a-peel-ing" from "appealing." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a banana-specific word, such as "peel", "bunch", "split", "ripe", and "smoothie", and listen for a word it sounds like or rhymes with, such as "a-peel-ing" from "appealing." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

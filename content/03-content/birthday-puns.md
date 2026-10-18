@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the candle on my cake, and I mean that every single year."
 - "My heart lights up every time I see you, just like birthday candles."
-- "You had me at 'happy birthday' — now I'm yours all year."
+- "You had me at 'happy birthday.' Now I'm yours all year."
 - "Loving you is easy; it's icing-level natural."
 - "You're the only gift I actually want to unwrap every year."
 - "You make my heart sparkle like confetti."
@@ -121,13 +121,13 @@ These lines turn affection into wordplay.
 
 These lines add a laugh to the celebration.
 
-- "Happy 30th — thirty flirty and still taking the cake."
-- "Happy 40th — forty and fabulous, frosting included."
-- "Happy 50th — fifty never looked this sweet."
+- "Happy 30th! Thirty flirty and still taking the cake."
+- "Happy 40th! Forty and fabulous, frosting included."
+- "Happy 50th! Fifty never looked this sweet."
 - "Another year older, still icing on top. Happy birthday!"
 - "May your birthday be filled with cake and zero candle mishaps."
 - "You're not getting older, you're just leveling up your cake game."
-- "Happy birthday — go celebrate like it's your biggest milestone yet."
+- "Happy birthday! Go celebrate like it's your biggest milestone yet."
 - "Here's to a birthday as sweet as the first slice of cake."
 
 ## Birthday Pickup Lines
@@ -274,13 +274,13 @@ Birthday puns work in birthday cards, party signs for a birthday bash, classroom
 ## FAQ
 
 **What are the best birthday puns?**
-The best birthday puns lean on real birthday features — cake, candles, gifts and confetti — rather than generic celebration jokes. Lines like "take the cake" and "icing-tively content" work because they sound like natural birthday words. The strongest ones double as both a joke and a caption.
+The best birthday puns lean on real birthday features, such as cake, candles, gifts and confetti, rather than generic celebration jokes. Lines like "take the cake" and "icing-tively content" work because they sound like natural birthday words. The strongest ones double as both a joke and a caption.
 
 **Are birthday puns good for kids?**
 Yes, birthday puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a birthday's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a birthday pun?**
-Start with a birthday-specific word — "cake", "candle", "balloon", "party", "wish" — and listen for a word it sounds like or rhymes with, such as "take the cake" from a common saying. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a birthday-specific word, such as "cake", "candle", "balloon", "party", and "wish", and listen for a word it sounds like or rhymes with, such as "take the cake" from a common saying. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

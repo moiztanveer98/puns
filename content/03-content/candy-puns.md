@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're mint to be mine, and I mean that forever."
 - "My heart feels extra sweet every time I see you."
-- "You had me at 'fresh sugar' — now I'm yours forever."
+- "You had me at 'fresh sugar.' Now I'm yours forever."
 - "Loving you is easy; it's mint-to-be natural."
 - "You're the only bowl I actually want to settle into."
 - "You make my heart sweeten in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still mint to be. Happy birthday!"
 - "May your birthday be filled with sweets and zero empty bowls."
 - "You're not getting older, you're just leveling up your sugar game."
-- "Happy birthday — go celebrate like a candy fresh out of the wrapper."
+- "Happy birthday! Go celebrate like a candy fresh out of the wrapper."
 - "Here's to a birthday as sweet as a candy shop."
 - "Happy birthday to a true sweet-tooth favorite."
 
@@ -224,13 +224,13 @@ Candy puns work in Halloween cards, party signs for a candy-shop or trick-or-tre
 ## FAQ
 
 **What are the best candy puns?**
-The best candy puns lean on real candy features — sweetness, wrappers and sugar — rather than generic treat jokes. Lines like "mint to be" and "sweet tooth" work because they sound like natural candy wordplay. The strongest ones double as both a joke and a caption.
+The best candy puns lean on real candy features, such as sweetness, wrappers and sugar, rather than generic treat jokes. Lines like "mint to be" and "sweet tooth" work because they sound like natural candy wordplay. The strongest ones double as both a joke and a caption.
 
 **Are candy puns good for kids?**
 Yes, candy puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's candy's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a candy pun?**
-Start with a candy-specific word — "sweet", "wrapper", "sugar", "mint", "gummy" — and listen for a word it sounds like or rhymes with, such as "mint to be" from "meant to be." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a candy-specific word, such as "sweet", "wrapper", "sugar", "mint", and "gummy", and listen for a word it sounds like or rhymes with, such as "mint to be" from "meant to be." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

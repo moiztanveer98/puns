@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the best thing since sliced bread, and I mean that forever."
 - "My heart feels extra warm every time I see you."
-- "You had me at 'fresh loaf' — now I'm yours forever."
+- "You had me at 'fresh loaf.' Now I'm yours forever."
 - "Loving you is easy; it's rise-above-the-rest natural."
 - "You're the only basket I actually want to settle into."
 - "You make my heart rise in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still the best thing since sliced bread. Happy birthday!"
 - "May your birthday be filled with butter and zero stale moments."
 - "You're not getting older, you're just leveling up your rise game."
-- "Happy birthday — go celebrate like a loaf fresh out of the oven."
+- "Happy birthday! Go celebrate like a loaf fresh out of the oven."
 - "Here's to a birthday as warm as fresh bread."
 - "Happy birthday to a true bakery favorite."
 
@@ -224,13 +224,13 @@ Bread puns work in birthday cards for bakers, party signs for a bakery or brunch
 ## FAQ
 
 **What are the best bread puns?**
-The best bread puns lean on real bread features — kneading, rising and crusts — rather than generic food jokes. Lines like "rise above the rest" and "best thing since sliced bread" work because they sound like natural bread wordplay. The strongest ones double as both a joke and a caption.
+The best bread puns lean on real bread features, such as kneading, rising and crusts, rather than generic food jokes. Lines like "rise above the rest" and "best thing since sliced bread" work because they sound like natural bread wordplay. The strongest ones double as both a joke and a caption.
 
 **Are bread puns good for kids?**
 Yes, bread puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's bread's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a bread pun?**
-Start with a bread-specific word — "loaf", "crust", "dough", "knead", "rise" — and listen for a word it sounds like or rhymes with, such as "rise above" from the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a bread-specific word, such as "loaf", "crust", "dough", "knead", and "rise", and listen for a word it sounds like or rhymes with, such as "rise above" from the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

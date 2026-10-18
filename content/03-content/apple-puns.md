@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the apple of my eye, and I mean that to the core."
 - "My heart feels crisp and fresh every time I see you."
-- "You had me at 'fresh picked' — now I'm yours forever."
+- "You had me at 'fresh picked.' Now I'm yours forever."
 - "Loving you is easy; it's funny to the core."
 - "You're the only orchard I actually want to wander through."
 - "You make my heart crunch in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still a-peel-ing as ever. Happy birthday!"
 - "May your birthday be filled with apples and zero bruised spots."
 - "You're not getting older, you're just leveling up your core values."
-- "Happy birthday — go celebrate like an apple fresh off the tree."
+- "Happy birthday! Go celebrate like an apple fresh off the tree."
 - "Here's to a birthday as crisp as the first fall apple."
 - "Happy birthday to a true orchard favorite."
 
@@ -221,13 +221,13 @@ Apple puns work in birthday cards for fall lovers, party signs for an orchard-th
 ## FAQ
 
 **What are the best apple puns?**
-The best apple puns lean on real apple features — crispness, orchards and cores — rather than generic food jokes. Lines like "to the core" and "a-peel-ing" work because they sound like natural apple wordplay. The strongest ones double as both a joke and a caption.
+The best apple puns lean on real apple features, such as crispness, orchards and cores, rather than generic food jokes. Lines like "to the core" and "a-peel-ing" work because they sound like natural apple wordplay. The strongest ones double as both a joke and a caption.
 
 **Are apple puns good for kids?**
 Yes, apple puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's an apple's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make an apple pun?**
-Start with an apple-specific word — "core", "orchard", "crisp", "cider", "seed" — and listen for a word it sounds like or rhymes with, such as "to the core" from the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with an apple-specific word, such as "core", "orchard", "crisp", "cider", and "seed", and listen for a word it sounds like or rhymes with, such as "to the core" from the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

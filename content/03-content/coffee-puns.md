@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the cream to my coffee, and I'm not just saying that for the caffeine."
 - "My heart percolates every time I see you."
-- "You had me at 'double shot' — now I'm yours for every morning."
+- "You had me at 'double shot.' Now I'm yours for every morning."
 - "Loving you is easy; it's brew-tifully natural."
 - "You're the only mug I actually want to hold every day."
 - "You make my heart perk up every time you smile."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still roasting it like a pro. Happy birthday!"
 - "May your birthday be filled with lattes and zero cold brews."
 - "You're not getting older, you're just leveling up your blend."
-- "Happy birthday — go celebrate like a coffee fresh off the press."
+- "Happy birthday! Go celebrate like a coffee fresh off the press."
 - "Here's to a birthday as smooth as a good espresso."
 - "Happy birthday to a true brew-tiful soul."
 
@@ -274,13 +274,13 @@ Coffee puns work in birthday cards for coffee lovers, party signs for a coffee-t
 ## FAQ
 
 **What are the best coffee puns?**
-The best coffee puns lean on real coffee features — brewing, roasting, steaming and perking — rather than generic drink jokes. Lines like "brew-tiful" and "perk-tively content" work because they sound like natural coffee words. The strongest ones double as both a joke and a caption.
+The best coffee puns lean on real coffee features, such as brewing, roasting, steaming and perking, rather than generic drink jokes. Lines like "brew-tiful" and "perk-tively content" work because they sound like natural coffee words. The strongest ones double as both a joke and a caption.
 
 **Are coffee puns good for kids?**
 Yes, coffee puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a coffee's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a coffee pun?**
-Start with a coffee-specific word — "brew", "bean", "roast", "espresso", "mug" — and listen for a word it sounds like or rhymes with, such as "brew-tiful" from "beautiful." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a coffee-specific word, such as "brew", "bean", "roast", "espresso", and "mug", and listen for a word it sounds like or rhymes with, such as "brew-tiful" from "beautiful." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

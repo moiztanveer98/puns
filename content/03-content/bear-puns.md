@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the honey to my hive, and I'm not just saying that for snacks."
 - "My heart growls every time I see you."
-- "You had me at 'growl' — now I'm yours forever."
+- "You had me at 'growl.' Now I'm yours forever."
 - "Loving you is easy; it's un-bear-ably natural."
 - "You're the only den I actually want to settle into."
 - "You make my heart growl in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still grizzly-worthy as ever. Happy birthday!"
 - "May your birthday be filled with honey and zero empty jars."
 - "You're not getting older, you're just leveling up your hibernation game."
-- "Happy birthday — go celebrate like a bear who found the honey tree."
+- "Happy birthday! Go celebrate like a bear who found the honey tree."
 - "Here's to a birthday as cozy as a bear in a warm den."
 - "Happy birthday to a true forest favorite."
 
@@ -224,13 +224,13 @@ Bear puns work in birthday cards for nature lovers, party signs for a camping or
 ## FAQ
 
 **What are the best bear puns?**
-The best bear puns lean on real bear behavior — growling, hibernating and honey-hunting — rather than generic animal jokes. Lines like "un-bear-ably funny" and "bear-y nice" work because they sound like natural bear wordplay. The strongest ones double as both a joke and a caption.
+The best bear puns lean on real bear behavior, such as growling, hibernating and honey-hunting, rather than generic animal jokes. Lines like "un-bear-ably funny" and "bear-y nice" work because they sound like natural bear wordplay. The strongest ones double as both a joke and a caption.
 
 **Are bear puns good for kids?**
 Yes, bear puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a bear's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a bear pun?**
-Start with a bear-specific word — "growl", "claw", "den", "hibernate", "paw" — and listen for a word it sounds like or rhymes with, such as "un-bear-ably" playing on "unbearably." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a bear-specific word, such as "growl", "claw", "den", "hibernate", and "paw", and listen for a word it sounds like or rhymes with, such as "un-bear-ably" playing on "unbearably." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

@@ -229,14 +229,14 @@ These lines add a laugh to the celebration.
 - Hope your birthday is full of sun and zero sunburn.
 - Another year older, still making waves. Happy birthday!
 - May your birthday have more good tides than bad ones.
-- Happy birthday — go celebrate like the tide just came in.
+- Happy birthday! Go celebrate like the tide just came in.
 - Here's to a birthday as warm as a day at the shore.
 - Happy birthday to someone truly sun-kissed and special.
 - Hope today brings nothing but smooth sailing.
 
 - Happy birthday to someone whose glow outshines any sunset.
 - May this birthday bring more good waves than bad ones.
-- Happy birthday — here's to a year as bright as the shore.
+- Happy birthday! Here's to a year as bright as the shore.
 - Another candle, another reason to celebrate by the water.
 - Happy birthday to the sunniest person I know.
 - Hope your birthday feels as easy as a lazy beach day.
@@ -289,18 +289,18 @@ These jokes follow a classic setup-and-punchline format.
 
 ## How to Use Beach Puns
 
-Beach puns fit summer captions, vacation postcards, birthday cards for beach lovers, and classroom jokes for a weather or ocean unit — anywhere sand and surf show up and a quick line would land well.
+Beach puns fit summer captions, vacation postcards, birthday cards for beach lovers, and classroom jokes for a weather or ocean unit, anywhere sand and surf show up and a quick line would land well.
 
 ## FAQ
 
 **What are the best beach puns?**
-The best beach puns use real beach words — shore, wave, tide, sand, current — instead of generic summer jokes. Lines like "shore thing" and "wave hello" work because they sound like things you'd actually say by the water. The strongest ones double as both a joke and a caption.
+The best beach puns use real beach words, such as shore, wave, tide, sand, current, instead of generic summer jokes. Lines like "shore thing" and "wave hello" work because they sound like things you'd actually say by the water. The strongest ones double as both a joke and a caption.
 
 **Are beach puns good for kids?**
 Yes, beach puns are great for kids because the beach is a place most kids already know and love, which makes the wordplay easy to follow. Clean Q&A jokes like the "bagel" seagull riddle are simple enough for classrooms and lunchboxes.
 
 **How do you make a beach pun?**
-Start with a beach word — shore, tide, wave, sand, current — and find a similar-sounding word, like "shore" from "sure." See our [how to write a pun](/how-to-write-a-pun/) guide for the full method.
+Start with a beach word, such as shore, tide, wave, sand, and current, and find a similar-sounding word, like "shore" from "sure." See our [how to write a pun](/how-to-write-a-pun/) guide for the full method.
 
 ## Related Puns
 

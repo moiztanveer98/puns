@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the egg to my toast, and I'm not just saying that for breakfast."
 - "My heart clucks every time I see you."
-- "You had me at 'cluck' — now I'm yours forever."
+- "You had me at 'cluck.' Now I'm yours forever."
 - "Loving you is easy; it's egg-stra natural."
 - "You're the only coop I actually want to settle into."
 - "You make my heart peck in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still cluck-worthy as ever. Happy birthday!"
 - "May your birthday be filled with seed and zero empty feeders."
 - "You're not getting older, you're just leveling up your cluck game."
-- "Happy birthday — go celebrate like a chicken who found the open coop."
+- "Happy birthday! Go celebrate like a chicken who found the open coop."
 - "Here's to a birthday as cozy as a hen in fresh straw."
 - "Happy birthday to a true coop favorite."
 
@@ -224,13 +224,13 @@ Chicken puns work in birthday cards for farm lovers, party signs for a farm-them
 ## FAQ
 
 **What are the best chicken puns?**
-The best chicken puns lean on real chicken behavior — clucking, pecking and roosting — rather than generic animal jokes. Lines like "egg-stra funny" and "cluck-tifully perfect" work because they sound like natural chicken words. The strongest ones double as both a joke and a caption.
+The best chicken puns lean on real chicken behavior, such as clucking, pecking and roosting, rather than generic animal jokes. Lines like "egg-stra funny" and "cluck-tifully perfect" work because they sound like natural chicken words. The strongest ones double as both a joke and a caption.
 
 **Are chicken puns good for kids?**
 Yes, chicken puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a chicken's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a chicken pun?**
-Start with a chicken-specific word — "cluck", "egg", "peck", "coop", "feather" — and listen for a word it sounds like or rhymes with, such as "egg-stra" from "extra." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a chicken-specific word, such as "cluck", "egg", "peck", "coop", and "feather", and listen for a word it sounds like or rhymes with, such as "egg-stra" from "extra." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the star on top of my Christmas tree, and I mean that every year."
 - "My heart glows every time I see you, just like the string lights."
-- "You had me at 'mistletoe' — now I'm yours all season."
+- "You had me at 'mistletoe.' Now I'm yours all season."
 - "Loving you is easy; it's a holly jolly feeling."
 - "You're the only gift I actually want to unwrap every year."
 - "You make my heart twinkle like the tree lights."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still sparkling like tinsel. Happy birthday!"
 - "May your birthday be filled with gifts and zero lumps of coal."
 - "You're not getting older, you're just leveling up your holiday spirit."
-- "Happy birthday — go celebrate like it's Christmas morning."
+- "Happy birthday! Go celebrate like it's Christmas morning."
 - "Here's to a birthday as cozy as a stocking by the fire."
 - "Happy birthday to a true holiday favorite."
 
@@ -274,13 +274,13 @@ Christmas puns work in holiday cards, party signs for a Christmas get-together, 
 ## FAQ
 
 **What are the best Christmas puns?**
-The best Christmas puns lean on real holiday features — tinsel, stockings, sleighs and mistletoe — rather than generic winter jokes. Lines like "sleigh all day" and "holly jolly" work because they sound like natural Christmas words. The strongest ones double as both a joke and a caption.
+The best Christmas puns lean on real holiday features, such as tinsel, stockings, sleighs and mistletoe, rather than generic winter jokes. Lines like "sleigh all day" and "holly jolly" work because they sound like natural Christmas words. The strongest ones double as both a joke and a caption.
 
 **Are Christmas puns good for kids?**
 Yes, Christmas puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's Santa's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a Christmas pun?**
-Start with a Christmas-specific word — "sleigh", "tinsel", "mistletoe", "stocking", "holly" — and listen for a word it sounds like or rhymes with, such as "sleigh" from "slay." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a Christmas-specific word, such as "sleigh", "tinsel", "mistletoe", "stocking", and "holly", and listen for a word it sounds like or rhymes with, such as "sleigh" from "slay." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're a piece of cake, and I mean that in the sweetest way."
 - "My heart feels extra frosted every time I see you."
-- "You had me at 'fresh frosting' — now I'm yours forever."
+- "You had me at 'fresh frosting.' Now I'm yours forever."
 - "Loving you is easy; it's icing-level natural."
 - "You're the only table I actually want to settle into."
 - "You make my heart layer up in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still icing-level amazing. Happy birthday!"
 - "May your birthday be filled with sprinkles and zero fallen layers."
 - "You're not getting older, you're just leveling up your frosting game."
-- "Happy birthday — go celebrate like a cake fresh out of the oven."
+- "Happy birthday! Go celebrate like a cake fresh out of the oven."
 - "Here's to a birthday as sweet as the first slice of cake."
 - "Happy birthday to a true bakery favorite."
 
@@ -224,13 +224,13 @@ Cake puns work in birthday cards, party signs for a bakery or celebration-themed
 ## FAQ
 
 **What are the best cake puns?**
-The best cake puns lean on real cake features — frosting, layers and sprinkles — rather than generic dessert jokes. Lines like "a piece of cake" and "icing on top" work because they sound like natural cake wordplay. The strongest ones double as both a joke and a caption.
+The best cake puns lean on real cake features, such as frosting, layers and sprinkles, rather than generic dessert jokes. Lines like "a piece of cake" and "icing on top" work because they sound like natural cake wordplay. The strongest ones double as both a joke and a caption.
 
 **Are cake puns good for kids?**
 Yes, cake puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a cake's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a cake pun?**
-Start with a cake-specific word — "frosting", "layer", "icing", "slice", "batter" — and listen for a word it sounds like or rhymes with, such as "a piece of cake" from the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a cake-specific word, such as "frosting", "layer", "icing", "slice", and "batter", and listen for a word it sounds like or rhymes with, such as "a piece of cake" from the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

@@ -122,7 +122,7 @@ These lines add a laugh to the celebration.
 - Hope your birthday is as great as having you as a friend.
 - Another year older, still my favorite person. Happy birthday!
 - May your birthday be filled with cake and zero drama.
-- Happy birthday — go celebrate like the ride-or-die you are.
+- Happy birthday! Go celebrate like the ride-or-die you are.
 - Here's to a birthday as solid as our friendship.
 - Happy birthday to someone who's truly my person.
 - Hope today is wrapped in all your favorite things, bestie.
@@ -273,13 +273,13 @@ Best friend puns fit Friendship Day captions, birthday cards for your bestie, ma
 ## FAQ
 
 **What are the best best-friend puns?**
-The best best-friend puns use real friendship words — bestie, squad, ride-or-die, pun pal — instead of generic greeting-card lines. Lines like "squad goals" and "through thick and thin" work because they sound like things you'd actually text your best friend. The strongest ones double as both a joke and a caption.
+The best best-friend puns use real friendship words, such as bestie, squad, ride-or-die, pun pal, instead of generic greeting-card lines. Lines like "squad goals" and "through thick and thin" work because they sound like things you'd actually text your best friend. The strongest ones double as both a joke and a caption.
 
 **Are best friend puns good for kids?**
 Yes, best friend puns are great for kids because friendship is a topic they already understand deeply, which makes the wordplay easy to follow. Clean Q&A jokes like the "algebros" one work well for classrooms and friendship-themed cards.
 
 **How do you make a best friend pun?**
-Start with a friendship word — bestie, squad, pal, loyal, ride-or-die — and find a similar-sounding phrase, like "algebros" from "algebra" plus "bros." See our [how to write a pun](/how-to-write-a-pun/) guide for the full method.
+Start with a friendship word, such as bestie, squad, pal, loyal, and ride-or-die, and find a similar-sounding phrase, like "algebros" from "algebra" plus "bros." See our [how to write a pun](/how-to-write-a-pun/) guide for the full method.
 
 ## Related Puns
 

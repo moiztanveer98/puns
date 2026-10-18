@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're worth hopping for, every single day."
 - "My heart feels extra foamy every time I see you."
-- "You had me at 'fresh pour' — now I'm yours forever."
+- "You had me at 'fresh pour.' Now I'm yours forever."
 - "Loving you is easy; it's brewtifully natural."
 - "You're the only taproom I actually want to settle into."
 - "You make my heart foam in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still brewtiful as ever. Happy birthday!"
 - "May your birthday be filled with pints and zero flat moments."
 - "You're not getting older, you're just leveling up your pour game."
-- "Happy birthday — go celebrate like a beer fresh off the tap."
+- "Happy birthday! Go celebrate like a beer fresh off the tap."
 - "Here's to a birthday as crisp as a cold one."
 - "Happy birthday to a true taproom favorite."
 
@@ -224,13 +224,13 @@ Beer puns work in birthday cards for beer lovers, party signs for a taproom or b
 ## FAQ
 
 **What are the best beer puns?**
-The best beer puns lean on real beer features — hops, foam and brewing — rather than generic drink jokes. Lines like "worth hopping for" and "brewtiful" work because they sound like natural beer wordplay. The strongest ones double as both a joke and a caption.
+The best beer puns lean on real beer features, such as hops, foam and brewing, rather than generic drink jokes. Lines like "worth hopping for" and "brewtiful" work because they sound like natural beer wordplay. The strongest ones double as both a joke and a caption.
 
 **Are beer puns good for kids?**
 Yes, beer-themed wordplay can work for kids when adapted to root beer and kept clean. Simple setups like "what's beer's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a beer pun?**
-Start with a beer-specific word — "hop", "brew", "foam", "keg", "pint" — and listen for a word it sounds like or rhymes with, such as "worth hopping for" from "worth stopping for." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a beer-specific word, such as "hop", "brew", "foam", "keg", and "pint", and listen for a word it sounds like or rhymes with, such as "worth hopping for" from "worth stopping for." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

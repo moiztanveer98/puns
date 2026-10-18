@@ -22,7 +22,7 @@ These one-liners work well as a quick joke or a ready-made caption.
 - "My cat's favorite subject in school was hiss-tory."
 - "She's claw-some, but don't tell her twice."
 - "That cat has some serious cat-titude."
-- "My cat's a copy-cat, literally — she's a clone."
+- "My cat's a copy-cat, literally. She's a clone."
 - "He only answers to treats, never to reason."
 - "That cat video was paw-sitively viral."
 
@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the cat's meow, and I'm not just saying that to get treats."
 - "My heart does a slow blink every time I see you."
-- "You had me at 'here, kitty' — now I'm yours for nine lives."
+- "You had me at 'here, kitty.' Now I'm yours for nine lives."
 - "Loving you is easy; it's purr-fectly natural."
 - "You're the only lap I actually want to curl up in."
 - "You make my whiskers twitch in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still claw-some as ever. Happy birthday!"
 - "May your birthday be filled with treats and zero hairballs."
 - "You're not getting older, you're just leveling up your nine lives."
-- "Happy birthday — go celebrate like a cat who found the sunny spot."
+- "Happy birthday! Go celebrate like a cat who found the sunny spot."
 - "Here's to a birthday as cozy as a cat in a laundry basket."
 - "Happy birthday to a true purr-sonality."
 
@@ -274,13 +274,13 @@ Cat puns work in birthday cards for cat owners, party signs for a cat-themed get
 ## FAQ
 
 **What are the best cat puns?**
-The best cat puns lean on real cat behavior — kneading, meowing, napping and hunting — rather than generic animal jokes. Lines like "purr-fectly fine" and "claw-some" work because they sound like natural cat words. The strongest ones double as both a joke and a caption.
+The best cat puns lean on real cat behavior, such as kneading, meowing, napping and hunting, rather than generic animal jokes. Lines like "purr-fectly fine" and "claw-some" work because they sound like natural cat words. The strongest ones double as both a joke and a caption.
 
 **Are cat puns good for kids?**
 Yes, cat puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a cat's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a cat pun?**
-Start with a cat-specific word — "meow", "purr", "claw", "whisker", "feline" — and listen for a word it sounds like or rhymes with, such as "purr-fect" from "perfect." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a cat-specific word, such as "meow", "purr", "claw", "whisker", and "feline", and listen for a word it sounds like or rhymes with, such as "purr-fect" from "perfect." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

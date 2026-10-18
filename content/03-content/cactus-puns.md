@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're looking sharp, and my heart notices every time."
 - "My heart feels extra prickly with excitement every time I see you."
-- "You had me at 'low maintenance' — now I'm yours forever."
+- "You had me at 'low maintenance.' Now I'm yours forever."
 - "Loving you is easy; it's cactus-level natural."
 - "You're the only desert I actually want to settle into."
 - "You make my heart spike in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still looking sharp as ever. Happy birthday!"
 - "May your birthday be filled with sunlight and zero over-watering."
 - "You're not getting older, you're just leveling up your low-maintenance game."
-- "Happy birthday — go celebrate like a cactus fresh on the windowsill."
+- "Happy birthday! Go celebrate like a cactus fresh on the windowsill."
 - "Here's to a birthday as tough and sharp as a cactus."
 - "Happy birthday to a true windowsill favorite."
 
@@ -224,13 +224,13 @@ Cactus puns work in birthday cards for plant lovers, party signs for a desert or
 ## FAQ
 
 **What are the best cactus puns?**
-The best cactus puns lean on real cactus features — spikes, deserts and low-maintenance charm — rather than generic plant jokes. Lines like "looking sharp" and "low maintenance" work because they sound like natural cactus wordplay. The strongest ones double as both a joke and a caption.
+The best cactus puns lean on real cactus features, such as spikes, deserts and low-maintenance charm, rather than generic plant jokes. Lines like "looking sharp" and "low maintenance" work because they sound like natural cactus wordplay. The strongest ones double as both a joke and a caption.
 
 **Are cactus puns good for kids?**
 Yes, cactus puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a cactus's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a cactus pun?**
-Start with a cactus-specific word — "spike", "desert", "prickly", "spine", "succulent" — and listen for a word it sounds like or rhymes with, such as "looking sharp" from the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a cactus-specific word, such as "spike", "desert", "prickly", "spine", and "succulent", and listen for a word it sounds like or rhymes with, such as "looking sharp" from the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 
