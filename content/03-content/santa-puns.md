@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're ho-ho-hilarious, and I mean that forever."
 - "My heart feels extra jolly every time I see you."
-- "You had me at 'ho ho ho' — now I'm yours forever."
+- "You had me at 'ho ho ho.' Now I'm yours forever."
 - "Loving you is easy; it's ho-ho-hilariously natural."
 - "You're the only sleigh I actually want to ride with."
 - "You make my heart jolly in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still ho-ho-hilarious as ever. Happy birthday!"
 - "May your birthday be filled with gifts and zero coal."
 - "You're not getting older, you're just leveling up your naughty-or-nice list."
-- "Happy birthday — go celebrate like Santa on Christmas Eve."
+- "Happy birthday! Go celebrate like Santa on Christmas Eve."
 - "Here's to a birthday as jolly as a sleigh ride."
 - "Happy birthday to a true North Pole favorite."
 
@@ -224,13 +224,13 @@ Santa puns work in holiday cards, party signs for a Christmas or North Pole-them
 ## FAQ
 
 **What are the best Santa puns?**
-The best Santa puns lean on real Santa features — sleighs, chimneys and the naughty-or-nice list — rather than generic holiday jokes. Lines like "ho-ho-hilarious" and "naughty or nice" work because they sound like natural Santa wordplay. The strongest ones double as both a joke and a caption.
+The best Santa puns lean on real Santa features, such as sleighs, chimneys and the naughty-or-nice list, rather than generic holiday jokes. Lines like "ho-ho-hilarious" and "naughty or nice" work because they sound like natural Santa wordplay. The strongest ones double as both a joke and a caption.
 
 **Are Santa puns good for kids?**
 Yes, Santa puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's Santa's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a Santa pun?**
-Start with a Santa-specific word — "sleigh", "beard", "chimney", "list", "elf" — and listen for a word it sounds like or rhymes with, such as "ho-ho-hilarious" from "hilarious." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a Santa-specific word, such as "sleigh", "beard", "chimney", "list", and "elf", and listen for a word it sounds like or rhymes with, such as "ho-ho-hilarious" from "hilarious." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're plant-tastic, and I mean that forever."
 - "My heart feels extra rooted every time I see you."
-- "You had me at 'fresh soil' — now I'm yours forever."
+- "You had me at 'fresh soil.' Now I'm yours forever."
 - "Loving you is easy; it's plant-tastically natural."
 - "You're the only windowsill I actually want to settle into."
 - "You make my heart grow in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still plant-based happiness. Happy birthday!"
 - "May your birthday be filled with sunlight and zero wilted moments."
 - "You're not getting older, you're just leveling up your growth game."
-- "Happy birthday — go celebrate like a plant fresh on the windowsill."
+- "Happy birthday! Go celebrate like a plant fresh on the windowsill."
 - "Here's to a birthday as fresh as new growth."
 - "Happy birthday to a true windowsill favorite."
 
@@ -224,13 +224,13 @@ Plant puns work in birthday cards for plant lovers, party signs for a garden or 
 ## FAQ
 
 **What are the best plant puns?**
-The best plant puns lean on real plant features — leaves, roots and growth — rather than generic nature jokes. Lines like "plant-tastic" and "plant-based happiness" work because they sound like natural plant wordplay. The strongest ones double as both a joke and a caption.
+The best plant puns lean on real plant features, such as leaves, roots and growth, rather than generic nature jokes. Lines like "plant-tastic" and "plant-based happiness" work because they sound like natural plant wordplay. The strongest ones double as both a joke and a caption.
 
 **Are plant puns good for kids?**
 Yes, plant puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a plant's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a plant pun?**
-Start with a plant-specific word — "leaf", "root", "grow", "pot", "sprout" — and listen for a word it sounds like or rhymes with, such as "plant-tastic" from "fantastic." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a plant-specific word, such as "leaf", "root", "grow", "pot", and "sprout", and listen for a word it sounds like or rhymes with, such as "plant-tastic" from "fantastic." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're gourd-geous, and I mean that forever."
 - "My heart feels extra round every time I see you."
-- "You had me at 'pumpkin spice' — now I'm yours forever."
+- "You had me at 'pumpkin spice.' Now I'm yours forever."
 - "Loving you is easy; it's gourd-geously natural."
 - "You're the only patch I actually want to settle into."
 - "You make my heart carve out space in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still gourd-geous as ever. Happy birthday!"
 - "May your birthday be filled with spice and zero empty patches."
 - "You're not getting older, you're just leveling up your carving skills."
-- "Happy birthday — go celebrate like a pumpkin fresh off the vine."
+- "Happy birthday! Go celebrate like a pumpkin fresh off the vine."
 - "Here's to a birthday as cozy as pumpkin pie."
 - "Happy birthday to a true patch favorite."
 
@@ -224,13 +224,13 @@ Pumpkin puns work in birthday cards for fall lovers, party signs for a Halloween
 ## FAQ
 
 **What are the best pumpkin puns?**
-The best pumpkin puns lean on real pumpkin features — carving, patches and pumpkin spice — rather than generic fall jokes. Lines like "gourd-geous" and "a-maize-ing" work because they sound like natural pumpkin wordplay. The strongest ones double as both a joke and a caption.
+The best pumpkin puns lean on real pumpkin features, such as carving, patches and pumpkin spice, rather than generic fall jokes. Lines like "gourd-geous" and "a-maize-ing" work because they sound like natural pumpkin wordplay. The strongest ones double as both a joke and a caption.
 
 **Are pumpkin puns good for kids?**
 Yes, pumpkin puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a pumpkin's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a pumpkin pun?**
-Start with a pumpkin-specific word — "patch", "carve", "vine", "gourd", "spice" — and listen for a word it sounds like or rhymes with, such as "gourd-geous" from "gorgeous." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a pumpkin-specific word, such as "patch", "carve", "vine", "gourd", and "spice", and listen for a word it sounds like or rhymes with, such as "gourd-geous" from "gorgeous." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

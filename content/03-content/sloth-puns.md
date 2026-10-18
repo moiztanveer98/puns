@@ -20,7 +20,7 @@ These one-liners work well as a quick joke or a ready-made caption.
 - "He's a hang-fessional in the canopy."
 - "Sloths don't do fast mornings; they do slow-motion ones."
 - "My sloth's favorite subject in school was branch-ology, taught very slowly."
-- "She's no rush, and don't tell her twice — she'll get to it eventually."
+- "She's no rush, and don't tell her twice. She'll get to it eventually."
 - "That sloth has some serious slow-mo attitude."
 - "My sloth's a copy-sloth, literally identical to the one next to him, just slower."
 - "He only answers to leaves, never to reason, and even then it takes a while."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still no-rush amazing. Happy birthday!"
 - "May your birthday be filled with leaves and zero fast deadlines."
 - "You're not getting older, you're just taking your time leveling up."
-- "Happy birthday — go celebrate slowly, like a sloth who found the sunniest branch."
+- "Happy birthday! Go celebrate slowly, like a sloth who found the sunniest branch."
 - "Here's to a birthday as cozy as a sloth in fresh leaves."
 - "Happy birthday to a true canopy favorite."
 
@@ -135,7 +135,7 @@ These lines add a laugh to the celebration.
 These pickup lines are flirty, clean, and ready to use.
 
 - "Are you a sloth? Because I'd slow down my whole day for you."
-- "Is your name Flash? Because I'm definitely not — but I'd still hang around for you."
+- "Is your name Flash? Because I'm definitely not, but I'd still hang around for you."
 - "I must be a branch, because I can't stop you from hanging around."
 - "Are you fresh leaves? Because I can't stay away."
 - "Did you just blink slowly, or did my heart skip a beat?"
@@ -224,13 +224,13 @@ Sloth puns work in birthday cards for laid-back friends, party signs for a chill
 ## FAQ
 
 **What are the best sloth puns?**
-The best sloth puns lean on real sloth behavior — hanging, moving slowly and napping — rather than generic animal jokes. Lines like "worth slowing down for" and "no rush" work because they sound like natural sloth wordplay. The strongest ones double as both a joke and a caption.
+The best sloth puns lean on real sloth behavior, such as hanging, moving slowly and napping, rather than generic animal jokes. Lines like "worth slowing down for" and "no rush" work because they sound like natural sloth wordplay. The strongest ones double as both a joke and a caption.
 
 **Are sloth puns good for kids?**
 Yes, sloth puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a sloth's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a sloth pun?**
-Start with a sloth-specific word — "slow", "hang", "branch", "nap", "canopy" — and listen for a word it sounds like or rhymes with, such as "worth slowing down for" playing on "worth it." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a sloth-specific word, such as "slow", "hang", "branch", "nap", and "canopy", and listen for a word it sounds like or rhymes with, such as "worth slowing down for" playing on "worth it." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

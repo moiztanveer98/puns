@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're s-cute, and my heart coils every time I see you."
 - "My heart hisses with excitement every time you're near."
-- "You had me at 'hiss' — now I'm yours forever."
+- "You had me at 'hiss.' Now I'm yours forever."
 - "Loving you is easy; it's hiss-terically natural."
 - "You're the only terrarium I actually want to settle into."
 - "You make my heart coil in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still scale-tastic as ever. Happy birthday!"
 - "May your birthday be filled with warmth and zero empty terrariums."
 - "You're not getting older, you're just shedding into a new year."
-- "Happy birthday — go celebrate like a snake who found the warmest rock."
+- "Happy birthday! Go celebrate like a snake who found the warmest rock."
 - "Here's to a birthday as cozy as a snake's favorite coil."
 - "Happy birthday to a true terrarium favorite."
 
@@ -224,13 +224,13 @@ Snake puns work in birthday cards for reptile lovers, party signs for a jungle o
 ## FAQ
 
 **What are the best snake puns?**
-The best snake puns lean on real snake behavior — hissing, slithering and coiling — rather than generic animal jokes. Lines like "hiss-terical" and "s-cute" work because they sound like natural snake wordplay. The strongest ones double as both a joke and a caption.
+The best snake puns lean on real snake behavior, such as hissing, slithering and coiling, rather than generic animal jokes. Lines like "hiss-terical" and "s-cute" work because they sound like natural snake wordplay. The strongest ones double as both a joke and a caption.
 
 **Are snake puns good for kids?**
 Yes, snake puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a snake's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a snake pun?**
-Start with a snake-specific word — "hiss", "slither", "scales", "fang", "coil" — and listen for a word it sounds like or rhymes with, such as "hiss-terical" from "hysterical." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a snake-specific word, such as "hiss", "slither", "scales", "fang", and "coil", and listen for a word it sounds like or rhymes with, such as "hiss-terical" from "hysterical." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

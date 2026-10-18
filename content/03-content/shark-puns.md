@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're jaw-some, and I mean that with all my heart."
 - "My heart circles every time I see you."
-- "You had me at 'hello' — now I'm yours forever."
+- "You had me at 'hello.' Now I'm yours forever."
 - "Loving you is easy; it's jaw-somely natural."
 - "You're the only reef I actually want to settle into."
 - "You make my heart fin-flutter in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still fin-tastic as ever. Happy birthday!"
 - "May your birthday be filled with fish and zero empty reefs."
 - "You're not getting older, you're just leveling up your bite."
-- "Happy birthday — go celebrate like a shark who found the open ocean."
+- "Happy birthday! Go celebrate like a shark who found the open ocean."
 - "Here's to a birthday as deep as the ocean."
 - "Happy birthday to a true reef favorite."
 
@@ -224,13 +224,13 @@ Shark puns work in birthday cards for ocean lovers, party signs for a beach or a
 ## FAQ
 
 **What are the best shark puns?**
-The best shark puns lean on real shark features — fins, bites and ocean prowls — rather than generic animal jokes. Lines like "jaw-some" and "jaw-dropping" work because they sound like natural shark wordplay. The strongest ones double as both a joke and a caption.
+The best shark puns lean on real shark features, such as fins, bites and ocean prowls, rather than generic animal jokes. Lines like "jaw-some" and "jaw-dropping" work because they sound like natural shark wordplay. The strongest ones double as both a joke and a caption.
 
 **Are shark puns good for kids?**
 Yes, shark puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a shark's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a shark pun?**
-Start with a shark-specific word — "fin", "bite", "jaw", "teeth", "reef" — and listen for a word it sounds like or rhymes with, such as "jaw-some" from "awesome." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a shark-specific word, such as "fin", "bite", "jaw", "teeth", and "reef", and listen for a word it sounds like or rhymes with, such as "jaw-some" from "awesome." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

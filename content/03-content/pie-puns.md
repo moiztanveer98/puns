@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're easy as pie to love, every single day."
 - "My heart feels extra warm every time I see you."
-- "You had me at 'fresh crust' — now I'm yours forever."
+- "You had me at 'fresh crust.' Now I'm yours forever."
 - "Loving you is easy; it's pie-level natural."
 - "You're the only table I actually want to settle into."
 - "You make my heart flake in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still pie-level amazing. Happy birthday!"
 - "May your birthday be filled with filling and zero soggy crusts."
 - "You're not getting older, you're just leveling up your crust game."
-- "Happy birthday — go celebrate like a pie fresh out of the oven."
+- "Happy birthday! Go celebrate like a pie fresh out of the oven."
 - "Here's to a birthday as warm as fresh pie."
 - "Happy birthday to a true bakery favorite."
 
@@ -224,13 +224,13 @@ Pie puns work in holiday cards, party signs for a Thanksgiving or bakery-themed 
 ## FAQ
 
 **What are the best pie puns?**
-The best pie puns lean on real pie features — flaky crusts, warm fillings and holiday tables — rather than generic dessert jokes. Lines like "easy as pie" and "pie-ce of mind" work because they sound like natural pie wordplay. The strongest ones double as both a joke and a caption.
+The best pie puns lean on real pie features, such as flaky crusts, warm fillings and holiday tables, rather than generic dessert jokes. Lines like "easy as pie" and "pie-ce of mind" work because they sound like natural pie wordplay. The strongest ones double as both a joke and a caption.
 
 **Are pie puns good for kids?**
 Yes, pie puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a pie's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a pie pun?**
-Start with a pie-specific word — "crust", "filling", "slice", "bake", "flaky" — and listen for a word it sounds like or rhymes with, such as "easy as pie" from the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a pie-specific word, such as "crust", "filling", "slice", "bake", and "flaky", and listen for a word it sounds like or rhymes with, such as "easy as pie" from the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

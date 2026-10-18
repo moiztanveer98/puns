@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the one who melts the ice around my heart."
 - "My heart waddles every time I see you."
-- "You had me at 'waddle' — now I'm yours forever."
+- "You had me at 'waddle.' Now I'm yours forever."
 - "Loving you is easy; it's ice-breakingly natural."
 - "You're the only huddle I actually want to settle into."
 - "You make my heart slide in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still tuxedo-ready as ever. Happy birthday!"
 - "May your birthday be filled with fish and zero empty ice floes."
 - "You're not getting older, you're just leveling up your waddle game."
-- "Happy birthday — go celebrate like a penguin who found the warmest huddle."
+- "Happy birthday! Go celebrate like a penguin who found the warmest huddle."
 - "Here's to a birthday as cozy as a penguin huddle."
 - "Happy birthday to a true colony favorite."
 
@@ -224,13 +224,13 @@ Penguin puns work in birthday cards for animal lovers, party signs for a winter 
 ## FAQ
 
 **What are the best penguin puns?**
-The best penguin puns lean on real penguin behavior — waddling, sliding and huddling — rather than generic animal jokes. Lines like "break the ice" and "chill vibes" work because they sound like natural penguin wordplay. The strongest ones double as both a joke and a caption.
+The best penguin puns lean on real penguin behavior, such as waddling, sliding and huddling, rather than generic animal jokes. Lines like "break the ice" and "chill vibes" work because they sound like natural penguin wordplay. The strongest ones double as both a joke and a caption.
 
 **Are penguin puns good for kids?**
 Yes, penguin puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a penguin's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a penguin pun?**
-Start with a penguin-specific word — "waddle", "ice", "flipper", "huddle", "tuxedo" — and listen for a word it sounds like or rhymes with, such as "break the ice" playing on the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a penguin-specific word, such as "waddle", "ice", "flipper", "huddle", and "tuxedo", and listen for a word it sounds like or rhymes with, such as "break the ice" playing on the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

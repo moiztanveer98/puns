@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're snow much fun, and I mean that forever."
 - "My heart feels extra sparkly every time I see you."
-- "You had me at 'snow day' — now I'm yours forever."
+- "You had me at 'snow day.' Now I'm yours forever."
 - "Loving you is easy; it's snow-much-fun natural."
 - "You're the only snow pile I actually want to settle into."
 - "You make my heart sparkle in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still snow much fun as ever. Happy birthday!"
 - "May your birthday be filled with flakes and zero slushy puddles."
 - "You're not getting older, you're just leveling up your sled game."
-- "Happy birthday — go celebrate like a fresh snow day."
+- "Happy birthday! Go celebrate like a fresh snow day."
 - "Here's to a birthday as bright as fresh snow."
 - "Happy birthday to a true snow-day favorite."
 
@@ -224,13 +224,13 @@ Snow puns work in holiday cards, party signs for a snow-day or winter event, cla
 ## FAQ
 
 **What are the best snow puns?**
-The best snow puns lean on real snow features — flakes, drifts and sledding — rather than generic winter jokes. Lines like "snow much fun" and "cold and bright" work because they sound like natural snow wordplay. The strongest ones double as both a joke and a caption.
+The best snow puns lean on real snow features, such as flakes, drifts and sledding, rather than generic winter jokes. Lines like "snow much fun" and "cold and bright" work because they sound like natural snow wordplay. The strongest ones double as both a joke and a caption.
 
 **Are snow puns good for kids?**
 Yes, snow puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's snow's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a snow pun?**
-Start with a snow-specific word — "flake", "drift", "blizzard", "sled", "white" — and listen for a word it sounds like or rhymes with, such as "snow much fun" from "so much fun." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a snow-specific word, such as "flake", "drift", "blizzard", "sled", and "white", and listen for a word it sounds like or rhymes with, such as "snow much fun" from "so much fun." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

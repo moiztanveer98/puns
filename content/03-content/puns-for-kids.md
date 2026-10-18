@@ -174,7 +174,7 @@ Knock-knock jokes are a kids' classic, perfect for giggles anywhere.
 - Knock knock! Who's there? Lettuce. Lettuce who? Lettuce in, it's cold out here!
 - Knock knock! Who's there? Boo. Boo who? Aw, don't cry, it's just a joke!
 - Knock knock! Who's there? Cow says. Cow says who? No, a cow says moo!
-- Knock knock! Who's there? Interrupting cow. Interrupting cow w— MOO!
+- Knock knock! Who's there? Interrupting cow. Interrupting cow wh... MOO!
 - Knock knock! Who's there? Banana. Banana who? Knock knock! Who's there? Banana. Banana who? Orange. Orange who? Orange you glad I didn't say banana!
 - Knock knock! Who's there? Tank. Tank who? You're welcome!
 - Knock knock! Who's there? Owl. Owl who? Owl be seeing you soon!
@@ -276,7 +276,7 @@ A kid-friendly pun uses simple, familiar words, avoids any double meaning that i
 Yes, every pun on this page avoids innuendo and uses vocabulary a young reader already knows, which makes them safe for lunchbox notes, classroom bulletin boards, and party favors.
 
 **How do you make your own kids' pun?**
-Pick a simple, familiar word — an animal, a food, a holiday — and find a silly sound-alike a kid would recognize. Try our [Pun Generator](/pun-generator/) to build one instantly, or see our [how to write a pun](/how-to-write-a-pun/) guide.
+Pick a simple, familiar word, such as an animal, a food or a holiday, and find a silly sound-alike a kid would recognize. Try our [Pun Generator](/pun-generator/) to build one instantly, or see our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## More Ways to Use Puns
 

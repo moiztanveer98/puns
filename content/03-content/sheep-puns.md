@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the wool to my sweater, and I'm not just saying that for warmth."
 - "My heart baas every time I see you."
-- "You had me at 'baa' — now I'm yours forever."
+- "You had me at 'baa.' Now I'm yours forever."
 - "Loving you is easy; it's shear natural."
 - "You're the only flock I actually want to settle into."
 - "You make my heart baa in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still flock-worthy as ever. Happy birthday!"
 - "May your birthday be filled with clover and zero empty pastures."
 - "You're not getting older, you're just leveling up your wool game."
-- "Happy birthday — go celebrate like a sheep who found the open gate."
+- "Happy birthday! Go celebrate like a sheep who found the open gate."
 - "Here's to a birthday as cozy as a sheep in fresh wool."
 - "Happy birthday to a true flock favorite."
 
@@ -224,13 +224,13 @@ Sheep puns work in birthday cards for farm lovers, party signs for a farm-themed
 ## FAQ
 
 **What are the best sheep puns?**
-The best sheep puns lean on real sheep behavior — baaing, grazing and flocking — rather than generic animal jokes. Lines like "shear genius" and "ewe-nique" work because they sound like natural sheep words. The strongest ones double as both a joke and a caption.
+The best sheep puns lean on real sheep behavior, such as baaing, grazing and flocking, rather than generic animal jokes. Lines like "shear genius" and "ewe-nique" work because they sound like natural sheep words. The strongest ones double as both a joke and a caption.
 
 **Are sheep puns good for kids?**
 Yes, sheep puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a sheep's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a sheep pun?**
-Start with a sheep-specific word — "baa", "wool", "flock", "fleece", "shear" — and listen for a word it sounds like or rhymes with, such as "shear genius" from "sheer genius." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a sheep-specific word, such as "baa", "wool", "flock", "fleece", and "shear", and listen for a word it sounds like or rhymes with, such as "shear genius" from "sheer genius." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the right formula, and I mean that forever."
 - "My heart feels extra curious every time I see you."
-- "You had me at 'lab results' — now I'm yours forever."
+- "You had me at 'lab results.' Now I'm yours forever."
 - "Loving you is easy; it's scientifically natural."
 - "You're the only experiment I actually want to repeat."
 - "You make my heart react in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still scientifically amazing. Happy birthday!"
 - "May your birthday be filled with discoveries and zero failed experiments."
 - "You're not getting older, you're just leveling up your formula."
-- "Happy birthday — go celebrate like a successful lab result."
+- "Happy birthday! Go celebrate like a successful lab result."
 - "Here's to a birthday as curious as a new experiment."
 - "Happy birthday to a true lab-bench favorite."
 
@@ -224,13 +224,13 @@ Science puns work in birthday cards for science lovers, party signs for a lab or
 ## FAQ
 
 **What are the best science puns?**
-The best science puns lean on real science features — experiments, formulas and lab life — rather than generic smart jokes. Lines like "the right formula" and "lab-tastic" work because they sound like natural science wordplay. The strongest ones double as both a joke and a caption.
+The best science puns lean on real science features, such as experiments, formulas and lab life, rather than generic smart jokes. Lines like "the right formula" and "lab-tastic" work because they sound like natural science wordplay. The strongest ones double as both a joke and a caption.
 
 **Are science puns good for kids?**
 Yes, science puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's science's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a science pun?**
-Start with a science-specific word — "experiment", "lab", "formula", "theory", "reaction" — and listen for a word it sounds like or rhymes with, such as "the right formula" from the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a science-specific word, such as "experiment", "lab", "formula", "theory", and "reaction", and listen for a word it sounds like or rhymes with, such as "the right formula" from the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

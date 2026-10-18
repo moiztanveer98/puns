@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're some-bunny special, and I'm not just saying that for carrots."
 - "My heart hops every time I see you."
-- "You had me at 'hop over here' — now I'm yours forever."
+- "You had me at 'hop over here.' Now I'm yours forever."
 - "Loving you is easy; it's hare-larious how natural it feels."
 - "You're the only burrow I actually want to curl up in."
 - "You make my whiskers twitch in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still hare-raising as ever. Happy birthday!"
 - "May your birthday be filled with carrots and zero slow hops."
 - "You're not getting older, you're just leveling up your hippity-hop."
-- "Happy birthday — go celebrate like a rabbit who found the garden gate open."
+- "Happy birthday! Go celebrate like a rabbit who found the garden gate open."
 - "Here's to a birthday as cozy as a rabbit in a warm burrow."
 - "Happy birthday to a true hare-raising personality."
 
@@ -224,13 +224,13 @@ Rabbit puns work in Easter cards, party signs for a spring-themed get-together, 
 ## FAQ
 
 **What are the best rabbit puns?**
-The best rabbit puns lean on real rabbit behavior — hopping, nibbling, twitching and burrowing — rather than generic animal jokes. Lines like "hare-larious" and "some-bunny" work because they sound like natural rabbit words. The strongest ones double as both a joke and a caption.
+The best rabbit puns lean on real rabbit behavior, such as hopping, nibbling, twitching and burrowing, rather than generic animal jokes. Lines like "hare-larious" and "some-bunny" work because they sound like natural rabbit words. The strongest ones double as both a joke and a caption.
 
 **Are rabbit puns good for kids?**
 Yes, rabbit puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a rabbit's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a rabbit pun?**
-Start with a rabbit-specific word — "hop", "hare", "burrow", "carrot", "bunny" — and listen for a word it sounds like or rhymes with, such as "hare-larious" from "hilarious." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a rabbit-specific word, such as "hop", "hare", "burrow", "carrot", and "bunny", and listen for a word it sounds like or rhymes with, such as "hare-larious" from "hilarious." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

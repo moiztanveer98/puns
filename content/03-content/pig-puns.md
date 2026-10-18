@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the bacon to my eggs, and I'm not just saying that for breakfast."
 - "My heart oinks every time I see you."
-- "You had me at 'oink' — now I'm yours forever."
+- "You had me at 'oink.' Now I'm yours forever."
 - "Loving you is easy; it's hog-wild natural."
 - "You're the only sty I actually want to settle into."
 - "You make my heart squeal in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still squeal-worthy as ever. Happy birthday!"
 - "May your birthday be filled with slop and zero empty troughs."
 - "You're not getting older, you're just leveling up your mud game."
-- "Happy birthday — go celebrate like a pig who found the open gate."
+- "Happy birthday! Go celebrate like a pig who found the open gate."
 - "Here's to a birthday as cozy as a pig in fresh straw."
 - "Happy birthday to a true sty favorite."
 
@@ -224,13 +224,13 @@ Pig puns work in birthday cards for farm lovers, party signs for a farm-themed g
 ## FAQ
 
 **What are the best pig puns?**
-The best pig puns lean on real pig behavior — oinking, rooting in mud and lounging in the sty — rather than generic animal jokes. Lines like "hog-wild" and "squeal appeal" work because they sound like natural pig words. The strongest ones double as both a joke and a caption.
+The best pig puns lean on real pig behavior, such as oinking, rooting in mud and lounging in the sty, rather than generic animal jokes. Lines like "hog-wild" and "squeal appeal" work because they sound like natural pig words. The strongest ones double as both a joke and a caption.
 
 **Are pig puns good for kids?**
 Yes, pig puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a pig's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a pig pun?**
-Start with a pig-specific word — "oink", "snout", "mud", "hog", "trough" — and listen for a word it sounds like or rhymes with, such as "hog-wild" from "hog wild." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a pig-specific word, such as "oink", "snout", "mud", "hog", and "trough", and listen for a word it sounds like or rhymes with, such as "hog-wild" from "hog wild." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're simply pine-apple-ing, and I mean that forever."
 - "My heart feels tropical every time I see you."
-- "You had me at 'luau' — now I'm yours forever."
+- "You had me at 'luau.' Now I'm yours forever."
 - "Loving you is easy; it's pine-apple-ingly natural."
 - "You're the only fruit bowl I actually want to settle into."
 - "You make my heart sweeten in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still perfectly sweet. Happy birthday!"
 - "May your birthday be filled with sunshine and zero prickly moments."
 - "You're not getting older, you're just leveling up your crown."
-- "Happy birthday — go celebrate like a pineapple fresh off the plant."
+- "Happy birthday! Go celebrate like a pineapple fresh off the plant."
 - "Here's to a birthday as sweet as a tropical luau."
 - "Happy birthday to a true fruit bowl favorite."
 
@@ -224,13 +224,13 @@ Pineapple puns work in birthday cards for tropical lovers, party signs for a lua
 ## FAQ
 
 **What are the best pineapple puns?**
-The best pineapple puns lean on real pineapple features — spiky crowns, tropical sweetness and summer vibes — rather than generic food jokes. Lines like "pine-apple-ing" and "crown life" work because they sound like natural pineapple wordplay. The strongest ones double as both a joke and a caption.
+The best pineapple puns lean on real pineapple features, such as spiky crowns, tropical sweetness and summer vibes, rather than generic food jokes. Lines like "pine-apple-ing" and "crown life" work because they sound like natural pineapple wordplay. The strongest ones double as both a joke and a caption.
 
 **Are pineapple puns good for kids?**
 Yes, pineapple puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a pineapple's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a pineapple pun?**
-Start with a pineapple-specific word — "spiky", "tropical", "crown", "sweet", "slice" — and listen for a word it sounds like or rhymes with, such as "pine-apple-ing" from "appealing." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a pineapple-specific word, such as "spiky", "tropical", "crown", "sweet", and "slice", and listen for a word it sounds like or rhymes with, such as "pine-apple-ing" from "appealing." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

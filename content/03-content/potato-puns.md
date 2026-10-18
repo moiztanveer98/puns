@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're spud-tacular, and I mean that forever."
 - "My heart feels extra starchy every time I see you."
-- "You had me at 'fresh fries' — now I'm yours forever."
+- "You had me at 'fresh fries.' Now I'm yours forever."
 - "Loving you is easy; it's spud-tacularly natural."
 - "You're the only sack I actually want to settle into."
 - "You make my heart mash in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still perfectly fried. Happy birthday!"
 - "May your birthday be filled with fries and zero empty sacks."
 - "You're not getting older, you're just leveling up your mash game."
-- "Happy birthday — go celebrate like a potato fresh out of the oven."
+- "Happy birthday! Go celebrate like a potato fresh out of the oven."
 - "Here's to a birthday as cozy as mashed potatoes."
 - "Happy birthday to a true pantry favorite."
 
@@ -224,13 +224,13 @@ Potato puns work in birthday cards for food lovers, party signs for a BBQ or com
 ## FAQ
 
 **What are the best potato puns?**
-The best potato puns lean on real potato features — mashing, frying and starchiness — rather than generic food jokes. Lines like "spud-tacular" and "small potatoes" work because they sound like natural potato wordplay. The strongest ones double as both a joke and a caption.
+The best potato puns lean on real potato features, such as mashing, frying and starchiness, rather than generic food jokes. Lines like "spud-tacular" and "small potatoes" work because they sound like natural potato wordplay. The strongest ones double as both a joke and a caption.
 
 **Are potato puns good for kids?**
 Yes, potato puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a potato's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a potato pun?**
-Start with a potato-specific word — "spud", "mash", "fry", "peel", "starchy" — and listen for a word it sounds like or rhymes with, such as "spud-tacular" from "spectacular." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a potato-specific word, such as "spud", "mash", "fry", "peel", and "starchy", and listen for a word it sounds like or rhymes with, such as "spud-tacular" from "spectacular." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

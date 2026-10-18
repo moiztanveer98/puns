@@ -19,7 +19,7 @@ These one-liners work well as a quick joke or a ready-made caption.
 - "That joke was so bad it deserves a stuffed-crust apology."
 - "He's a dough-fessional at folding slices."
 - "Pizza doesn't do mornings; it does midnight deliveries."
-- "My favorite subject in school was pizza-geography — the eight-slice kind."
+- "My favorite subject in school was pizza-geography: the eight-slice kind."
 - "She's saucy, but don't tell her twice."
 - "That pizza has some serious cheesy attitude."
 - "My order's a copy-pie, literally the same every Friday."
@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the slice of my heart, and I'm not just saying that for the cheese."
 - "My heart melts every time I see you, just like fresh mozzarella."
-- "You had me at 'extra cheese' — now I'm yours for every order."
+- "You had me at 'extra cheese.' Now I'm yours for every order."
 - "Loving you is easy; it's a slice above natural."
 - "You're the only box I actually want to open every day."
 - "You make my pepperoni heart skip a topping."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still saucy as ever. Happy birthday!"
 - "May your birthday be filled with toppings and zero soggy crusts."
 - "You're not getting older, you're just leveling up your toppings game."
-- "Happy birthday — go celebrate like a pizza fresh out of the oven."
+- "Happy birthday! Go celebrate like a pizza fresh out of the oven."
 - "Here's to a birthday as warm as a fresh pie."
 - "Happy birthday to a true crust-tomer favorite."
 
@@ -274,13 +274,13 @@ Pizza puns work in birthday cards for pizza lovers, party signs for a pizza-them
 ## FAQ
 
 **What are the best pizza puns?**
-The best pizza puns lean on real pizza features — cheese, crust, toppings and delivery — rather than generic food jokes. Lines like "a slice above" and "cheesy but true" work because they sound like natural pizza words. The strongest ones double as both a joke and a caption.
+The best pizza puns lean on real pizza features, such as cheese, crust, toppings and delivery, rather than generic food jokes. Lines like "a slice above" and "cheesy but true" work because they sound like natural pizza words. The strongest ones double as both a joke and a caption.
 
 **Are pizza puns good for kids?**
 Yes, pizza puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a pizza's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a pizza pun?**
-Start with a pizza-specific word — "slice", "crust", "cheese", "topping", "dough" — and listen for a word it sounds like or rhymes with, such as "a slice above" from "a cut above." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a pizza-specific word, such as "slice", "crust", "cheese", "topping", and "dough", and listen for a word it sounds like or rhymes with, such as "a slice above" from "a cut above." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 
