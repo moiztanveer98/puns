@@ -98,6 +98,18 @@ function craftypuns_head_meta() {
 add_action( 'wp_head', 'craftypuns_head_meta', 1 );
 
 /**
+ * Overrides WP core's title-tag output (which uses get_the_title()) with our
+ * SEO title so <title> matches the meta_title set on each article/page.
+ */
+function craftypuns_document_title( $title ) {
+	if ( craftypuns_seo_plugin_active() || ! is_singular() ) {
+		return $title;
+	}
+	return craftypuns_get_seo_title();
+}
+add_filter( 'pre_get_document_title', 'craftypuns_document_title' );
+
+/**
  * Canonical URL is always emitted by the theme if no SEO plugin handles it.
  */
 function craftypuns_get_canonical_url() {
