@@ -7,7 +7,7 @@ meta_description: "Learn the main types of puns, including homophonic, homograph
 
 # Types of Puns: 7 Kinds of Wordplay With Examples
 
-There are 7 main types of puns — homophonic, homographic, homonymic, compound, recursive, visual, and texting puns — each named for how its double meaning is built: by sound, by spelling, by combining both, by structure, or by swapping format entirely.
+There are 7 main types of puns, including homophonic, homographic, homonymic, compound, recursive, visual, and texting puns, each named for how its double meaning is built: by sound, by spelling, by combining both, by structure, or by swapping format entirely.
 
 ## What Are Homophonic Puns?
 
@@ -19,7 +19,7 @@ Homographic puns are puns that rely on one word spelled the same way but carryin
 
 ## What Are Homonymic Puns?
 
-Homonymic puns are puns that combine both homophonic and homographic mechanisms at once — the word sounds alike, is spelled alike, and still carries two separate meanings. "The past, present, and future walked into a bar — it was tense" plays on *tense* as both a grammar term and an emotional state. Read the full [homonymic puns](/homonymic-puns/) guide for more examples.
+Homonymic puns are puns that combine both homophonic and homographic mechanisms at once: the word sounds alike, is spelled alike, and still carries two separate meanings. "The past, present, and future walked into a bar. It was tense" plays on *tense* as both a grammar term and an emotional state. Read the full [homonymic puns](/homonymic-puns/) guide for more examples.
 
 ## What Are Compound Puns?
 

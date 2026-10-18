@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're whale-y the one for me."
 - "My heart splashes every time I see you."
-- "You had me at 'hello' — now I'm yours forever."
+- "You had me at 'hello.' Now I'm yours forever."
 - "Loving you is easy; it's whale-y natural."
 - "You're the only pod I actually want to settle into."
 - "You make my heart breach in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still pod-worthy as ever. Happy birthday!"
 - "May your birthday be filled with krill and zero empty oceans."
 - "You're not getting older, you're just leveling up your song."
-- "Happy birthday — go celebrate like a whale who found the open ocean."
+- "Happy birthday! Go celebrate like a whale who found the open ocean."
 - "Here's to a birthday as deep as the sea."
 - "Happy birthday to a true pod favorite."
 
@@ -224,13 +224,13 @@ Whale puns work in birthday cards for ocean lovers, party signs for a beach or a
 ## FAQ
 
 **What are the best whale puns?**
-The best whale puns lean on real whale features — splashes, songs and breaches — rather than generic animal jokes. Lines like "whale-y good" and "big splash" work because they sound like natural whale wordplay. The strongest ones double as both a joke and a caption.
+The best whale puns lean on real whale features, such as splashes, songs and breaches, rather than generic animal jokes. Lines like "whale-y good" and "big splash" work because they sound like natural whale wordplay. The strongest ones double as both a joke and a caption.
 
 **Are whale puns good for kids?**
 Yes, whale puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a whale's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a whale pun?**
-Start with a whale-specific word — "splash", "fin", "blowhole", "song", "breach" — and listen for a word it sounds like or rhymes with, such as "whale-y" from "really." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a whale-specific word, such as "splash", "fin", "blowhole", "song", and "breach", and listen for a word it sounds like or rhymes with, such as "whale-y" from "really." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

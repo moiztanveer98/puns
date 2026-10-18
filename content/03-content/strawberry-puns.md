@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're berry special, and I mean that with all my heart."
 - "My heart feels extra sweet every time I see you."
-- "You had me at 'shortcake' — now I'm yours forever."
+- "You had me at 'shortcake.' Now I'm yours forever."
 - "Loving you is easy; it's berry natural."
 - "You're the only patch I actually want to settle into."
 - "You make my heart sweeten in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still perfectly sweet. Happy birthday!"
 - "May your birthday be filled with berries and zero empty baskets."
 - "You're not getting older, you're just leveling up your sweetness."
-- "Happy birthday — go celebrate like a strawberry fresh from the patch."
+- "Happy birthday! Go celebrate like a strawberry fresh from the patch."
 - "Here's to a birthday as sweet as summer shortcake."
 - "Happy birthday to a true patch favorite."
 
@@ -224,13 +224,13 @@ Strawberry puns work in birthday cards for fruit lovers, party signs for a summe
 ## FAQ
 
 **What are the best strawberry puns?**
-The best strawberry puns lean on real strawberry features — sweetness, patches and shortcake — rather than generic food jokes. Lines like "berry funny" and "berry nice" work because they sound like natural strawberry wordplay. The strongest ones double as both a joke and a caption.
+The best strawberry puns lean on real strawberry features, such as sweetness, patches and shortcake, rather than generic food jokes. Lines like "berry funny" and "berry nice" work because they sound like natural strawberry wordplay. The strongest ones double as both a joke and a caption.
 
 **Are strawberry puns good for kids?**
 Yes, strawberry puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a strawberry's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a strawberry pun?**
-Start with a strawberry-specific word — "berry", "seed", "sweet", "patch", "juicy" — and listen for a word it sounds like or rhymes with, such as "berry funny" from "very funny." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a strawberry-specific word, such as "berry", "seed", "sweet", "patch", and "juicy", and listen for a word it sounds like or rhymes with, such as "berry funny" from "very funny." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

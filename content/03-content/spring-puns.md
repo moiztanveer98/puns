@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're blooming funny, and I mean that forever."
 - "My heart feels extra fresh every time I see you."
-- "You had me at 'first bloom' — now I'm yours forever."
+- "You had me at 'first bloom.' Now I'm yours forever."
 - "Loving you is easy; it's spring-level natural."
 - "You're the only garden I actually want to settle into."
 - "You make my heart bloom in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still blooming marvelous as ever. Happy birthday!"
 - "May your birthday be filled with flowers and zero late frosts."
 - "You're not getting older, you're just leveling up your bloom game."
-- "Happy birthday — go celebrate like a garden in full bloom."
+- "Happy birthday! Go celebrate like a garden in full bloom."
 - "Here's to a birthday as fresh as a spring morning."
 - "Happy birthday to a true garden favorite."
 
@@ -224,13 +224,13 @@ Spring puns work in birthday cards for garden lovers, party signs for a spring o
 ## FAQ
 
 **What are the best spring puns?**
-The best spring puns lean on real spring features — blooms, rain and fresh growth — rather than generic seasonal jokes. Lines like "blooming funny" and "fresh and new" work because they sound like natural spring wordplay. The strongest ones double as both a joke and a caption.
+The best spring puns lean on real spring features, such as blooms, rain and fresh growth, rather than generic seasonal jokes. Lines like "blooming funny" and "fresh and new" work because they sound like natural spring wordplay. The strongest ones double as both a joke and a caption.
 
 **Are spring puns good for kids?**
 Yes, spring puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's spring's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a spring pun?**
-Start with a spring-specific word — "bloom", "bud", "flower", "rain", "grow" — and listen for a word it sounds like or rhymes with, such as "blooming funny" from "bloody funny." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a spring-specific word, such as "bloom", "bud", "flower", "rain", and "grow", and listen for a word it sounds like or rhymes with, such as "blooming funny" from "bloody funny." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're wine-derful, and I mean that forever."
 - "My heart feels extra rich every time I see you."
-- "You had me at 'fresh pour' — now I'm yours forever."
+- "You had me at 'fresh pour.' Now I'm yours forever."
 - "Loving you is easy; it's wine-derfully natural."
 - "You're the only cellar I actually want to settle into."
 - "You make my heart swirl in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still wine-derful as ever. Happy birthday!"
 - "May your birthday be filled with good vintages and zero corked bottles."
 - "You're not getting older, you're just leveling up your aging game."
-- "Happy birthday — go celebrate like a wine fresh off the vine."
+- "Happy birthday! Go celebrate like a wine fresh off the vine."
 - "Here's to a birthday as smooth as a good glass of wine."
 - "Happy birthday to a true vineyard favorite."
 
@@ -224,13 +224,13 @@ Wine puns work in birthday cards for wine lovers, party signs for a vineyard or 
 ## FAQ
 
 **What are the best wine puns?**
-The best wine puns lean on real wine features — grapes, aging and pouring — rather than generic drink jokes. Lines like "wine-derful" and "whine not" work because they sound like natural wine wordplay. The strongest ones double as both a joke and a caption.
+The best wine puns lean on real wine features, such as grapes, aging and pouring, rather than generic drink jokes. Lines like "wine-derful" and "whine not" work because they sound like natural wine wordplay. The strongest ones double as both a joke and a caption.
 
 **Are wine puns good for kids?**
 Yes, wine-themed wordplay can work for kids when adapted to grape juice and kept clean. Simple setups like "what's wine's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a wine pun?**
-Start with a wine-specific word — "grape", "vineyard", "glass", "cork", "sip" — and listen for a word it sounds like or rhymes with, such as "wine-derful" from "wonderful." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a wine-specific word, such as "grape", "vineyard", "glass", "cork", and "sip", and listen for a word it sounds like or rhymes with, such as "wine-derful" from "wonderful." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

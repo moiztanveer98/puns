@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're snow joke, and I mean that forever."
 - "My heart feels extra cozy every time I see you."
-- "You had me at 'hot cocoa' — now I'm yours forever."
+- "You had me at 'hot cocoa.' Now I'm yours forever."
 - "Loving you is easy; it's snow-joke natural."
 - "You're the only blanket I actually want to settle into."
 - "You make my heart warm up in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still ice cold as ever. Happy birthday!"
 - "May your birthday be filled with snow and zero cold feet."
 - "You're not getting older, you're just leveling up your cozy game."
-- "Happy birthday — go celebrate like a winter day by the fire."
+- "Happy birthday! Go celebrate like a winter day by the fire."
 - "Here's to a birthday as cozy as a winter blanket."
 - "Happy birthday to a true fireside favorite."
 
@@ -224,13 +224,13 @@ Winter puns work in holiday cards, party signs for a cozy or fireside-themed eve
 ## FAQ
 
 **What are the best winter puns?**
-The best winter puns lean on real winter features — snow, frost and coziness — rather than generic seasonal jokes. Lines like "snow joke" and "ice cold" work because they sound like natural winter wordplay. The strongest ones double as both a joke and a caption.
+The best winter puns lean on real winter features, such as snow, frost and coziness, rather than generic seasonal jokes. Lines like "snow joke" and "ice cold" work because they sound like natural winter wordplay. The strongest ones double as both a joke and a caption.
 
 **Are winter puns good for kids?**
 Yes, winter puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's winter's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a winter pun?**
-Start with a winter-specific word — "snow", "frost", "cold", "ice", "chill" — and listen for a word it sounds like or rhymes with, such as "snow joke" from "no joke." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a winter-specific word, such as "snow", "frost", "cold", "ice", and "chill", and listen for a word it sounds like or rhymes with, such as "snow joke" from "no joke." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

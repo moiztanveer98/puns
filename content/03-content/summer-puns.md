@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're sun-sational, and I mean that forever."
 - "My heart feels extra warm every time I see you."
-- "You had me at 'beach day' — now I'm yours forever."
+- "You had me at 'beach day.' Now I'm yours forever."
 - "Loving you is easy; it's sun-sationally natural."
 - "You're the only beach I actually want to settle into."
 - "You make my heart shine in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still sun-sational as ever. Happy birthday!"
 - "May your birthday be filled with sunshine and zero rain clouds."
 - "You're not getting older, you're just leveling up your tan game."
-- "Happy birthday — go celebrate like a summer day at the beach."
+- "Happy birthday! Go celebrate like a summer day at the beach."
 - "Here's to a birthday as warm as a summer afternoon."
 - "Happy birthday to a true beach-day favorite."
 
@@ -224,13 +224,13 @@ Summer puns work in vacation cards, party signs for a pool or beach-themed event
 ## FAQ
 
 **What are the best summer puns?**
-The best summer puns lean on real summer features — sunshine, beaches and heat — rather than generic seasonal jokes. Lines like "sun-sational" and "hot and bright" work because they sound like natural summer wordplay. The strongest ones double as both a joke and a caption.
+The best summer puns lean on real summer features, such as sunshine, beaches and heat, rather than generic seasonal jokes. Lines like "sun-sational" and "hot and bright" work because they sound like natural summer wordplay. The strongest ones double as both a joke and a caption.
 
 **Are summer puns good for kids?**
 Yes, summer puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's summer's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a summer pun?**
-Start with a summer-specific word — "sun", "beach", "heat", "vacation", "pool" — and listen for a word it sounds like or rhymes with, such as "sun-sational" from "sensational." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a summer-specific word, such as "sun", "beach", "heat", "vacation", and "pool", and listen for a word it sounds like or rhymes with, such as "sun-sational" from "sensational." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

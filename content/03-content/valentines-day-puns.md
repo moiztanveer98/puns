@@ -122,7 +122,7 @@ These lines add a laugh to the celebration.
 - Hope your birthday is as sweet as a box of chocolates.
 - Another year older, still stealing hearts everywhere you go. Happy birthday!
 - May your birthday have more roses than thorns.
-- Happy birthday — go celebrate like cupid aimed just for you.
+- Happy birthday! Go celebrate like cupid aimed just for you.
 - Here's to a birthday as warm as a handwritten love note.
 - Happy birthday to someone who's truly smitten-worthy.
 - Hope today is wrapped in all your favorite things, chocolate included.
@@ -274,13 +274,13 @@ Valentine's Day puns fit card messages, date-night captions, classroom valentine
 ## FAQ
 
 **What are the best Valentine's Day puns?**
-The best Valentine's Day puns use real holiday words — cupid, rose, heart, chocolate, arrow — instead of generic romance jokes. Lines like "smitten kitten" and "arrow to the heart" land because they sound like real holiday phrases. The strongest ones double as both a joke and a card message.
+The best Valentine's Day puns use real holiday words, such as cupid, rose, heart, chocolate, arrow, instead of generic romance jokes. Lines like "smitten kitten" and "arrow to the heart" land because they sound like real holiday phrases. The strongest ones double as both a joke and a card message.
 
 **Are Valentine's Day puns good for kids?**
-Yes, Valentine's Day puns are great for kids, especially for classroom card exchanges — clean, silly lines like the "valen-tiny" joke keep the humor sweet instead of romantic, which fits school settings well.
+Yes, Valentine's Day puns are great for kids, especially for classroom card exchanges. Clean, silly lines like the "valen-tiny" joke keep the humor sweet instead of romantic, which fits school settings well.
 
 **How do you make a Valentine's Day pun?**
-Start with a holiday word — heart, cupid, rose, chocolate, crush — and find a similar-sounding phrase, like "smitten" paired with "kitten" for rhyme. See our [how to write a pun](/how-to-write-a-pun/) guide for the full step-by-step method.
+Start with a holiday word, such as heart, cupid, rose, chocolate, and crush, and find a similar-sounding phrase, like "smitten" paired with "kitten" for rhyme. See our [how to write a pun](/how-to-write-a-pun/) guide for the full step-by-step method.
 
 ## Related Puns
 

@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're shamrockin', and I mean that forever."
 - "My heart feels extra lucky every time I see you."
-- "You had me at 'pot of gold' — now I'm yours forever."
+- "You had me at 'pot of gold.' Now I'm yours forever."
 - "Loving you is easy; it's shamrockin'ly natural."
 - "You're the only clover patch I actually want to settle into."
 - "You make my heart feel lucky in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still shamrockin' as ever. Happy birthday!"
 - "May your birthday be filled with luck and zero broken mirrors."
 - "You're not getting older, you're just leveling up your luck game."
-- "Happy birthday — go celebrate like a parade on St. Patrick's Day."
+- "Happy birthday! Go celebrate like a parade on St. Patrick's Day."
 - "Here's to a birthday as lucky as a four-leaf clover."
 - "Happy birthday to a true parade favorite."
 
@@ -224,13 +224,13 @@ St. Patrick's Day puns work in holiday cards, party signs for a green or parade-
 ## FAQ
 
 **What are the best St. Patrick's Day puns?**
-The best St. Patrick's Day puns lean on real holiday features — shamrocks, parades and luck — rather than generic spring jokes. Lines like "shamrockin'" and "lucky charm" work because they sound like natural St. Patrick's Day wordplay. The strongest ones double as both a joke and a caption.
+The best St. Patrick's Day puns lean on real holiday features, such as shamrocks, parades and luck, rather than generic spring jokes. Lines like "shamrockin'" and "lucky charm" work because they sound like natural St. Patrick's Day wordplay. The strongest ones double as both a joke and a caption.
 
 **Are St. Patrick's Day puns good for kids?**
 Yes, St. Patrick's Day puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's St. Patrick's Day's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a St. Patrick's Day pun?**
-Start with a holiday-specific word — "shamrock", "clover", "green", "luck", "leprechaun" — and listen for a word it sounds like or rhymes with, such as "shamrockin'" from "rockin'." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a holiday-specific word, such as "shamrock", "clover", "green", "luck", and "leprechaun", and listen for a word it sounds like or rhymes with, such as "shamrockin'" from "rockin'." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

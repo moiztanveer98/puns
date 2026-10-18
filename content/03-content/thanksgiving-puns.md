@@ -122,7 +122,7 @@ These lines add a laugh to the celebration.
 - Hope your birthday is stuffed with everything you love.
 - Another year older, still the best part of the whole feast. Happy birthday!
 - May your birthday have extra pie and zero dishes to wash.
-- Happy birthday — go celebrate like it's Thanksgiving every day.
+- Happy birthday! Go celebrate like it's Thanksgiving every day.
 - Here's to a birthday as warm as a home-cooked feast.
 - Happy birthday to someone who's truly worth gobbling up compliments for.
 - Hope today is wrapped in all your favorite things.
@@ -274,13 +274,13 @@ Thanksgiving puns fit place cards, dinner-table games, Friendsgiving invites, an
 ## FAQ
 
 **What are the best Thanksgiving puns?**
-The best Thanksgiving puns use real holiday words — turkey, gravy, stuffing, pie, harvest — instead of generic fall jokes. Lines like "gravy-licious" and "gobble till you wobble" land because they sound like real dinner-table phrases. The strongest ones double as both a joke and a place-card message.
+The best Thanksgiving puns use real holiday words, such as turkey, gravy, stuffing, pie, harvest, instead of generic fall jokes. Lines like "gravy-licious" and "gobble till you wobble" land because they sound like real dinner-table phrases. The strongest ones double as both a joke and a place-card message.
 
 **Are Thanksgiving puns good for kids?**
-Yes, Thanksgiving puns are great for kids because the holiday's imagery — turkeys, pie, harvest — is already familiar, which makes the wordplay easy to follow at the kids' table or in a classroom.
+Yes, Thanksgiving puns are great for kids because the holiday's imagery, such as turkeys, pie and harvest, is already familiar, which makes the wordplay easy to follow at the kids' table or in a classroom.
 
 **How do you make a Thanksgiving pun?**
-Start with a holiday word — turkey, gravy, stuffing, pie, feast — and find a similar-sounding phrase, like "tur-key" from "turkey" plus "key." See our [how to write a pun](/how-to-write-a-pun/) guide for the full step-by-step method.
+Start with a holiday word, such as turkey, gravy, stuffing, pie, and feast, and find a similar-sounding phrase, like "tur-key" from "turkey" plus "key." See our [how to write a pun](/how-to-write-a-pun/) guide for the full step-by-step method.
 
 ## Related Puns
 

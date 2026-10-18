@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're out of this world, and I mean that forever."
 - "My heart feels extra infinite every time I see you."
-- "You had me at 'liftoff' — now I'm yours forever."
+- "You had me at 'liftoff.' Now I'm yours forever."
 - "Loving you is easy; it's space-level natural."
 - "You're the only galaxy I actually want to settle into."
 - "You make my heart orbit in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still out of this world as ever. Happy birthday!"
 - "May your birthday be filled with stars and zero gravity issues."
 - "You're not getting older, you're just leveling up your orbit."
-- "Happy birthday — go celebrate like a rocket at liftoff."
+- "Happy birthday! Go celebrate like a rocket at liftoff."
 - "Here's to a birthday as infinite as the galaxy."
 - "Happy birthday to a true space-station favorite."
 
@@ -224,13 +224,13 @@ Space puns work in birthday cards for astronomy lovers, party signs for a space 
 ## FAQ
 
 **What are the best space puns?**
-The best space puns lean on real space features — orbits, galaxies and rockets — rather than generic science jokes. Lines like "out of this world" and "space-tacular" work because they sound like natural space wordplay. The strongest ones double as both a joke and a caption.
+The best space puns lean on real space features, such as orbits, galaxies and rockets, rather than generic science jokes. Lines like "out of this world" and "space-tacular" work because they sound like natural space wordplay. The strongest ones double as both a joke and a caption.
 
 **Are space puns good for kids?**
 Yes, space puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's space's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a space pun?**
-Start with a space-specific word — "orbit", "galaxy", "rocket", "planet", "star" — and listen for a word it sounds like or rhymes with, such as "out of this world" from the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a space-specific word, such as "orbit", "galaxy", "rocket", "planet", and "star", and listen for a word it sounds like or rhymes with, such as "out of this world" from the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

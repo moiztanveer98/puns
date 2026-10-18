@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're stellar, and I mean that forever."
 - "My heart feels extra bright every time I see you."
-- "You had me at 'make a wish' — now I'm yours forever."
+- "You had me at 'make a wish.' Now I'm yours forever."
 - "Loving you is easy; it's stellar-level natural."
 - "You're the only constellation I actually want to trace every night."
 - "You make my heart twinkle in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still stellar as ever. Happy birthday!"
 - "May your birthday be filled with wishes and zero cloudy skies."
 - "You're not getting older, you're just leveling up your twinkle."
-- "Happy birthday — go celebrate like a star under a clear sky."
+- "Happy birthday! Go celebrate like a star under a clear sky."
 - "Here's to a birthday as bright as a starry night."
 - "Happy birthday to a true night-sky favorite."
 
@@ -224,13 +224,13 @@ Star puns work in birthday cards for astronomy lovers, party signs for a stargaz
 ## FAQ
 
 **What are the best star puns?**
-The best star puns lean on real star features — twinkling, constellations and wishing — rather than generic science jokes. Lines like "stellar" and "star-struck" work because they sound like natural star wordplay. The strongest ones double as both a joke and a caption.
+The best star puns lean on real star features, such as twinkling, constellations and wishing, rather than generic science jokes. Lines like "stellar" and "star-struck" work because they sound like natural star wordplay. The strongest ones double as both a joke and a caption.
 
 **Are star puns good for kids?**
 Yes, star puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a star's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a star pun?**
-Start with a star-specific word — "twinkle", "constellation", "shine", "galaxy", "wish" — and listen for a word it sounds like or rhymes with, such as "stellar" from "stellar." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a star-specific word, such as "twinkle", "constellation", "shine", "galaxy", and "wish", and listen for a word it sounds like or rhymes with, such as "stellar" from "stellar." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

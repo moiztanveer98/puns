@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're tree-mendous, and I mean that forever."
 - "My heart feels extra rooted every time I see you."
-- "You had me at 'shady spot' — now I'm yours forever."
+- "You had me at 'shady spot.' Now I'm yours forever."
 - "Loving you is easy; it's tree-mendously natural."
 - "You're the only forest I actually want to settle into."
 - "You make my heart grow in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still tree-mendous as ever. Happy birthday!"
 - "May your birthday be filled with sunlight and zero fallen branches."
 - "You're not getting older, you're just leveling up your rings."
-- "Happy birthday — go celebrate like a tree standing tall."
+- "Happy birthday! Go celebrate like a tree standing tall."
 - "Here's to a birthday as grounded as a strong oak."
 - "Happy birthday to a true forest favorite."
 
@@ -224,13 +224,13 @@ Tree puns work in birthday cards for nature lovers, party signs for a forest or 
 ## FAQ
 
 **What are the best tree puns?**
-The best tree puns lean on real tree features — branches, bark and shade — rather than generic nature jokes. Lines like "tree-mendous" and "standing tall" work because they sound like natural tree wordplay. The strongest ones double as both a joke and a caption.
+The best tree puns lean on real tree features, such as branches, bark and shade, rather than generic nature jokes. Lines like "tree-mendous" and "standing tall" work because they sound like natural tree wordplay. The strongest ones double as both a joke and a caption.
 
 **Are tree puns good for kids?**
 Yes, tree puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a tree's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a tree pun?**
-Start with a tree-specific word — "branch", "bark", "root", "leaf", "trunk" — and listen for a word it sounds like or rhymes with, such as "tree-mendous" from "tremendous." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a tree-specific word, such as "branch", "bark", "root", "leaf", and "trunk", and listen for a word it sounds like or rhymes with, such as "tree-mendous" from "tremendous." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

@@ -122,7 +122,7 @@ These lines add a laugh to the celebration.
 - Hope your birthday is stuffed with everything you love.
 - Another year older, still the life of every fiesta. Happy birthday!
 - May your birthday have extra guac and zero spills.
-- Happy birthday — go celebrate like it's Taco Tuesday every day.
+- Happy birthday! Go celebrate like it's Taco Tuesday every day.
 - Here's to a birthday as flavorful as your favorite filling.
 - Happy birthday to someone who's truly shell-ebrating in style.
 - Hope today is wrapped in all your favorite things.
@@ -269,18 +269,18 @@ These extra lines round out the list with more fiesta-ready wordplay.
 
 ## How to Use Taco Puns
 
-Taco puns fit Taco Tuesday posts, fiesta party invites, birthday cards for taco lovers, and classroom jokes for a food unit — anywhere a taco shows up and a quick line would land well.
+Taco puns fit Taco Tuesday posts, fiesta party invites, birthday cards for taco lovers, and classroom jokes for a food unit, anywhere a taco shows up and a quick line would land well.
 
 ## FAQ
 
 **What are the best taco puns?**
-The best taco puns use real taco words — shell, salsa, guac, fiesta, filling — instead of generic food jokes. Lines like "shell yeah" and "taco 'bout it" work because they sound like things you'd actually say at a taco stand. The strongest ones double as both a joke and a caption.
+The best taco puns use real taco words, such as shell, salsa, guac, fiesta, filling, instead of generic food jokes. Lines like "shell yeah" and "taco 'bout it" work because they sound like things you'd actually say at a taco stand. The strongest ones double as both a joke and a caption.
 
 **Are taco puns good for kids?**
 Yes, taco puns are great for kids because tacos are a food most kids already know and enjoy, which makes the wordplay easy to follow. Clean Q&A jokes like the "shell-shocked" one are simple enough for classrooms and lunchboxes.
 
 **How do you make a taco pun?**
-Start with a taco word — shell, salsa, wrap, guac, fiesta — and find a similar-sounding phrase, like "taco 'bout it" from "talk about it." See our [how to write a pun](/how-to-write-a-pun/) guide for the full method.
+Start with a taco word, such as shell, salsa, wrap, guac, and fiesta, and find a similar-sounding phrase, like "taco 'bout it" from "talk about it." See our [how to write a pun](/how-to-write-a-pun/) guide for the full method.
 
 ## Related Puns
 

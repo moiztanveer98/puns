@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're one in a melon, and I mean that with all my heart."
 - "My heart feels extra juicy every time I see you."
-- "You had me at 'picnic' — now I'm yours forever."
+- "You had me at 'picnic.' Now I'm yours forever."
 - "Loving you is easy; it's melon-ally natural."
 - "You're the only picnic I actually want to settle into."
 - "You make my heart cool off in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still perfectly juicy. Happy birthday!"
 - "May your birthday be filled with sunshine and zero bitter rinds."
 - "You're not getting older, you're just leveling up your sweetness."
-- "Happy birthday — go celebrate like a watermelon fresh off the vine."
+- "Happy birthday! Go celebrate like a watermelon fresh off the vine."
 - "Here's to a birthday as sweet as a summer picnic."
 - "Happy birthday to a true picnic favorite."
 
@@ -224,13 +224,13 @@ Watermelon puns work in birthday cards for summer lovers, party signs for a picn
 ## FAQ
 
 **What are the best watermelon puns?**
-The best watermelon puns lean on real watermelon features — juicy slices, seeds and summer picnics — rather than generic food jokes. Lines like "one in a melon" and "sweet and juicy" work because they sound like natural watermelon wordplay. The strongest ones double as both a joke and a caption.
+The best watermelon puns lean on real watermelon features, such as juicy slices, seeds and summer picnics, rather than generic food jokes. Lines like "one in a melon" and "sweet and juicy" work because they sound like natural watermelon wordplay. The strongest ones double as both a joke and a caption.
 
 **Are watermelon puns good for kids?**
 Yes, watermelon puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a watermelon's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a watermelon pun?**
-Start with a watermelon-specific word — "juicy", "seed", "rind", "slice", "picnic" — and listen for a word it sounds like or rhymes with, such as "one in a melon" from "one in a million." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a watermelon-specific word, such as "juicy", "seed", "rind", "slice", and "picnic", and listen for a word it sounds like or rhymes with, such as "one in a melon" from "one in a million." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

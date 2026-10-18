@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're witch-ful thinking, and I mean that forever."
 - "My heart feels extra spellbound every time I see you."
-- "You had me at 'bubbling cauldron' — now I'm yours forever."
+- "You had me at 'bubbling cauldron.' Now I'm yours forever."
 - "Loving you is easy; it's witch-fully natural."
 - "You're the only tower I actually want to settle into."
 - "You make my heart spellbind in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still witch-fully amazing. Happy birthday!"
 - "May your birthday be filled with potions and zero broken spells."
 - "You're not getting older, you're just leveling up your spellcasting game."
-- "Happy birthday — go celebrate like a witch on Halloween night."
+- "Happy birthday! Go celebrate like a witch on Halloween night."
 - "Here's to a birthday as spellbinding as a bubbling cauldron."
 - "Happy birthday to a true tower favorite."
 
@@ -224,13 +224,13 @@ Witch puns work in Halloween cards, party signs for a spooky or witch-themed eve
 ## FAQ
 
 **What are the best witch puns?**
-The best witch puns lean on real witch features — cauldrons, spells and broomsticks — rather than generic Halloween jokes. Lines like "witch-ful thinking" and "which witch" work because they sound like natural witch wordplay. The strongest ones double as both a joke and a caption.
+The best witch puns lean on real witch features, such as cauldrons, spells and broomsticks, rather than generic Halloween jokes. Lines like "witch-ful thinking" and "which witch" work because they sound like natural witch wordplay. The strongest ones double as both a joke and a caption.
 
 **Are witch puns good for kids?**
 Yes, witch puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a witch's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a witch pun?**
-Start with a witch-specific word — "broom", "cauldron", "spell", "hat", "potion" — and listen for a word it sounds like or rhymes with, such as "witch-ful thinking" from "wishful thinking." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a witch-specific word, such as "broom", "cauldron", "spell", "hat", and "potion", and listen for a word it sounds like or rhymes with, such as "witch-ful thinking" from "wishful thinking." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

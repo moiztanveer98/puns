@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're turtle-y awesome, and I mean that forever."
 - "My heart moves slowly, but it's always moving toward you."
-- "You had me at 'hello' — now I'm yours forever, shell and all."
+- "You had me at 'hello.' Now I'm yours forever, shell and all."
 - "Loving you is easy; it's slow and steady natural."
 - "You're the only pond I actually want to settle into."
 - "You make my heart smile in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still shell-tastic as ever. Happy birthday!"
 - "May your birthday be filled with lettuce and zero empty ponds."
 - "You're not getting older, you're just leveling up your slow-and-steady pace."
-- "Happy birthday — go celebrate like a turtle who found the sunniest rock."
+- "Happy birthday! Go celebrate like a turtle who found the sunniest rock."
 - "Here's to a birthday as cozy as a turtle in its shell."
 - "Happy birthday to a true pond favorite."
 
@@ -224,13 +224,13 @@ Turtle puns work in birthday cards for animal lovers, party signs for a pond or 
 ## FAQ
 
 **What are the best turtle puns?**
-The best turtle puns lean on real turtle features — shells, slow pace and pond life — rather than generic animal jokes. Lines like "turtle-y awesome" and "slow and steady" work because they sound like natural turtle wordplay. The strongest ones double as both a joke and a caption.
+The best turtle puns lean on real turtle features, such as shells, slow pace and pond life, rather than generic animal jokes. Lines like "turtle-y awesome" and "slow and steady" work because they sound like natural turtle wordplay. The strongest ones double as both a joke and a caption.
 
 **Are turtle puns good for kids?**
 Yes, turtle puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a turtle's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a turtle pun?**
-Start with a turtle-specific word — "shell", "slow", "pond", "flipper", "hatch" — and listen for a word it sounds like or rhymes with, such as "turtle-y" from "totally." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a turtle-specific word, such as "shell", "slow", "pond", "flipper", and "hatch", and listen for a word it sounds like or rhymes with, such as "turtle-y" from "totally." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

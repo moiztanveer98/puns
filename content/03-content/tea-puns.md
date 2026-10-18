@@ -122,7 +122,7 @@ These lines add a laugh to the celebration.
 - Hope your birthday is warm, calm, and perfectly steeped.
 - Another year older, still the chamomile the world needed. Happy birthday!
 - May your birthday have zero spills and all the refills.
-- Happy birthday — go treat yourself to the fancy tea blend.
+- Happy birthday! Go treat yourself to the fancy tea blend.
 - Here's to a birthday as smooth as a good afternoon brew.
 - Happy birthday to someone who's truly brew-tiful inside and out.
 - Hope today is grounds, er, leaves, for a great celebration.
@@ -269,18 +269,18 @@ These extra lines round out the list with more tea-riffic wordplay.
 
 ## How to Use Tea Puns
 
-Tea puns fit mug designs, café chalkboards, birthday cards for tea lovers, and captions for cozy rainy-day photos — anywhere a warm cup shows up and a quick line would land well.
+Tea puns fit mug designs, café chalkboards, birthday cards for tea lovers, and captions for cozy rainy-day photos, anywhere a warm cup shows up and a quick line would land well.
 
 ## FAQ
 
 **What are the best tea puns?**
-The best tea puns use real tea words — steep, brew, kettle, leaf, chamomile — rather than generic drink jokes. Lines like "spill the tea" and "brew-tiful" work because they sound like things a tea shop would actually print. The strongest ones double as both a joke and a caption.
+The best tea puns use real tea words, such as steep, brew, kettle, leaf, chamomile, rather than generic drink jokes. Lines like "spill the tea" and "brew-tiful" work because they sound like things a tea shop would actually print. The strongest ones double as both a joke and a caption.
 
 **Are tea puns good for kids?**
-Yes, tea puns are good for kids in a classroom or card-making context, since the wordplay itself is clean — the jokes work even for kids who've never had a cup, as long as an adult is nearby for any actual tea talk.
+Yes, tea puns are good for kids in a classroom or card-making context, since the wordplay itself is clean. The jokes work even for kids who've never had a cup, as long as an adult is nearby for any actual tea talk.
 
 **How do you make a tea pun?**
-Start with a tea-specific word — steep, brew, leaf, kettle, chamomile — and find a similar-sounding phrase, like "spill the tea" from "share the gossip." Our [how to write a pun](/how-to-write-a-pun/) guide covers the full step-by-step method.
+Start with a tea-specific word, such as steep, brew, leaf, kettle, and chamomile, and find a similar-sounding phrase, like "spill the tea" from "share the gossip." Our [how to write a pun](/how-to-write-a-pun/) guide covers the full step-by-step method.
 
 ## Related Puns
 
