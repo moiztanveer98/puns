@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're shore-ly funny, and I mean that forever."
 - "My heart feels extra deep every time I see you."
-- "You had me at 'crashing waves' — now I'm yours forever."
+- "You had me at 'crashing waves.' Now I'm yours forever."
 - "Loving you is easy; it's shore-ly natural."
 - "You're the only shore I actually want to settle into."
 - "You make my heart wave in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still shore-ly amazing as ever. Happy birthday!"
 - "May your birthday be filled with waves and zero low tides."
 - "You're not getting older, you're just leveling up your current game."
-- "Happy birthday — go celebrate like an ocean at high tide."
+- "Happy birthday! Go celebrate like an ocean at high tide."
 - "Here's to a birthday as deep as the sea."
 - "Happy birthday to a true beachfront favorite."
 
@@ -224,13 +224,13 @@ Ocean puns work in birthday cards for beach lovers, party signs for a seaside or
 ## FAQ
 
 **What are the best ocean puns?**
-The best ocean puns lean on real ocean features — waves, tides and deep water — rather than generic nature jokes. Lines like "shore-ly funny" and "blue and deep" work because they sound like natural ocean wordplay. The strongest ones double as both a joke and a caption.
+The best ocean puns lean on real ocean features, such as waves, tides and deep water, rather than generic nature jokes. Lines like "shore-ly funny" and "blue and deep" work because they sound like natural ocean wordplay. The strongest ones double as both a joke and a caption.
 
 **Are ocean puns good for kids?**
 Yes, ocean puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's the ocean's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make an ocean pun?**
-Start with an ocean-specific word — "wave", "tide", "shore", "deep", "current" — and listen for a word it sounds like or rhymes with, such as "shore-ly" from "surely." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with an ocean-specific word, such as "wave", "tide", "shore", "deep", and "current", and listen for a word it sounds like or rhymes with, such as "shore-ly" from "surely." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

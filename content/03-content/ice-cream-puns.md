@@ -122,7 +122,7 @@ These lines add a laugh to the celebration.
 - Hope your birthday is as sweet as a double scoop sundae.
 - Another year older, still the coolest scoop around. Happy birthday!
 - May your birthday have zero melting and all the toppings.
-- Happy birthday — go treat yourself to the fancy flavor today.
+- Happy birthday! Go treat yourself to the fancy flavor today.
 - Here's to a birthday as smooth as soft-serve.
 - Happy birthday to someone truly sundae-licious.
 - Hope today is topped with everything good.
@@ -269,18 +269,18 @@ These extra lines round out the list with more sundae-licious wordplay.
 
 ## How to Use Ice Cream Puns
 
-Ice cream puns fit summer captions, dessert-shop chalkboards, birthday cards for ice cream lovers, and classroom jokes for a weather or seasons unit — anywhere a scoop shows up and a quick line would land well.
+Ice cream puns fit summer captions, dessert-shop chalkboards, birthday cards for ice cream lovers, and classroom jokes for a weather or seasons unit, anywhere a scoop shows up and a quick line would land well.
 
 ## FAQ
 
 **What are the best ice cream puns?**
-The best ice cream puns use real ice cream words — scoop, cone, sprinkles, melt, swirl — instead of generic dessert jokes. Lines like "sundae-licious" and "scoop goals" work because they sound like things an ice cream shop would actually print. The strongest ones double as both a joke and a caption.
+The best ice cream puns use real ice cream words, such as scoop, cone, sprinkles, melt, swirl, instead of generic dessert jokes. Lines like "sundae-licious" and "scoop goals" work because they sound like things an ice cream shop would actually print. The strongest ones double as both a joke and a caption.
 
 **Are ice cream puns good for kids?**
 Yes, ice cream puns are great for kids because ice cream is a food they already know and love, which makes the wordplay easy to follow. Clean Q&A jokes like the "sundae superstar" one are simple enough for classrooms and lunchboxes.
 
 **How do you make an ice cream pun?**
-Start with an ice cream word — scoop, cone, swirl, sprinkle, melt — and listen for a similar-sounding word, like "sundae-licious" from "fantastic." See our [how to write a pun](/how-to-write-a-pun/) guide for the full method.
+Start with an ice cream word, such as scoop, cone, swirl, sprinkle, and melt, and listen for a similar-sounding word, like "sundae-licious" from "fantastic." See our [how to write a pun](/how-to-write-a-pun/) guide for the full method.
 
 ## Related Puns
 

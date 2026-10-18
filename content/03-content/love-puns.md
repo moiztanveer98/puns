@@ -7,7 +7,7 @@ meta_description: "Cute and flirty love puns for texts, cards and captions, from
 
 # 200+ Love Puns That Will Steal Your Heart
 
-Love puns speak directly to "you" in a sweet, not cheesy, tone — the strongest ones read like something you'd actually text someone, not a generic greeting-card line. This page pulls the strongest love-themed lines from across every topic, organized by theme so you can find the right one fast.
+Love puns speak directly to "you" in a sweet, not cheesy, tone. The strongest ones read like something you'd actually text someone, not a generic greeting-card line. This page pulls the strongest love-themed lines from across every topic, organized by theme so you can find the right one fast.
 
 ## Animal Love Puns
 
@@ -276,7 +276,7 @@ A love pun reads as romantic instead of cheesy when it pairs genuine affection w
 Yes, love puns work especially well for Valentine's Day cards and anniversary messages because they add warmth and a smile without needing to be over-the-top. A short, clever line often lands better than a long, generic one.
 
 **How do you make your own love pun?**
-Pick something you associate with the person — a shared food, a pet, an occasion — and find a sweet double meaning in it. Try our [Pun Generator](/pun-generator/) to build one instantly, or see our [how to write a pun](/how-to-write-a-pun/) guide.
+Pick something you associate with the person, such as a shared food, a pet or an occasion, and find a sweet double meaning in it. Try our [Pun Generator](/pun-generator/) to build one instantly, or see our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## More Ways to Use Puns
 

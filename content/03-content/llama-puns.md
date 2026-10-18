@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the wool to my sweater, and I'm not just saying that for warmth."
 - "My heart hums every time I see you."
-- "You had me at 'hum' — now I'm yours forever."
+- "You had me at 'hum.' Now I'm yours forever."
 - "Loving you is easy; it's llama-zingly natural."
 - "You're the only herd I actually want to settle into."
 - "You make my heart hum in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still fluff-worthy as ever. Happy birthday!"
 - "May your birthday be filled with hay and zero empty pastures."
 - "You're not getting older, you're just leveling up your no-drama game."
-- "Happy birthday — go celebrate like a llama who found the open gate."
+- "Happy birthday! Go celebrate like a llama who found the open gate."
 - "Here's to a birthday as cozy as a llama in fresh wool."
 - "Happy birthday to a true herd favorite."
 
@@ -224,13 +224,13 @@ Llama puns work in birthday cards for farm lovers, party signs for a farm-themed
 ## FAQ
 
 **What are the best llama puns?**
-The best llama puns lean on real llama behavior — humming, spitting and calm grazing — rather than generic animal jokes. Lines like "llama-zing" and "no drama llama" work because they sound like natural llama wordplay. The strongest ones double as both a joke and a caption.
+The best llama puns lean on real llama behavior, such as humming, spitting and calm grazing, rather than generic animal jokes. Lines like "llama-zing" and "no drama llama" work because they sound like natural llama wordplay. The strongest ones double as both a joke and a caption.
 
 **Are llama puns good for kids?**
 Yes, llama puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a llama's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a llama pun?**
-Start with a llama-specific word — "hum", "wool", "spit", "herd", "pack" — and listen for a word it sounds like or rhymes with, such as "llama-zing" from "amazing." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a llama-specific word, such as "hum", "wool", "spit", "herd", and "pack", and listen for a word it sounds like or rhymes with, such as "llama-zing" from "amazing." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

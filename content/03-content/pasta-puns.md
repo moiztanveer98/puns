@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're pasta-bly the best thing that's happened to me."
 - "My heart feels extra saucy every time I see you."
-- "You had me at 'fresh sauce' — now I'm yours forever."
+- "You had me at 'fresh sauce.' Now I'm yours forever."
 - "Loving you is easy; it's pasta-bly natural."
 - "You're the only bowl I actually want to settle into."
 - "You make my heart twirl in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still pasta-bly amazing. Happy birthday!"
 - "May your birthday be filled with sauce and zero empty bowls."
 - "You're not getting older, you're just leveling up your twirl game."
-- "Happy birthday — go celebrate like a pasta fresh off the stove."
+- "Happy birthday! Go celebrate like a pasta fresh off the stove."
 - "Here's to a birthday as warm as fresh pasta."
 - "Happy birthday to a true dinner-table favorite."
 
@@ -224,13 +224,13 @@ Pasta puns work in birthday cards for Italian-food lovers, party signs for a pas
 ## FAQ
 
 **What are the best pasta puns?**
-The best pasta puns lean on real pasta features — twirling, sauce and al dente timing — rather than generic food jokes. Lines like "pasta-bly the best" and "al dente" work because they sound like natural pasta wordplay. The strongest ones double as both a joke and a caption.
+The best pasta puns lean on real pasta features, such as twirling, sauce and al dente timing, rather than generic food jokes. Lines like "pasta-bly the best" and "al dente" work because they sound like natural pasta wordplay. The strongest ones double as both a joke and a caption.
 
 **Are pasta puns good for kids?**
 Yes, pasta puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's pasta's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a pasta pun?**
-Start with a pasta-specific word — "noodle", "sauce", "twirl", "al dente", "strand" — and listen for a word it sounds like or rhymes with, such as "pasta-bly" from "possibly." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a pasta-specific word, such as "noodle", "sauce", "twirl", "al dente", and "strand", and listen for a word it sounds like or rhymes with, such as "pasta-bly" from "possibly." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

@@ -7,7 +7,7 @@ meta_description: "Laugh with 200+ name puns: one-liners, Instagram captions, lo
 
 # 200+ Name Puns for Names That Get a Laugh
 
-Name puns play on the sound or meaning of a real first name — Jack, Grace, Will, Rose, Max — for quick wordplay built around that one specific name. Use them for personalized cards, nameplate captions, or any moment someone's name deserves its own one-liner. Find name one-liners, short lines, funny and cute puns, Instagram captions, kids' jokes, love and birthday lines, pickup lines, and jokes below, plus how to use them, a quick FAQ, and more name puns.
+Name puns play on the sound or meaning of a real first name, such as Jack, Grace, Will, Rose or Max, for quick wordplay built around that one specific name. Use them for personalized cards, nameplate captions, or any moment someone's name deserves its own one-liner. Find name one-liners, short lines, funny and cute puns, Instagram captions, kids' jokes, love and birthday lines, pickup lines, and jokes below, plus how to use them, a quick FAQ, and more name puns.
 
 ## Name Pun One-Liners
 
@@ -122,7 +122,7 @@ These lines add a laugh to the celebration.
 - Hope your birthday lives up to your excellent name.
 - Another year older, still living up to your name. Happy birthday!
 - May your birthday be exactly as great as you are.
-- Happy birthday — go celebrate, it's your name's special day too.
+- Happy birthday! Go celebrate, it's your name's special day too.
 - Here's to a birthday as memorable as your name.
 - Happy birthday to someone whose name we'll always smile at.
 - Hope today is wrapped in all your favorite things.
@@ -269,18 +269,18 @@ These extra lines round out the list with more name-built wordplay.
 
 ## How to Use Name Puns
 
-Name puns fit personalized birthday cards, nameplate or desk captions, classroom name-tag activities, and the Pun Generator's custom-word mode — type in any name to generate a pun built just for it.
+Name puns fit personalized birthday cards, nameplate or desk captions, classroom name-tag activities, and the Pun Generator's custom-word mode: type in any name to generate a pun built just for it.
 
 ## FAQ
 
 **What are the best name puns?**
-The best name puns build directly off the sound or meaning of a specific first name — Jack, Grace, Hope, Max — rather than a generic joke with a name dropped in. Lines like "Grace under pressure" and "Max-imum effort" work because they only make sense for that one name. The strongest ones double as both a joke and a caption.
+The best name puns build directly off the sound or meaning of a specific first name, such as Jack, Grace, Hope, Max, rather than a generic joke with a name dropped in. Lines like "Grace under pressure" and "Max-imum effort" work because they only make sense for that one name. The strongest ones double as both a joke and a caption.
 
 **Are name puns good for kids?**
 Yes, name puns are great for kids because hearing their own name turned into a joke feels personal and fun. Clean Q&A jokes like the Jack-in-the-box one are simple enough for classroom name-tag activities and birthday cards.
 
 **How do you make a name pun?**
-Start with the name itself and listen for a word it sounds like or means — "Grace" sounds like "grace," "Hope" means hope. Try our Pun Generator's custom-word mode, or see our [how to write a pun](/how-to-write-a-pun/) guide for the full method.
+Start with the name itself and listen for a word it sounds like or means: "Grace" sounds like "grace," "Hope" means hope. Try our Pun Generator's custom-word mode, or see our [how to write a pun](/how-to-write-a-pun/) guide for the full method.
 
 ## More Name Puns
 

@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're my favorite way to ring in the new year."
 - "My heart feels extra fresh every time I see you."
-- "You had me at 'midnight kiss' — now I'm yours forever."
+- "You had me at 'midnight kiss.' Now I'm yours forever."
 - "Loving you is easy; it's new-year-level natural."
 - "You're the only countdown I actually want to watch every year."
 - "You make my heart count down in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still ringing in the fun. Happy birthday!"
 - "May your birthday be filled with confetti and zero broken resolutions."
 - "You're not getting older, you're just leveling up your fresh start."
-- "Happy birthday — go celebrate like it's midnight on New Year's Eve."
+- "Happy birthday! Go celebrate like it's midnight on New Year's Eve."
 - "Here's to a birthday as sparkly as a New Year's countdown."
 - "Happy birthday to a true midnight favorite."
 
@@ -224,13 +224,13 @@ New Year puns work in holiday cards, party signs for a countdown or New Year's E
 ## FAQ
 
 **What are the best New Year puns?**
-The best New Year puns lean on real New Year features — countdowns, confetti and resolutions — rather than generic holiday jokes. Lines like "ring in the new year" and "fresh start" work because they sound like natural New Year wordplay. The strongest ones double as both a joke and a caption.
+The best New Year puns lean on real New Year features, such as countdowns, confetti and resolutions, rather than generic holiday jokes. Lines like "ring in the new year" and "fresh start" work because they sound like natural New Year wordplay. The strongest ones double as both a joke and a caption.
 
 **Are New Year puns good for kids?**
 Yes, New Year puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's the New Year's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a New Year pun?**
-Start with a New Year-specific word — "countdown", "resolution", "midnight", "confetti", "champagne" — and listen for a word it sounds like or rhymes with, such as "ring in the new year" from the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a New Year-specific word, such as "countdown", "resolution", "midnight", "confetti", and "champagne", and listen for a word it sounds like or rhymes with, such as "ring in the new year" from the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

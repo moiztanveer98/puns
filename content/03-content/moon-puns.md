@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You put me over the moon, every single time."
 - "My heart feels extra full every time I see you."
-- "You had me at 'moonrise' — now I'm yours forever."
+- "You had me at 'moonrise.' Now I'm yours forever."
 - "Loving you is easy; it's moon-level natural."
 - "You're the only sky I actually want to watch every night."
 - "You make my heart glow in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still moon-struck as ever. Happy birthday!"
 - "May your birthday be filled with moonlight and zero cloudy skies."
 - "You're not getting older, you're just leveling up your glow."
-- "Happy birthday — go celebrate like a full moon night."
+- "Happy birthday! Go celebrate like a full moon night."
 - "Here's to a birthday as bright as a full moon."
 - "Happy birthday to a true night-sky favorite."
 
@@ -224,13 +224,13 @@ Moon puns work in birthday cards for astronomy lovers, party signs for a stargaz
 ## FAQ
 
 **What are the best moon puns?**
-The best moon puns lean on real moon features — glow, craters and phases — rather than generic science jokes. Lines like "over the moon" and "moon-struck" work because they sound like natural moon wordplay. The strongest ones double as both a joke and a caption.
+The best moon puns lean on real moon features, such as glow, craters and phases, rather than generic science jokes. Lines like "over the moon" and "moon-struck" work because they sound like natural moon wordplay. The strongest ones double as both a joke and a caption.
 
 **Are moon puns good for kids?**
 Yes, moon puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's the moon's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a moon pun?**
-Start with a moon-specific word — "crater", "orbit", "glow", "phase", "lunar" — and listen for a word it sounds like or rhymes with, such as "over the moon" from the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a moon-specific word, such as "crater", "orbit", "glow", "phase", and "lunar", and listen for a word it sounds like or rhymes with, such as "over the moon" from the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

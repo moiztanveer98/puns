@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the one I give a hoot about, every single day."
 - "My heart hoots every time I see you."
-- "You had me at 'who' — now I'm yours forever."
+- "You had me at 'who.' Now I'm yours forever."
 - "Loving you is easy; it's a hoot of a feeling."
 - "You're the only branch I actually want to perch on."
 - "You make my heart hoot in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still talon-ted as ever. Happy birthday!"
 - "May your birthday be filled with hoots and zero quiet nights."
 - "You're not getting older, you're just leveling up your wisdom."
-- "Happy birthday — go celebrate like an owl who found the tallest tree."
+- "Happy birthday! Go celebrate like an owl who found the tallest tree."
 - "Here's to a birthday as peaceful as a moonlit glide."
 - "Happy birthday to a true forest favorite."
 
@@ -224,13 +224,13 @@ Owl puns work in birthday cards for nature lovers, party signs for a woodland-th
 ## FAQ
 
 **What are the best owl puns?**
-The best owl puns lean on real owl behavior — hooting, nighttime flights and wise stares — rather than generic animal jokes. Lines like "a hoot" and "talon-ted" work because they sound like natural owl wordplay. The strongest ones double as both a joke and a caption.
+The best owl puns lean on real owl behavior, such as hooting, nighttime flights and wise stares, rather than generic animal jokes. Lines like "a hoot" and "talon-ted" work because they sound like natural owl wordplay. The strongest ones double as both a joke and a caption.
 
 **Are owl puns good for kids?**
 Yes, owl puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's an owl's favorite subject" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make an owl pun?**
-Start with an owl-specific word — "hoot", "wing", "perch", "wise", "talon" — and listen for a word it sounds like or rhymes with, such as "a hoot" playing on "a hoot" meaning fun. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with an owl-specific word, such as "hoot", "wing", "perch", "wise", and "talon", and listen for a word it sounds like or rhymes with, such as "a hoot" playing on "a hoot" meaning fun. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

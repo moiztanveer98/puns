@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the king or queen of my heart, roar-fully speaking."
 - "My heart roars every time I see you."
-- "You had me at 'roar' — now I'm yours forever."
+- "You had me at 'roar.' Now I'm yours forever."
 - "Loving you is easy; it's roar-some natural."
 - "You're the only pride I actually want to settle into."
 - "You make my heart roar in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still pride-worthy as ever. Happy birthday!"
 - "May your birthday be filled with roars and zero quiet moments."
 - "You're not getting older, you're just leveling up your mane game."
-- "Happy birthday — go celebrate like a lion who found the open savanna."
+- "Happy birthday! Go celebrate like a lion who found the open savanna."
 - "Here's to a birthday as warm as a sunny savanna nap."
 - "Happy birthday to a true pride favorite."
 
@@ -224,13 +224,13 @@ Lion puns work in birthday cards for animal lovers, party signs for a safari-the
 ## FAQ
 
 **What are the best lion puns?**
-The best lion puns lean on real lion behavior — roaring, lounging and pride life — rather than generic animal jokes. Lines like "roar-some" and "king vibes" work because they sound like natural lion wordplay. The strongest ones double as both a joke and a caption.
+The best lion puns lean on real lion behavior, such as roaring, lounging and pride life, rather than generic animal jokes. Lines like "roar-some" and "king vibes" work because they sound like natural lion wordplay. The strongest ones double as both a joke and a caption.
 
 **Are lion puns good for kids?**
 Yes, lion puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a lion's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a lion pun?**
-Start with a lion-specific word — "roar", "mane", "pride", "claw", "king" — and listen for a word it sounds like or rhymes with, such as "roar-some" from "awesome." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a lion-specific word, such as "roar", "mane", "pride", "claw", and "king", and listen for a word it sounds like or rhymes with, such as "roar-some" from "awesome." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

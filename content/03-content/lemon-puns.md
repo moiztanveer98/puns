@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the zest of my life, no sourness about it."
 - "My heart feels extra zesty every time I see you."
-- "You had me at 'fresh lemonade' — now I'm yours forever."
+- "You had me at 'fresh lemonade.' Now I'm yours forever."
 - "Loving you is easy; it's zest-fully natural."
 - "You're the only fruit bowl I actually want to settle into."
 - "You make my heart zest in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still perfectly zesty. Happy birthday!"
 - "May your birthday be filled with lemonade and zero sour moments."
 - "You're not getting older, you're just leveling up your zest."
-- "Happy birthday — go celebrate like a lemon fresh off the tree."
+- "Happy birthday! Go celebrate like a lemon fresh off the tree."
 - "Here's to a birthday as bright as fresh lemonade."
 - "Happy birthday to a true citrus favorite."
 
@@ -224,13 +224,13 @@ Lemon puns work in birthday cards for fruit lovers, party signs for a summer-the
 ## FAQ
 
 **What are the best lemon puns?**
-The best lemon puns lean on real lemon features — zest, sourness and summer lemonade — rather than generic food jokes. Lines like "zest the best" and "when life gives lemons" work because they sound like natural lemon wordplay. The strongest ones double as both a joke and a caption.
+The best lemon puns lean on real lemon features, such as zest, sourness and summer lemonade, rather than generic food jokes. Lines like "zest the best" and "when life gives lemons" work because they sound like natural lemon wordplay. The strongest ones double as both a joke and a caption.
 
 **Are lemon puns good for kids?**
 Yes, lemon puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a lemon's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a lemon pun?**
-Start with a lemon-specific word — "zest", "sour", "juice", "peel", "tart" — and listen for a word it sounds like or rhymes with, such as "zest the best" from "best." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a lemon-specific word, such as "zest", "sour", "juice", "peel", and "tart", and listen for a word it sounds like or rhymes with, such as "zest the best" from "best." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

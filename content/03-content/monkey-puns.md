@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You drive me ape, and I mean that in the best possible way."
 - "My heart swings every time I see you."
-- "You had me at 'banana' — now I'm yours forever."
+- "You had me at 'banana.' Now I'm yours forever."
 - "Loving you is easy; it's monkey-business natural."
 - "You're the only troop I actually want to settle into."
 - "You make my heart swing in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still branch-worthy as ever. Happy birthday!"
 - "May your birthday be filled with bananas and zero empty trees."
 - "You're not getting older, you're just leveling up your swing game."
-- "Happy birthday — go celebrate like a monkey who found the banana tree."
+- "Happy birthday! Go celebrate like a monkey who found the banana tree."
 - "Here's to a birthday as fun as a troop in the jungle."
 - "Happy birthday to a true troop favorite."
 
@@ -224,13 +224,13 @@ Monkey puns work in birthday cards for animal lovers, party signs for a jungle o
 ## FAQ
 
 **What are the best monkey puns?**
-The best monkey puns lean on real monkey behavior — swinging, chattering and banana cravings — rather than generic animal jokes. Lines like "drive you ape" and "monkey business" work because they sound like natural monkey wordplay. The strongest ones double as both a joke and a caption.
+The best monkey puns lean on real monkey behavior, such as swinging, chattering and banana cravings, rather than generic animal jokes. Lines like "drive you ape" and "monkey business" work because they sound like natural monkey wordplay. The strongest ones double as both a joke and a caption.
 
 **Are monkey puns good for kids?**
 Yes, monkey puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a monkey's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a monkey pun?**
-Start with a monkey-specific word — "swing", "banana", "tail", "troop", "branch" — and listen for a word it sounds like or rhymes with, such as "drive you ape" playing on "drive you crazy." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a monkey-specific word, such as "swing", "banana", "tail", "troop", and "branch", and listen for a word it sounds like or rhymes with, such as "drive you ape" playing on "drive you crazy." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

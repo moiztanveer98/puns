@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the one I'd hold hands with while floating forever."
 - "My heart chirps every time I see you."
-- "You had me at 'splash' — now I'm yours forever."
+- "You had me at 'splash.' Now I'm yours forever."
 - "Loving you is easy; it's otter-ly natural."
 - "You're the only river I actually want to float down."
 - "You make my heart float in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still splash-worthy as ever. Happy birthday!"
 - "May your birthday be filled with fish and zero empty rivers."
 - "You're not getting older, you're just leveling up your float game."
-- "Happy birthday — go celebrate like an otter who found the sunniest rock."
+- "Happy birthday! Go celebrate like an otter who found the sunniest rock."
 - "Here's to a birthday as cozy as an otter wrapped in kelp."
 - "Happy birthday to a true river favorite."
 
@@ -224,13 +224,13 @@ Otter puns work in birthday cards for animal lovers, party signs for a river or 
 ## FAQ
 
 **What are the best otter puns?**
-The best otter puns lean on real otter behavior — floating, paddling and playful splashing — rather than generic animal jokes. Lines like "otter-ly adorable" and "no otter choice" work because they sound like natural otter wordplay. The strongest ones double as both a joke and a caption.
+The best otter puns lean on real otter behavior, such as floating, paddling and playful splashing, rather than generic animal jokes. Lines like "otter-ly adorable" and "no otter choice" work because they sound like natural otter wordplay. The strongest ones double as both a joke and a caption.
 
 **Are otter puns good for kids?**
 Yes, otter puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's an otter's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make an otter pun?**
-Start with an otter-specific word — "float", "paddle", "river", "fur", "raft" — and listen for a word it sounds like or rhymes with, such as "otter-ly" playing on "utterly." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with an otter-specific word, such as "float", "paddle", "river", "fur", and "raft", and listen for a word it sounds like or rhymes with, such as "otter-ly" playing on "utterly." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

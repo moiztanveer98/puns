@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the bamboo to my forest, and I'm not just saying that for snacks."
 - "My heart rolls every time I see you."
-- "You had me at 'munch' — now I'm yours forever."
+- "You had me at 'munch.' Now I'm yours forever."
 - "Loving you is easy; it's pan-tastically natural."
 - "You're the only forest I actually want to settle into."
 - "You make my heart roll in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still roly-poly as ever. Happy birthday!"
 - "May your birthday be filled with bamboo and zero empty patches."
 - "You're not getting older, you're just leveling up your roll game."
-- "Happy birthday — go celebrate like a panda who found the bamboo grove."
+- "Happy birthday! Go celebrate like a panda who found the bamboo grove."
 - "Here's to a birthday as cozy as a panda in fresh leaves."
 - "Happy birthday to a true forest favorite."
 
@@ -224,13 +224,13 @@ Panda puns work in birthday cards for animal lovers, party signs for a zoo-theme
 ## FAQ
 
 **What are the best panda puns?**
-The best panda puns lean on real panda behavior — munching bamboo, rolling and lounging — rather than generic animal jokes. Lines like "pan-tastic" and "pand-amonium" work because they sound like natural panda wordplay. The strongest ones double as both a joke and a caption.
+The best panda puns lean on real panda behavior, such as munching bamboo, rolling and lounging, rather than generic animal jokes. Lines like "pan-tastic" and "pand-amonium" work because they sound like natural panda wordplay. The strongest ones double as both a joke and a caption.
 
 **Are panda puns good for kids?**
 Yes, panda puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a panda's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a panda pun?**
-Start with a panda-specific word — "bamboo", "roll", "cub", "forest", "paw" — and listen for a word it sounds like or rhymes with, such as "pan-tastic" from "fantastic." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a panda-specific word, such as "bamboo", "roll", "cub", "forest", and "paw", and listen for a word it sounds like or rhymes with, such as "pan-tastic" from "fantastic." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

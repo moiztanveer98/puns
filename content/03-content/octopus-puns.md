@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're ink-credible, and I mean that with all eight of my arms."
 - "My heart squeezes every time I see you."
-- "You had me at 'hello' — now I'm yours forever."
+- "You had me at 'hello.' Now I'm yours forever."
 - "Loving you is easy; it's ink-credibly natural."
 - "You're the only reef I actually want to settle into."
 - "You make my heart ripple in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still arm-tastic as ever. Happy birthday!"
 - "May your birthday be filled with crabs and zero empty reefs."
 - "You're not getting older, you're just leveling up your arm count."
-- "Happy birthday — go celebrate like an octopus who found the perfect crevice."
+- "Happy birthday! Go celebrate like an octopus who found the perfect crevice."
 - "Here's to a birthday as colorful as an octopus's mood."
 - "Happy birthday to a true reef favorite."
 
@@ -224,13 +224,13 @@ Octopus puns work in birthday cards for ocean lovers, party signs for a beach or
 ## FAQ
 
 **What are the best octopus puns?**
-The best octopus puns lean on real octopus features — tentacles, ink clouds and reef smarts — rather than generic animal jokes. Lines like "ink-credible" and "smart move" work because they sound like natural octopus wordplay. The strongest ones double as both a joke and a caption.
+The best octopus puns lean on real octopus features, such as tentacles, ink clouds and reef smarts, rather than generic animal jokes. Lines like "ink-credible" and "smart move" work because they sound like natural octopus wordplay. The strongest ones double as both a joke and a caption.
 
 **Are octopus puns good for kids?**
 Yes, octopus puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's an octopus's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make an octopus pun?**
-Start with an octopus-specific word — "tentacle", "ink", "suction", "arm", "reef" — and listen for a word it sounds like or rhymes with, such as "ink-credible" from "incredible." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with an octopus-specific word, such as "tentacle", "ink", "suction", "arm", and "reef", and listen for a word it sounds like or rhymes with, such as "ink-credible" from "incredible." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 
