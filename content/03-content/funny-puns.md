@@ -7,7 +7,7 @@ meta_description: "The funniest puns on Crafty Puns, hand-picked from every topi
 
 # 300+ Funny Puns That Will Make You Groan and Grin
 
-Funny puns are the strongest, most direct lines from across the whole site — the ones that land immediately instead of needing a second read. This page curates the best-of from every topic, organized by theme so you can find the type of funny you're looking for.
+Funny puns are the strongest, most direct lines from across the whole site: the ones that land immediately instead of needing a second read. This page curates the best-of from every topic, organized by theme so you can find the type of funny you're looking for.
 
 ## Funniest Animal Puns
 
@@ -394,10 +394,10 @@ Small daily disasters are a reliable source of instant, relatable humor.
 ## FAQ
 
 **What makes a pun actually funny instead of just groan-worthy?**
-A pun is actually funny, rather than just groan-worthy, when the wordplay lands on a situation people genuinely recognize — a messy fridge, a lazy pet, a holiday budget — instead of relying on the pun alone to carry the joke.
+A pun is actually funny, rather than just groan-worthy, when the wordplay lands on a situation people genuinely recognize, such as a messy fridge, a lazy pet or a holiday budget, instead of relying on the pun alone to carry the joke.
 
 **Are funny puns the same as dad jokes?**
-No, funny puns and dad jokes overlap but aren't identical — a dad joke always leans into an intentionally groan-worthy setup-and-punchline format, while a funny pun can land as a single observational line. See [Dad Joke Puns](/dad-joke-puns/) for the setup-and-punchline version.
+No, funny puns and dad jokes overlap but aren't identical. A dad joke always leans into an intentionally groan-worthy setup-and-punchline format, while a funny pun can land as a single observational line. See [Dad Joke Puns](/dad-joke-puns/) for the setup-and-punchline version.
 
 **How do you write a genuinely funny pun?**
 Start from a real, relatable situation, then find the word in it that has a double meaning or sound-alike. See our [how to write a pun](/how-to-write-a-pun/) guide for the full step-by-step method.

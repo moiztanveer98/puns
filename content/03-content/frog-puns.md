@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the toad of my heart, and I mean that toad-ally."
 - "My heart ribbits every time I see you."
-- "You had me at 'ribbit' — now I'm yours forever."
+- "You had me at 'ribbit.' Now I'm yours forever."
 - "Loving you is easy; it's toad-ally natural."
 - "You're the only pond I actually want to settle into."
 - "You make my heart hop in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still hop-worthy as ever. Happy birthday!"
 - "May your birthday be filled with flies and zero empty ponds."
 - "You're not getting older, you're just leveling up your hop."
-- "Happy birthday — go celebrate like a frog who found the biggest lily pad."
+- "Happy birthday! Go celebrate like a frog who found the biggest lily pad."
 - "Here's to a birthday as cozy as a frog on a lily pad."
 - "Happy birthday to a true pond favorite."
 
@@ -224,13 +224,13 @@ Frog puns work in birthday cards for animal lovers, party signs for a pond or ga
 ## FAQ
 
 **What are the best frog puns?**
-The best frog puns lean on real frog behavior — ribbiting, hopping and lily pad life — rather than generic animal jokes. Lines like "toad-ally hilarious" and "hoppy vibes" work because they sound like natural frog wordplay. The strongest ones double as both a joke and a caption.
+The best frog puns lean on real frog behavior, such as ribbiting, hopping and lily pad life, rather than generic animal jokes. Lines like "toad-ally hilarious" and "hoppy vibes" work because they sound like natural frog wordplay. The strongest ones double as both a joke and a caption.
 
 **Are frog puns good for kids?**
 Yes, frog puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a frog's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a frog pun?**
-Start with a frog-specific word — "ribbit", "hop", "pond", "lily pad", "croak" — and listen for a word it sounds like or rhymes with, such as "toad-ally" from "totally." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a frog-specific word, such as "ribbit", "hop", "pond", "lily pad", and "croak", and listen for a word it sounds like or rhymes with, such as "toad-ally" from "totally." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

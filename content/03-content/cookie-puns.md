@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're crumb-tastic, and I mean that in the sweetest way."
 - "My heart feels extra warm every time I see you."
-- "You had me at 'fresh batch' — now I'm yours forever."
+- "You had me at 'fresh batch.' Now I'm yours forever."
 - "Loving you is easy; it's crumb-tastically natural."
 - "You're the only jar I actually want to settle into."
 - "You make my heart crunch in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still crumb-tastic as ever. Happy birthday!"
 - "May your birthday be filled with chips and zero empty jars."
 - "You're not getting older, you're just leveling up your batch game."
-- "Happy birthday — go celebrate like a cookie fresh out of the oven."
+- "Happy birthday! Go celebrate like a cookie fresh out of the oven."
 - "Here's to a birthday as warm as a fresh batch."
 - "Happy birthday to a true cookie-jar favorite."
 
@@ -224,13 +224,13 @@ Cookie puns work in birthday cards for bakers, party signs for a bake-sale or co
 ## FAQ
 
 **What are the best cookie puns?**
-The best cookie puns lean on real cookie features — crumbs, chips and fresh batches — rather than generic dessert jokes. Lines like "crumb-tastic" and "tough cookie" work because they sound like natural cookie wordplay. The strongest ones double as both a joke and a caption.
+The best cookie puns lean on real cookie features, such as crumbs, chips and fresh batches, rather than generic dessert jokes. Lines like "crumb-tastic" and "tough cookie" work because they sound like natural cookie wordplay. The strongest ones double as both a joke and a caption.
 
 **Are cookie puns good for kids?**
 Yes, cookie puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a cookie's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a cookie pun?**
-Start with a cookie-specific word — "crumb", "dough", "chip", "batch", "crunch" — and listen for a word it sounds like or rhymes with, such as "crumb-tastic" from "fantastic." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a cookie-specific word, such as "crumb", "dough", "chip", "batch", and "crunch", and listen for a word it sounds like or rhymes with, such as "crumb-tastic" from "fantastic." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

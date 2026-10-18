@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the one I'll never forget, trunk-down promise."
 - "My heart trumpets every time I see you."
-- "You had me at 'hello' — now I'm yours forever, elephant-memory style."
+- "You had me at 'hello.' Now I'm yours forever, elephant-memory style."
 - "Loving you is easy; it's trunk-full of natural."
 - "You're the only herd I actually want to settle into."
 - "You make my heart stomp in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still tusk-worthy as ever. Happy birthday!"
 - "May your birthday be filled with peanuts and zero empty watering holes."
 - "You're not getting older, you're just leveling up your herd wisdom."
-- "Happy birthday — go celebrate like an elephant who found the open plain."
+- "Happy birthday! Go celebrate like an elephant who found the open plain."
 - "Here's to a birthday as warm as an elephant's gentle trumpet."
 - "Happy birthday to a true herd favorite."
 
@@ -224,13 +224,13 @@ Elephant puns work in birthday cards for animal lovers, party signs for a safari
 ## FAQ
 
 **What are the best elephant puns?**
-The best elephant puns lean on real elephant features — trunks, tusks and herd memory — rather than generic animal jokes. Lines like "never forget" and "trunk-full of talent" work because they sound like natural elephant wordplay. The strongest ones double as both a joke and a caption.
+The best elephant puns lean on real elephant features, such as trunks, tusks and herd memory, rather than generic animal jokes. Lines like "never forget" and "trunk-full of talent" work because they sound like natural elephant wordplay. The strongest ones double as both a joke and a caption.
 
 **Are elephant puns good for kids?**
 Yes, elephant puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's an elephant's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make an elephant pun?**
-Start with an elephant-specific word — "trunk", "tusk", "herd", "stomp", "memory" — and listen for a word it sounds like or rhymes with, such as "never forget" playing on the elephant-memory cliché. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with an elephant-specific word, such as "trunk", "tusk", "herd", "stomp", and "memory", and listen for a word it sounds like or rhymes with, such as "never forget" playing on the elephant-memory cliché. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

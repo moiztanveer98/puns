@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're worth falling for, every single year."
 - "My heart feels extra crisp every time I see you."
-- "You had me at 'pumpkin spice' — now I'm yours forever."
+- "You had me at 'pumpkin spice.' Now I'm yours forever."
 - "Loving you is easy; it's fall-level natural."
 - "You're the only leaf pile I actually want to settle into."
 - "You make my heart crunch in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still golden as ever. Happy birthday!"
 - "May your birthday be filled with pumpkin spice and zero rainy days."
 - "You're not getting older, you're just leveling up your sweater game."
-- "Happy birthday — go celebrate like a fall afternoon in the park."
+- "Happy birthday! Go celebrate like a fall afternoon in the park."
 - "Here's to a birthday as cozy as a fall sweater."
 - "Happy birthday to a true harvest favorite."
 
@@ -224,13 +224,13 @@ Fall puns work in birthday cards for autumn lovers, party signs for a harvest or
 ## FAQ
 
 **What are the best fall puns?**
-The best fall puns lean on real fall features — leaves, harvest and cozy sweaters — rather than generic seasonal jokes. Lines like "worth falling for" and "golden and cozy" work because they sound like natural fall wordplay. The strongest ones double as both a joke and a caption.
+The best fall puns lean on real fall features, such as leaves, harvest and cozy sweaters, rather than generic seasonal jokes. Lines like "worth falling for" and "golden and cozy" work because they sound like natural fall wordplay. The strongest ones double as both a joke and a caption.
 
 **Are fall puns good for kids?**
 Yes, fall puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's fall's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a fall pun?**
-Start with a fall-specific word — "leaf", "harvest", "crisp", "cozy", "sweater" — and listen for a word it sounds like or rhymes with, such as "worth falling for" from the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a fall-specific word, such as "leaf", "harvest", "crisp", "cozy", and "sweater", and listen for a word it sounds like or rhymes with, such as "worth falling for" from the common phrase. The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

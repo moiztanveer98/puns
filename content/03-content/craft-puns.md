@@ -122,7 +122,7 @@ These lines add a laugh to the celebration.
 - Hope your birthday is pieced together with everything you love.
 - Another year older, still the most creative one in the room. Happy birthday!
 - May your birthday have zero glue mishaps and all the glitter.
-- Happy birthday — go start that project you've been dreaming up.
+- Happy birthday! Go start that project you've been dreaming up.
 - Here's to a birthday as colorful as your favorite paint set.
 - Happy birthday to someone truly glue-tiful, inside and out.
 - Hope today is wrapped in all your favorite craft supplies.
@@ -269,18 +269,18 @@ These extra lines round out the list with more sew-worthy wordplay.
 
 ## How to Use Craft Puns
 
-Craft puns fit maker captions, craft-fair booth signs, birthday cards for crafty friends, and classroom worksheets for an art unit — anywhere a project comes together and a quick line would land well. Fittingly, "Crafty Puns" is itself a pun worth smiling at.
+Craft puns fit maker captions, craft-fair booth signs, birthday cards for crafty friends, and classroom worksheets for an art unit, anywhere a project comes together and a quick line would land well. Fittingly, "Crafty Puns" is itself a pun worth smiling at.
 
 ## FAQ
 
 **What are the best craft puns?**
-The best craft puns use real craft words — glue, stitch, yarn, paint, needle — instead of generic hobby jokes. Lines like "sew crafty" and "knit happens" work because they sound like things a maker would actually say. The strongest ones double as both a joke and a caption.
+The best craft puns use real craft words, such as glue, stitch, yarn, paint, needle, instead of generic hobby jokes. Lines like "sew crafty" and "knit happens" work because they sound like things a maker would actually say. The strongest ones double as both a joke and a caption.
 
 **Are craft puns good for kids?**
 Yes, craft puns are great for kids because craft time is already a favorite classroom and after-school activity, which makes the wordplay easy to follow. Clean Q&A jokes like the "do-it-yourself-asaurus" one are simple enough for classrooms and craft-club meetings.
 
 **How do you make a craft pun?**
-Start with a craft word — glue, stitch, yarn, paint, needle — and find a similar-sounding phrase, like "sew" from "so." See our [how to write a pun](/how-to-write-a-pun/) guide for the full method.
+Start with a craft word, such as glue, stitch, yarn, paint, and needle, and find a similar-sounding phrase, like "sew" from "so." See our [how to write a pun](/how-to-write-a-pun/) guide for the full method.
 
 ## Related Puns
 

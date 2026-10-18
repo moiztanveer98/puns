@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're egg-cellent, and I mean that forever."
 - "My heart feels extra runny every time I see you."
-- "You had me at 'fresh dozen' — now I'm yours forever."
+- "You had me at 'fresh dozen.' Now I'm yours forever."
 - "Loving you is easy; it's egg-cellently natural."
 - "You're the only carton I actually want to settle into."
 - "You make my heart crack open in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still egg-ceptional as ever. Happy birthday!"
 - "May your birthday be filled with bacon and zero empty cartons."
 - "You're not getting older, you're just leveling up your crack game."
-- "Happy birthday — go celebrate like an egg fresh out of the carton."
+- "Happy birthday! Go celebrate like an egg fresh out of the carton."
 - "Here's to a birthday as warm as a fresh scramble."
 - "Happy birthday to a true breakfast favorite."
 
@@ -224,13 +224,13 @@ Egg puns work in Easter cards, party signs for a brunch or breakfast-themed even
 ## FAQ
 
 **What are the best egg puns?**
-The best egg puns lean on real egg features — cracking, yolks and scrambling — rather than generic food jokes. Lines like "egg-cellent" and "sunny side up" work because they sound like natural egg wordplay. The strongest ones double as both a joke and a caption.
+The best egg puns lean on real egg features, such as cracking, yolks and scrambling, rather than generic food jokes. Lines like "egg-cellent" and "sunny side up" work because they sound like natural egg wordplay. The strongest ones double as both a joke and a caption.
 
 **Are egg puns good for kids?**
 Yes, egg puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's an egg's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make an egg pun?**
-Start with an egg-specific word — "yolk", "shell", "crack", "scramble", "whisk" — and listen for a word it sounds like or rhymes with, such as "egg-cellent" from "excellent." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with an egg-specific word, such as "yolk", "shell", "crack", "scramble", and "whisk", and listen for a word it sounds like or rhymes with, such as "egg-cellent" from "excellent." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the G.O.A.T. of my heart, and I mean that literally and figuratively."
 - "My heart bleats every time I see you."
-- "You had me at 'bleat' — now I'm yours forever."
+- "You had me at 'bleat.' Now I'm yours forever."
 - "Loving you is easy; it's goat-level natural."
 - "You're the only pasture I actually want to settle into."
 - "You make my heart climb like a goat on a mountain."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still horn-y amazing as ever. Happy birthday!"
 - "May your birthday be filled with climbs and zero empty pastures."
 - "You're not getting older, you're just leveling up your G.O.A.T. status."
-- "Happy birthday — go celebrate like a goat who found the open gate."
+- "Happy birthday! Go celebrate like a goat who found the open gate."
 - "Here's to a birthday as cozy as a goat in fresh straw."
 - "Happy birthday to a true pasture favorite."
 
@@ -224,13 +224,13 @@ Goat puns work in birthday cards for farm lovers, party signs for a farm-themed 
 ## FAQ
 
 **What are the best goat puns?**
-The best goat puns lean on real goat behavior — bleating, climbing and chewing on everything — rather than generic animal jokes. Lines like "the G.O.A.T." and "bleat-ifully perfect" work because they sound like natural goat wordplay. The strongest ones double as both a joke and a caption.
+The best goat puns lean on real goat behavior, such as bleating, climbing and chewing on everything, rather than generic animal jokes. Lines like "the G.O.A.T." and "bleat-ifully perfect" work because they sound like natural goat wordplay. The strongest ones double as both a joke and a caption.
 
 **Are goat puns good for kids?**
 Yes, goat puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a goat's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a goat pun?**
-Start with a goat-specific word — "bleat", "horn", "climb", "pasture", "kid" — and listen for a word it sounds like or rhymes with, such as "G.O.A.T." standing for "greatest of all time." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a goat-specific word, such as "bleat", "horn", "climb", "pasture", and "kid", and listen for a word it sounds like or rhymes with, such as "G.O.A.T." standing for "greatest of all time." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

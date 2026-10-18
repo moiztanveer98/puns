@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're dino-mite, and my heart roars every time I see you."
 - "My heart stomps every time I see you."
-- "You had me at 'roar' — now I'm yours forever."
+- "You had me at 'roar.' Now I'm yours forever."
 - "Loving you is easy; it's dino-mitely natural."
 - "You're the only swamp I actually want to settle into."
 - "You make my heart roar in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still fossil-worthy as ever. Happy birthday!"
 - "May your birthday be filled with leaves and zero empty swamps."
 - "You're not getting older, you're just leveling up your roar."
-- "Happy birthday — go celebrate like a dinosaur who found the biggest swamp."
+- "Happy birthday! Go celebrate like a dinosaur who found the biggest swamp."
 - "Here's to a birthday as big as a dinosaur stomp."
 - "Happy birthday to a true jurassic favorite."
 
@@ -224,13 +224,13 @@ Dinosaur puns work in birthday cards for dino-loving kids, party signs for a jur
 ## FAQ
 
 **What are the best dinosaur puns?**
-The best dinosaur puns lean on real dinosaur features — roaring, stomping and fossils — rather than generic animal jokes. Lines like "dino-mite" and "extinct-ly funny" work because they sound like natural dinosaur wordplay. The strongest ones double as both a joke and a caption.
+The best dinosaur puns lean on real dinosaur features, such as roaring, stomping and fossils, rather than generic animal jokes. Lines like "dino-mite" and "extinct-ly funny" work because they sound like natural dinosaur wordplay. The strongest ones double as both a joke and a caption.
 
 **Are dinosaur puns good for kids?**
 Yes, dinosaur puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a dinosaur's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a dinosaur pun?**
-Start with a dinosaur-specific word — "roar", "fossil", "stomp", "prehistoric", "claw" — and listen for a word it sounds like or rhymes with, such as "dino-mite" from "dynamite." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a dinosaur-specific word, such as "roar", "fossil", "stomp", "prehistoric", and "claw", and listen for a word it sounds like or rhymes with, such as "dino-mite" from "dynamite." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

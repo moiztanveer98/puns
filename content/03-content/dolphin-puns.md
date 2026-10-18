@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're dol-fin-itely the one for me."
 - "My heart leaps every time I see you."
-- "You had me at 'click' — now I'm yours forever."
+- "You had me at 'click.' Now I'm yours forever."
 - "Loving you is easy; it's dol-fin-itely natural."
 - "You're the only pod I actually want to settle into."
 - "You make my heart leap in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still fin-tastic as ever. Happy birthday!"
 - "May your birthday be filled with fish and zero empty oceans."
 - "You're not getting older, you're just leveling up your leap."
-- "Happy birthday — go celebrate like a dolphin who found the open ocean."
+- "Happy birthday! Go celebrate like a dolphin who found the open ocean."
 - "Here's to a birthday as fun as a playful pod."
 - "Happy birthday to a true pod favorite."
 
@@ -224,13 +224,13 @@ Dolphin puns work in birthday cards for ocean lovers, party signs for a beach or
 ## FAQ
 
 **What are the best dolphin puns?**
-The best dolphin puns lean on real dolphin behavior — leaping, clicking and playful swimming — rather than generic animal jokes. Lines like "dol-fin-itely funny" and "playful vibes" work because they sound like natural dolphin wordplay. The strongest ones double as both a joke and a caption.
+The best dolphin puns lean on real dolphin behavior, such as leaping, clicking and playful swimming, rather than generic animal jokes. Lines like "dol-fin-itely funny" and "playful vibes" work because they sound like natural dolphin wordplay. The strongest ones double as both a joke and a caption.
 
 **Are dolphin puns good for kids?**
 Yes, dolphin puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a dolphin's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a dolphin pun?**
-Start with a dolphin-specific word — "fin", "leap", "click", "pod", "splash" — and listen for a word it sounds like or rhymes with, such as "dol-fin-itely" from "definitely." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a dolphin-specific word, such as "fin", "leap", "click", "pod", and "splash", and listen for a word it sounds like or rhymes with, such as "dol-fin-itely" from "definitely." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

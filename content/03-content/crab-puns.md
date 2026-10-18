@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're shell-arious, and my heart pinches every time I see you."
 - "My heart scuttles sideways every time you walk by."
-- "You had me at 'snap' — now I'm yours forever."
+- "You had me at 'snap.' Now I'm yours forever."
 - "Loving you is easy; it's shell-ebrated natural."
 - "You're the only shell I actually want to settle into."
 - "You make my heart snap in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still claw-some as ever. Happy birthday!"
 - "May your birthday be filled with sand and zero empty tide pools."
 - "You're not getting older, you're just leveling up your pinch."
-- "Happy birthday — go celebrate like a crab who found the perfect sand hole."
+- "Happy birthday! Go celebrate like a crab who found the perfect sand hole."
 - "Here's to a birthday as sunny as a day at the beach."
 - "Happy birthday to a true beach favorite."
 
@@ -224,13 +224,13 @@ Crab puns work in birthday cards for beach lovers, party signs for a seaside-the
 ## FAQ
 
 **What are the best crab puns?**
-The best crab puns lean on real crab features — pinching claws, sideways walks and shells — rather than generic animal jokes. Lines like "shell-arious" and "shell-ebrate" work because they sound like natural crab wordplay. The strongest ones double as both a joke and a caption.
+The best crab puns lean on real crab features, such as pinching claws, sideways walks and shells, rather than generic animal jokes. Lines like "shell-arious" and "shell-ebrate" work because they sound like natural crab wordplay. The strongest ones double as both a joke and a caption.
 
 **Are crab puns good for kids?**
 Yes, crab puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a crab's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a crab pun?**
-Start with a crab-specific word — "claw", "shell", "pinch", "sideways", "sand" — and listen for a word it sounds like or rhymes with, such as "shell-arious" from "hilarious." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a crab-specific word, such as "claw", "shell", "pinch", "sideways", and "sand", and listen for a word it sounds like or rhymes with, such as "shell-arious" from "hilarious." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

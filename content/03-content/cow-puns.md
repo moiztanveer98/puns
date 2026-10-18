@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the cream of my pasture, and I'm not just saying that for grass."
 - "My heart moos every time I see you."
-- "You had me at 'moo' — now I'm yours forever."
+- "You had me at 'moo.' Now I'm yours forever."
 - "Loving you is easy; it's udderly natural."
 - "You're the only field I actually want to graze in."
 - "You make my heart sway like a gentle cowbell."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still herd-worthy as ever. Happy birthday!"
 - "May your birthday be filled with fresh grass and zero empty troughs."
 - "You're not getting older, you're just leveling up your moo-mentum."
-- "Happy birthday — go celebrate like a cow who found the open gate."
+- "Happy birthday! Go celebrate like a cow who found the open gate."
 - "Here's to a birthday as cozy as a cow in fresh clover."
 - "Happy birthday to a true pasture favorite."
 
@@ -224,13 +224,13 @@ Cow puns work in birthday cards for farm lovers, party signs for a farm-themed g
 ## FAQ
 
 **What are the best cow puns?**
-The best cow puns lean on real cow behavior — mooing, grazing and dairy life — rather than generic animal jokes. Lines like "udderly hilarious" and "moo-mentous" work because they sound like natural cow words. The strongest ones double as both a joke and a caption.
+The best cow puns lean on real cow behavior, such as mooing, grazing and dairy life, rather than generic animal jokes. Lines like "udderly hilarious" and "moo-mentous" work because they sound like natural cow words. The strongest ones double as both a joke and a caption.
 
 **Are cow puns good for kids?**
 Yes, cow puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a cow's favorite TV show" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a cow pun?**
-Start with a cow-specific word — "moo", "udder", "herd", "dairy", "pasture" — and listen for a word it sounds like or rhymes with, such as "udderly" from "utterly." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a cow-specific word, such as "moo", "udder", "herd", "dairy", and "pasture", and listen for a word it sounds like or rhymes with, such as "udderly" from "utterly." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

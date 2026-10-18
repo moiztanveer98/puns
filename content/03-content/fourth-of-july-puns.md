@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're red, white & punny, and I mean that forever."
 - "My heart feels extra sparkly every time I see you."
-- "You had me at 'fireworks' — now I'm yours forever."
+- "You had me at 'fireworks.' Now I'm yours forever."
 - "Loving you is easy; it's star-spangled natural."
 - "You're the only backyard I actually want to settle into."
 - "You make my heart spark in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still star-spangled as ever. Happy birthday!"
 - "May your birthday be filled with sparklers and zero rained-out shows."
 - "You're not getting older, you're just leveling up your firework game."
-- "Happy birthday — go celebrate like a firework at full sparkle."
+- "Happy birthday! Go celebrate like a firework at full sparkle."
 - "Here's to a birthday as bright as a Fourth of July sky."
 - "Happy birthday to a true backyard-barbecue favorite."
 
@@ -224,13 +224,13 @@ Fourth of July puns work in holiday cards, party signs for a barbecue or firewor
 ## FAQ
 
 **What are the best Fourth of July puns?**
-The best Fourth of July puns lean on real holiday features — fireworks, flags and barbecues — rather than generic summer jokes. Lines like "red, white & punny" and "star-spangled" work because they sound like natural Fourth of July wordplay. The strongest ones double as both a joke and a caption.
+The best Fourth of July puns lean on real holiday features, such as fireworks, flags and barbecues, rather than generic summer jokes. Lines like "red, white & punny" and "star-spangled" work because they sound like natural Fourth of July wordplay. The strongest ones double as both a joke and a caption.
 
 **Are Fourth of July puns good for kids?**
 Yes, Fourth of July puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's the Fourth of July's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a Fourth of July pun?**
-Start with a holiday-specific word — "firework", "flag", "barbecue", "star-spangled", "parade" — and listen for a word it sounds like or rhymes with, such as "red, white & punny" from "red, white & blue." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a holiday-specific word, such as "firework", "flag", "barbecue", "star-spangled", and "parade", and listen for a word it sounds like or rhymes with, such as "red, white & punny" from "red, white & blue." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

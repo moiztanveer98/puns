@@ -13,14 +13,14 @@ Dog puns turn barks, wagging tails and fetch obsessions into quick wordplay. Fin
 
 These one-liners work well as a quick joke or a ready-made caption.
 
-- "I'm not kitten around — wait, wrong animal, I'm paw-sitive this is funny."
+- "I'm not kitten around. Wait, wrong animal, I'm paw-sitive this is funny."
 - "My dog isn't lazy, he's just conserving fetch energy."
 - "She's the top dog, and she knows it."
 - "That joke was so bad it deserves a time-out in the dog house."
 - "He's a paw-fessional napper between zoomies."
 - "My dog's favorite subject in school was bark-eology."
 - "She's a total under-dog until treats are involved."
-- "My dog's a copy-cat — sorry, copy-dog — he mimics every yawn."
+- "My dog's a copy-cat (sorry, copy-dog) who mimics every yawn."
 - "He only answers to his name when snacks are mentioned."
 - "That fetch video was paw-sitively viral."
 - "My dog has ruff days, but mostly good ones."
@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're the top dog of my heart, and I'm not just saying that for treats."
 - "My tail would wag nonstop if I had one, just from seeing you."
-- "You had me at 'good boy' — now I'm yours for every walk."
+- "You had me at 'good boy.' Now I'm yours for every walk."
 - "Loving you is easy; it's paw-sitively natural."
 - "You're the only lap I actually want to curl up in."
 - "You make my heart do zoomies every time you smile."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still fetch-ing amazing. Happy birthday!"
 - "May your birthday be filled with treats and zero bad vet visits."
 - "You're not getting older, you're just leveling up your zoomies."
-- "Happy birthday — go celebrate like a dog who found the open gate."
+- "Happy birthday! Go celebrate like a dog who found the open gate."
 - "Here's to a birthday as cozy as a dog in a sunbeam."
 - "Happy birthday to a true good boy or girl."
 
@@ -274,13 +274,13 @@ Dog puns work in birthday cards for dog owners, party signs for a dog-themed get
 ## FAQ
 
 **What are the best dog puns?**
-The best dog puns lean on real dog behavior — barking, fetching, wagging and napping — rather than generic animal jokes. Lines like "paw-sitively great" and "ruff-ly perfect" work because they sound like natural dog words. The strongest ones double as both a joke and a caption.
+The best dog puns lean on real dog behavior, such as barking, fetching, wagging and napping, rather than generic animal jokes. Lines like "paw-sitively great" and "ruff-ly perfect" work because they sound like natural dog words. The strongest ones double as both a joke and a caption.
 
 **Are dog puns good for kids?**
 Yes, dog puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a dog's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a dog pun?**
-Start with a dog-specific word — "bark", "paw", "fetch", "woof", "leash" — and listen for a word it sounds like or rhymes with, such as "paw-sitive" from "positive." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a dog-specific word, such as "bark", "paw", "fetch", "woof", and "leash", and listen for a word it sounds like or rhymes with, such as "paw-sitive" from "positive." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

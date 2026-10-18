@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're egg-stra special, and I mean that forever."
 - "My heart feels extra pastel every time I see you."
-- "You had me at 'chocolate bunny' — now I'm yours forever."
+- "You had me at 'chocolate bunny.' Now I'm yours forever."
 - "Loving you is easy; it's egg-stra natural."
 - "You're the only basket I actually want to settle into."
 - "You make my heart hop in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still egg-stra special as ever. Happy birthday!"
 - "May your birthday be filled with eggs and zero empty baskets."
 - "You're not getting older, you're just leveling up your hop game."
-- "Happy birthday — go celebrate like an Easter basket fresh with eggs."
+- "Happy birthday! Go celebrate like an Easter basket fresh with eggs."
 - "Here's to a birthday as sweet as an Easter morning."
 - "Happy birthday to a true basket favorite."
 
@@ -224,13 +224,13 @@ Easter puns work in holiday cards, party signs for an egg-hunt or spring-themed 
 ## FAQ
 
 **What are the best Easter puns?**
-The best Easter puns lean on real Easter features — eggs, baskets and bunnies — rather than generic spring jokes. Lines like "egg-stra special" and "some-bunny loves you" work because they sound like natural Easter wordplay. The strongest ones double as both a joke and a caption.
+The best Easter puns lean on real Easter features, such as eggs, baskets and bunnies, rather than generic spring jokes. Lines like "egg-stra special" and "some-bunny loves you" work because they sound like natural Easter wordplay. The strongest ones double as both a joke and a caption.
 
 **Are Easter puns good for kids?**
 Yes, Easter puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's Easter's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make an Easter pun?**
-Start with an Easter-specific word — "egg", "bunny", "basket", "hop", "pastel" — and listen for a word it sounds like or rhymes with, such as "egg-stra special" from "extra special." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with an Easter-specific word, such as "egg", "bunny", "basket", "hop", and "pastel", and listen for a word it sounds like or rhymes with, such as "egg-stra special" from "extra special." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

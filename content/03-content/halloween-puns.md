@@ -122,7 +122,7 @@ These lines add a laugh to the celebration.
 - Hope your birthday is stuffed with more candy than tricks.
 - Another year older, still bewitching everyone in the room. Happy birthday!
 - May your birthday have zero scares and all the treats.
-- Happy birthday — go carve out some time to celebrate yourself.
+- Happy birthday! Go carve out some time to celebrate yourself.
 - Here's to a birthday as fang-tastic as you are.
 - Happy birthday to someone truly boo-tiful inside and out.
 - Hope today is wrapped in all your favorite things, candy included.
@@ -274,13 +274,13 @@ Halloween puns fit trick-or-treat bags, party invites, classroom worksheets, and
 ## FAQ
 
 **What are the best Halloween puns?**
-The best Halloween puns use real holiday words — ghost, witch, pumpkin, candy, costume — instead of generic spooky jokes. Lines like "spook-tacular" and "fang-tastic" land because they sound like real holiday phrases. The strongest ones double as both a joke and a party sign.
+The best Halloween puns use real holiday words, such as ghost, witch, pumpkin, candy, costume, instead of generic spooky jokes. Lines like "spook-tacular" and "fang-tastic" land because they sound like real holiday phrases. The strongest ones double as both a joke and a party sign.
 
 **Are Halloween puns good for kids?**
-Yes, Halloween puns are great for kids because the holiday is already full of characters and imagery kids know well — ghosts, pumpkins, skeletons — which makes the wordplay easy to follow in a classroom or at a party.
+Yes, Halloween puns are great for kids because the holiday is already full of characters and imagery kids know well, such as ghosts, pumpkins and skeletons, which makes the wordplay easy to follow in a classroom or at a party.
 
 **How do you make a Halloween pun?**
-Start with a holiday word — ghost, witch, pumpkin, candy, mummy — and find a similar-sounding phrase, like "spook-tacular" from "spectacular." See our [how to write a pun](/how-to-write-a-pun/) guide for the full step-by-step method.
+Start with a holiday word, such as ghost, witch, pumpkin, candy, and mummy, and find a similar-sounding phrase, like "spook-tacular" from "spectacular." See our [how to write a pun](/how-to-write-a-pun/) guide for the full step-by-step method.
 
 ## More Halloween Puns
 

@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're a donut I donut want to miss, ever."
 - "My heart feels extra glazed every time I see you."
-- "You had me at 'fresh sprinkles' — now I'm yours forever."
+- "You had me at 'fresh sprinkles.' Now I'm yours forever."
 - "Loving you is easy; it's donut-ally natural."
 - "You're the only box I actually want to settle into."
 - "You make my heart glaze over in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still donut-believable as ever. Happy birthday!"
 - "May your birthday be filled with sprinkles and zero empty boxes."
 - "You're not getting older, you're just leveling up your glaze game."
-- "Happy birthday — go celebrate like a donut fresh out of the fryer."
+- "Happy birthday! Go celebrate like a donut fresh out of the fryer."
 - "Here's to a birthday as sweet as a fresh dozen."
 - "Happy birthday to a true bakery favorite."
 
@@ -224,13 +224,13 @@ Donut puns work in birthday cards for coffee-shop regulars, party signs for a br
 ## FAQ
 
 **What are the best donut puns?**
-The best donut puns lean on real donut features — glaze, sprinkles and the hole — rather than generic dessert jokes. Lines like "donut want to miss" and "hole-some" work because they sound like natural donut wordplay. The strongest ones double as both a joke and a caption.
+The best donut puns lean on real donut features, such as glaze, sprinkles and the hole, rather than generic dessert jokes. Lines like "donut want to miss" and "hole-some" work because they sound like natural donut wordplay. The strongest ones double as both a joke and a caption.
 
 **Are donut puns good for kids?**
 Yes, donut puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a donut's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a donut pun?**
-Start with a donut-specific word — "glaze", "sprinkle", "hole", "dough", "frosting" — and listen for a word it sounds like or rhymes with, such as "donut want to miss" from "don't want to miss." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a donut-specific word, such as "glaze", "sprinkle", "hole", "dough", and "frosting", and listen for a word it sounds like or rhymes with, such as "donut want to miss" from "don't want to miss." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 

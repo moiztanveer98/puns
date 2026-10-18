@@ -108,7 +108,7 @@ These lines turn affection into wordplay.
 
 - "You're boo-tifully funny, and I mean that forever."
 - "My heart feels extra spooky every time I see you."
-- "You had me at 'boo' — now I'm yours forever."
+- "You had me at 'boo.' Now I'm yours forever."
 - "Loving you is easy; it's boo-tifully natural."
 - "You're the only haunted house I actually want to settle into."
 - "You make my heart float in the best way."
@@ -126,7 +126,7 @@ These lines add a laugh to the celebration.
 - "Another year older, still boo-tiful as ever. Happy birthday!"
 - "May your birthday be filled with candy and zero scary surprises."
 - "You're not getting older, you're just leveling up your haunting game."
-- "Happy birthday — go celebrate like a ghost on Halloween night."
+- "Happy birthday! Go celebrate like a ghost on Halloween night."
 - "Here's to a birthday as spooky as a haunted house."
 - "Happy birthday to a true haunted-house favorite."
 
@@ -224,13 +224,13 @@ Ghost puns work in Halloween cards, party signs for a haunted-house or spooky-th
 ## FAQ
 
 **What are the best ghost puns?**
-The best ghost puns lean on real ghost features — floating, haunting and spookiness — rather than generic Halloween jokes. Lines like "boo-tifully funny" and "spook-tacular" work because they sound like natural ghost wordplay. The strongest ones double as both a joke and a caption.
+The best ghost puns lean on real ghost features, such as floating, haunting and spookiness, rather than generic Halloween jokes. Lines like "boo-tifully funny" and "spook-tacular" work because they sound like natural ghost wordplay. The strongest ones double as both a joke and a caption.
 
 **Are ghost puns good for kids?**
 Yes, ghost puns are a great fit for kids because they're clean, visual and easy to picture. Simple setups like "what's a ghost's favorite color" teach wordplay without any content a parent or teacher would need to screen first.
 
 **How do you make a ghost pun?**
-Start with a ghost-specific word — "boo", "spirit", "haunt", "float", "transparent" — and listen for a word it sounds like or rhymes with, such as "boo-tifully" from "beautifully." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
+Start with a ghost-specific word, such as "boo", "spirit", "haunt", "float", and "transparent", and listen for a word it sounds like or rhymes with, such as "boo-tifully" from "beautifully." The full step-by-step method is in our [how to write a pun](/how-to-write-a-pun/) guide.
 
 ## Related Puns
 
