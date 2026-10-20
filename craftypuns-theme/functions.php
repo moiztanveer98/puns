@@ -12,6 +12,17 @@ define( 'CRAFTYPUNS_DIR', get_template_directory() );
 define( 'CRAFTYPUNS_URI', get_template_directory_uri() );
 
 /**
+ * Show 12 articles per page on category/hub archives, matching the 3-column
+ * card grid (4 full rows) instead of WordPress's default of 10.
+ */
+function craftypuns_category_posts_per_page( $query ) {
+	if ( ! is_admin() && $query->is_main_query() && is_category() ) {
+		$query->set( 'posts_per_page', 12 );
+	}
+}
+add_action( 'pre_get_posts', 'craftypuns_category_posts_per_page' );
+
+/**
  * Expose _seo_title / _seo_description postmeta to the REST API so they can
  * be set programmatically and are picked up by craftypuns_get_seo_title()/
  * craftypuns_get_seo_description() in inc/seo-meta.php.

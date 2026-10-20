@@ -13,6 +13,11 @@
 #pg-generate:disabled{opacity:.5;cursor:not-allowed}
 #pg-results ul{list-style:disc;padding-inline-start:1.625em}
 
+/* Feature image cropping/centering (missing from the compiled Tailwind build) */
+.object-cover{-o-object-fit:cover;object-fit:cover}
+.object-center{-o-object-position:center;object-position:center}
+.aspect-\[3\/2\]{aspect-ratio:3/2}
+
 /* Pagination: modern, centered pill buttons */
 .nav-links{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:.5rem;margin-top:2.5rem}
 .page-numbers{display:inline-flex;align-items:center;justify-content:center;min-width:2.5rem;height:2.5rem;padding:0 .9rem;border-radius:9999px;border:1px solid #e2e8f0;color:#334155;font-weight:600;font-size:.875rem;text-decoration:none;background:#fff;transition:background-color .15s,color .15s,border-color .15s,box-shadow .15s}

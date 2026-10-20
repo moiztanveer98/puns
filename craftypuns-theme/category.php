@@ -35,7 +35,7 @@ $term = get_queried_object();
 				?>
 				<a class="block overflow-hidden rounded-2xl border border-slate-100 transition hover:border-amber-300 hover:shadow-md" href="<?php the_permalink(); ?>">
 					<?php if ( has_post_thumbnail() ) : ?>
-						<?php the_post_thumbnail( 'medium', array( 'class' => 'aspect-[3/2] w-full object-cover' ) ); ?>
+						<?php the_post_thumbnail( 'medium', array( 'class' => 'mx-auto aspect-[3/2] w-full object-cover object-center' ) ); ?>
 					<?php endif; ?>
 					<div class="p-5">
 						<h3 class="font-semibold"><?php the_title(); ?></h3>
