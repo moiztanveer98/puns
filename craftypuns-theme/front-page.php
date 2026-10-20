@@ -62,8 +62,8 @@ get_header();
 						<?php if ( has_post_thumbnail( $pop_post ) ) : ?>
 							<?php echo get_the_post_thumbnail( $pop_post, 'medium', array( 'class' => 'mx-auto aspect-[3/2] w-full object-cover object-center' ) ); ?>
 						<?php endif; ?>
-						<div class="p-4">
-							<h3 class="font-semibold"><?php echo esc_html( get_the_title( $pop_post ) ); ?></h3>
+						<div class="p-5">
+							<h3 class="font-semibold leading-snug"><?php echo esc_html( get_the_title( $pop_post ) ); ?></h3>
 						</div>
 					</a>
 				<?php endforeach; ?>
