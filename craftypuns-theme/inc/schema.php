@@ -227,6 +227,9 @@ function craftypuns_get_faqs_from_content( $post_id ) {
 	if ( ! $content ) {
 		return array();
 	}
+	// Raw post_content has no <br> between Q and A — that's only added by
+	// wpautop() when WordPress renders the content for display.
+	$content = wpautop( $content );
 
 	// Isolate the FAQ section: from <h2>FAQ</h2> up to the next <h2> (or end).
 	if ( ! preg_match( '/<h2>\s*FAQ\s*<\/h2>(.*?)(?=<h2|$)/is', $content, $section ) ) {
