@@ -12,7 +12,6 @@ get_header();
 <main>
 	<section class="bg-gradient-to-b from-amber-50 to-white py-16">
 		<div class="mx-auto max-w-4xl px-4 text-center">
-			<?php if ( has_custom_logo() ) : the_custom_logo(); endif; ?>
 			<h1 class="mt-6 text-4xl font-extrabold tracking-tight sm:text-5xl"><?php esc_html_e( 'Original Puns for Every Topic, Occasion and Mood', 'craftypuns' ); ?></h1>
 			<p class="mx-auto mt-4 max-w-2xl text-lg text-slate-600"><?php esc_html_e( 'Browse hundreds of pun pages by topic, or make your own in seconds with our free Pun Generator.', 'craftypuns' ); ?></p>
 			<div class="mt-8">

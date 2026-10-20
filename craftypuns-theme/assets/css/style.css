@@ -7,8 +7,17 @@
 @media (max-width:640px){.pun-line{padding-right:0}.pun-copy-btn{position:static;display:inline-block;margin-top:.35rem}}
 
 /* Header logo sizing */
-.custom-logo-link img.custom-logo{max-height:48px;width:auto;height:auto}
+.custom-logo-link img.custom-logo{max-height:52px;width:auto;height:auto}
 
 /* Pun Generator Tool */
 #pg-generate:disabled{opacity:.5;cursor:not-allowed}
 #pg-results ul{list-style:disc;padding-inline-start:1.625em}
+
+/* Pagination: modern, centered pill buttons */
+.nav-links{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:.5rem;margin-top:2.5rem}
+.page-numbers{display:inline-flex;align-items:center;justify-content:center;min-width:2.5rem;height:2.5rem;padding:0 .9rem;border-radius:9999px;border:1px solid #e2e8f0;color:#334155;font-weight:600;font-size:.875rem;text-decoration:none;background:#fff;transition:background-color .15s,color .15s,border-color .15s,box-shadow .15s}
+.page-numbers:hover{border-color:#fcd34d;background:#fffbeb;color:#b45309}
+.page-numbers.current{background:#f59e0b;border-color:#f59e0b;color:#fff;box-shadow:0 4px 6px -1px rgba(245,158,11,.3)}
+.page-numbers.dots{border-color:transparent;background:transparent;color:#94a3b8}
+.page-numbers.dots:hover{background:transparent;border-color:transparent;color:#94a3b8}
+.page-numbers.prev,.page-numbers.next{padding:0 1.1rem}
