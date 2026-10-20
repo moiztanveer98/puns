@@ -6,12 +6,24 @@
 .pun-copy-btn.is-copied{background:#15803d;border-color:#15803d;color:#fff}
 @media (max-width:640px){.pun-line{padding-right:0}.pun-copy-btn{position:static;display:inline-block;margin-top:.35rem}}
 
-/* Header logo sizing */
-.custom-logo-link img.custom-logo{max-height:52px;width:auto;height:auto}
+/* Header logo sizing (missing shrink-0 utility + a touch larger for better prominence) */
+.shrink-0{flex-shrink:0}
+.custom-logo-link{display:flex;align-items:center}
+.custom-logo-link img.custom-logo{max-height:56px;width:auto;height:auto}
 
 /* Pun Generator Tool */
 #pg-generate:disabled{opacity:.5;cursor:not-allowed}
 #pg-results ul{list-style:disc;padding-inline-start:1.625em}
+
+/* Header mega-menu: click-to-open state (mirrors the existing :hover classes) */
+.cp-dropdown-item.cp-open .cp-dropdown-panel{visibility:visible;opacity:1;transform:translate(-50%,0)}
+
+/* Inside the mobile nav, the dropdown can't be an absolute-positioned overlay
+   (no room, no hover) — render it inline and always open instead. */
+#cp-mobile-nav .cp-dropdown-panel{position:static;visibility:visible;opacity:1;transform:none;box-shadow:none;border:none;width:100%;margin-top:.75rem;padding:0}
+#cp-mobile-nav .cp-dropdown-panel .grid{grid-template-columns:1fr;gap:1.5rem}
+#cp-mobile-nav .cp-dropdown-toggle{pointer-events:none}
+#cp-mobile-nav .cp-dropdown-toggle svg{display:none}
 
 /* Feature image cropping/centering (missing from the compiled Tailwind build) */
 .object-cover{-o-object-fit:cover;object-fit:cover}

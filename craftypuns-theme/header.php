@@ -10,15 +10,15 @@
 
 <header class="border-b border-slate-100">
 	<div class="mx-auto flex max-w-6xl items-center justify-between px-4 py-4">
-		<a class="flex items-center" href="<?php echo esc_url( home_url( '/' ) ); ?>">
-			<?php
-			if ( has_custom_logo() ) {
-				the_custom_logo();
-			} else {
-				echo '<span class="text-xl font-bold">' . esc_html( get_bloginfo( 'name' ) ) . '</span>';
-			}
-			?>
-		</a>
+		<?php if ( has_custom_logo() ) : ?>
+			<div class="flex shrink-0 items-center">
+				<?php the_custom_logo(); ?>
+			</div>
+		<?php else : ?>
+			<a class="flex shrink-0 items-center text-xl font-bold" href="<?php echo esc_url( home_url( '/' ) ); ?>">
+				<?php echo esc_html( get_bloginfo( 'name' ) ); ?>
+			</a>
+		<?php endif; ?>
 		<nav class="hidden lg:block" aria-label="<?php esc_attr_e( 'Primary', 'craftypuns' ); ?>">
 			<?php
 			wp_nav_menu( array(

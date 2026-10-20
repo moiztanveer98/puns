@@ -1,5 +1,48 @@
 // Mobile nav toggle is handled inline in header.php.
 
+// Header "Puns" mega-menu: the dropdown shows on :hover (desktop mouse), but
+// touch devices, trackpads and keyboard users have no :hover state, so it was
+// effectively unopenable for them. This adds a click/tap toggle on top of the
+// existing hover behavior, plus outside-click and Escape to close.
+(function () {
+	var toggles = document.querySelectorAll( '.cp-dropdown-toggle' );
+	toggles.forEach( function ( toggle ) {
+		var item = toggle.closest( '.cp-dropdown-item' );
+		if ( ! item ) {
+			return;
+		}
+		toggle.addEventListener( 'click', function ( e ) {
+			e.stopPropagation();
+			var isOpen = item.classList.toggle( 'cp-open' );
+			toggle.setAttribute( 'aria-expanded', isOpen ? 'true' : 'false' );
+		} );
+	} );
+
+	document.addEventListener( 'click', function ( e ) {
+		document.querySelectorAll( '.cp-dropdown-item.cp-open' ).forEach( function ( item ) {
+			if ( ! item.contains( e.target ) ) {
+				item.classList.remove( 'cp-open' );
+				var btn = item.querySelector( '.cp-dropdown-toggle' );
+				if ( btn ) {
+					btn.setAttribute( 'aria-expanded', 'false' );
+				}
+			}
+		} );
+	} );
+
+	document.addEventListener( 'keydown', function ( e ) {
+		if ( e.key === 'Escape' ) {
+			document.querySelectorAll( '.cp-dropdown-item.cp-open' ).forEach( function ( item ) {
+				item.classList.remove( 'cp-open' );
+				var btn = item.querySelector( '.cp-dropdown-toggle' );
+				if ( btn ) {
+					btn.setAttribute( 'aria-expanded', 'false' );
+				}
+			} );
+		}
+	} );
+})();
+
 // Adds a "Copy" button to each pun line inside article content, so visitors
 // can copy a single pun to their clipboard without selecting text manually.
 (function () {

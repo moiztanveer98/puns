@@ -12,12 +12,12 @@ if ( ! defined( 'ABSPATH' ) ) {
 function craftypuns_fallback_primary_menu() {
 	?>
 	<ul class="flex items-center gap-6">
-		<li class="group relative">
-			<button class="flex items-center gap-1 font-semibold text-slate-800 hover:text-amber-600" aria-haspopup="true">
+		<li class="cp-dropdown-item group relative">
+			<button class="cp-dropdown-toggle flex items-center gap-1 font-semibold text-slate-800 hover:text-amber-600" type="button" aria-haspopup="true" aria-expanded="false">
 				<?php esc_html_e( 'Puns', 'craftypuns' ); ?>
 				<svg class="h-4 w-4" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 10.94l3.71-3.71a.75.75 0 111.06 1.06l-4.24 4.25a.75.75 0 01-1.06 0L5.21 8.29a.75.75 0 01.02-1.08z" clip-rule="evenodd"/></svg>
 			</button>
-			<div class="invisible absolute left-1/2 top-full z-40 w-[640px] -translate-x-1/2 translate-y-2 rounded-2xl border border-slate-100 bg-white p-6 opacity-0 shadow-xl transition group-hover:visible group-hover:translate-y-0 group-hover:opacity-100">
+			<div class="cp-dropdown-panel invisible absolute left-1/2 top-full z-40 w-[640px] -translate-x-1/2 translate-y-2 rounded-2xl border border-slate-100 bg-white p-6 opacity-0 shadow-xl transition group-hover:visible group-hover:translate-y-0 group-hover:opacity-100">
 				<div class="grid grid-cols-3 gap-6">
 					<div>
 						<p class="mb-3 text-xs font-semibold uppercase tracking-wide text-slate-400"><?php esc_html_e( 'By Topic', 'craftypuns' ); ?></p>
