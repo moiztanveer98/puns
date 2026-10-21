@@ -9,9 +9,11 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-function craftypuns_fallback_primary_menu() {
+function craftypuns_fallback_primary_menu( $args = array() ) {
+	$is_mobile  = isset( $args['items_wrap'] ) && strpos( $args['items_wrap'], 'flex-col' ) !== false;
+	$ul_class   = $is_mobile ? 'flex flex-col gap-3' : 'flex items-center gap-6';
 	?>
-	<ul class="flex items-center gap-6">
+	<ul class="<?php echo esc_attr( $ul_class ); ?>">
 		<li class="cp-dropdown-item group">
 			<button class="cp-dropdown-toggle flex items-center gap-1 font-semibold text-slate-800 hover:text-amber-600" type="button" aria-haspopup="true" aria-expanded="false">
 				<?php esc_html_e( 'Puns', 'craftypuns' ); ?>
