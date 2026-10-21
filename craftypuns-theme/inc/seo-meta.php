@@ -14,6 +14,10 @@ function craftypuns_seo_plugin_active() {
 }
 
 function craftypuns_get_seo_title() {
+	if ( is_front_page() ) {
+		return __( 'Crafty Puns - Free Pun Generator & 1,000+ Original Puns', 'craftypuns' );
+	}
+
 	$post_id = get_queried_object_id();
 
 	if ( defined( 'RANK_MATH_VERSION' ) ) {
@@ -43,6 +47,10 @@ function craftypuns_get_seo_title() {
 }
 
 function craftypuns_get_seo_description() {
+	if ( is_front_page() ) {
+		return __( 'Browse 1,000+ original puns by topic or occasion, or generate your own instantly with our free Pun Generator. 100% original, always free, no sign-up.', 'craftypuns' );
+	}
+
 	$post_id = get_queried_object_id();
 
 	if ( defined( 'RANK_MATH_VERSION' ) ) {
@@ -102,7 +110,7 @@ add_action( 'wp_head', 'craftypuns_head_meta', 1 );
  * SEO title so <title> matches the meta_title set on each article/page.
  */
 function craftypuns_document_title( $title ) {
-	if ( craftypuns_seo_plugin_active() || ! is_singular() ) {
+	if ( craftypuns_seo_plugin_active() || ! ( is_singular() || is_front_page() ) ) {
 		return $title;
 	}
 	return craftypuns_get_seo_title();
