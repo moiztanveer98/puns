@@ -247,11 +247,23 @@
 		return len > 90;
 	}
 
+	// A handful of articles' bullet lists accidentally swept up a trailing
+	// "Related Puns" markdown link (e.g. "[Orange Puns](/orange-puns/)")
+	// during dataset extraction — filter those out rather than show raw
+	// markdown syntax as a "pun".
+	var MARKDOWN_LINK_RE = /^\[.*\]\(.*\)$/;
+
+	function isRealPun( text ) {
+		return ! MARKDOWN_LINK_RE.test( text.trim() );
+	}
+
 	function allPunsFlat() {
 		var flat = [];
 		Object.keys( dataset ).forEach( function ( slug ) {
 			dataset[ slug ].puns.forEach( function ( text ) {
-				flat.push( text );
+				if ( isRealPun( text ) ) {
+					flat.push( text );
+				}
 			} );
 		} );
 		return flat;
@@ -277,7 +289,7 @@
 		}
 
 		return pool.filter( function ( text ) {
-			return lengthMatches( text, bucket );
+			return isRealPun( text ) && lengthMatches( text, bucket );
 		} );
 	}
 

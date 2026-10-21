@@ -35,6 +35,7 @@
 /* Pun Generator Tool */
 #pg-generate:disabled{opacity:.5;cursor:not-allowed}
 #pg-results ul{list-style:disc;padding-inline-start:1.625em}
+#pg-results ul.pg-pun-list,#pg-favorites-list.pg-pun-list{list-style:none;padding-inline-start:0}
 /* Utilities used on this page that were never compiled into the build */
 .w-full{width:100%}
 .rounded-lg{border-radius:.5rem}
