@@ -68,6 +68,16 @@ get_header();
 		<p id="pg-empty" class="mt-8 text-center text-slate-500">Choose a topic above and click "Generate Puns" to get started.</p>
 	</div>
 
+	<section class="mt-10 rounded-2xl border border-slate-200 bg-white p-5 sm:p-6">
+		<h2 class="text-lg font-bold">✨ Make a Brand-New Pun with AI</h2>
+		<p class="mt-1 text-sm text-slate-600">Type anything — a name, a hobby, an inside joke — and get an original pun written just for it.</p>
+		<div class="mt-4 flex flex-col gap-2 sm:flex-row">
+			<input id="pg-ai-topic" type="text" maxlength="60" placeholder="e.g. my dog Biscuit, accounting, Monday mornings…" class="w-full flex-1 rounded-lg border border-slate-300 bg-white px-3 py-2 text-slate-900" />
+			<button id="pg-ai-generate" type="button" class="rounded-full bg-slate-900 px-6 py-2 font-semibold text-white transition hover:bg-slate-700 sm:w-auto">Generate with AI</button>
+		</div>
+		<div id="pg-ai-result" class="mt-4"></div>
+	</section>
+
 	<section id="pg-favorites" class="mt-10 rounded-2xl border border-amber-200 bg-amber-50 p-5 sm:p-6" hidden>
 		<div class="flex items-center justify-between gap-3">
 			<h2 class="text-lg font-bold">My Favorites (<span id="pg-favorites-count">0</span>)</h2>

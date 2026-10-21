@@ -539,4 +539,65 @@
 			}
 		} );
 	}
+
+	/* ---------- AI custom pun ---------- */
+
+	var aiTopicInput = document.getElementById( 'pg-ai-topic' );
+	var aiGenerateBtn = document.getElementById( 'pg-ai-generate' );
+	var aiResult = document.getElementById( 'pg-ai-result' );
+
+	function requestAiPun() {
+		var topic = aiTopicInput.value.trim();
+		if ( ! topic || ! window.craftypunsData.aiPunUrl ) {
+			return;
+		}
+
+		aiGenerateBtn.disabled = true;
+		var originalLabel = aiGenerateBtn.textContent;
+		aiGenerateBtn.textContent = 'Thinking…';
+		aiResult.innerHTML = '';
+
+		fetch( window.craftypunsData.aiPunUrl, {
+			method: 'POST',
+			headers: { 'Content-Type': 'application/json' },
+			body: JSON.stringify( { topic: topic } ),
+		} )
+			.then( function ( r ) { return r.json().then( function ( data ) { return { ok: r.ok, data: data }; } ); } )
+			.then( function ( result ) {
+				aiGenerateBtn.disabled = false;
+				aiGenerateBtn.textContent = originalLabel;
+
+				if ( ! result.ok || ! result.data.pun ) {
+					var p = document.createElement( 'p' );
+					p.className = 'pg-ai-error';
+					p.textContent = ( result.data && result.data.message ) || 'Something went wrong. Please try again.';
+					aiResult.appendChild( p );
+					return;
+				}
+
+				var ul = document.createElement( 'ul' );
+				ul.className = 'pg-pun-list';
+				ul.appendChild( renderPunItem( result.data.pun ) );
+				aiResult.appendChild( ul );
+				addToHistory( result.data.pun );
+			} )
+			.catch( function () {
+				aiGenerateBtn.disabled = false;
+				aiGenerateBtn.textContent = originalLabel;
+				var p = document.createElement( 'p' );
+				p.className = 'pg-ai-error';
+				p.textContent = 'Could not reach the AI service. Please try again.';
+				aiResult.appendChild( p );
+			} );
+	}
+
+	if ( aiGenerateBtn && aiTopicInput ) {
+		aiGenerateBtn.addEventListener( 'click', requestAiPun );
+		aiTopicInput.addEventListener( 'keydown', function ( e ) {
+			if ( e.key === 'Enter' ) {
+				e.preventDefault();
+				requestAiPun();
+			}
+		} );
+	}
 })();

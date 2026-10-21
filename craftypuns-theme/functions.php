@@ -94,7 +94,8 @@ function craftypuns_assets() {
 		wp_add_inline_script(
 			'craftypuns-pun-generator',
 			'window.craftypunsData = ' . wp_json_encode( array(
-				'punsUrl' => CRAFTYPUNS_URI . '/assets/data/puns-dataset.json?v=' . $data_ver,
+				'punsUrl'   => CRAFTYPUNS_URI . '/assets/data/puns-dataset.json?v=' . $data_ver,
+				'aiPunUrl'  => esc_url_raw( rest_url( 'craftypuns/v1/generate-pun' ) ),
 			) ) . ';',
 			'before'
 		);
@@ -110,6 +111,7 @@ require_once CRAFTYPUNS_DIR . '/inc/fallback-menus.php';
 require_once CRAFTYPUNS_DIR . '/inc/seo-meta.php';
 require_once CRAFTYPUNS_DIR . '/inc/schema.php';
 require_once CRAFTYPUNS_DIR . '/inc/template-helpers.php';
+require_once CRAFTYPUNS_DIR . '/inc/ai-pun-generator.php';
 
 /**
  * Register the Pun Generator shortcode as a lightweight placeholder link,
