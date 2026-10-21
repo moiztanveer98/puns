@@ -9,7 +9,7 @@
 <?php wp_body_open(); ?>
 
 <header class="border-b border-slate-100">
-	<div class="mx-auto flex max-w-6xl items-center justify-between px-4 py-4">
+	<div class="relative mx-auto flex max-w-6xl items-center justify-between px-4 py-4">
 		<?php if ( has_custom_logo() ) : ?>
 			<div class="flex shrink-0 items-center">
 				<?php the_custom_logo(); ?>
@@ -19,7 +19,7 @@
 				<?php echo esc_html( get_bloginfo( 'name' ) ); ?>
 			</a>
 		<?php endif; ?>
-		<nav class="relative hidden md:block" aria-label="<?php esc_attr_e( 'Primary', 'craftypuns' ); ?>">
+		<nav class="hidden md:block" aria-label="<?php esc_attr_e( 'Primary', 'craftypuns' ); ?>">
 			<?php
 			wp_nav_menu( array(
 				'theme_location' => 'primary',

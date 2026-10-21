@@ -9,15 +9,19 @@
 .leading-snug{line-height:1.375}
 
 /* Header nav: show the real menu (incl. dropdown) starting at tablet width,
-   not just desktop — md:block/md:hidden weren't compiled into the build.
-   The dropdown is now positioned relative to <nav> (full nav width) instead
-   of the small "Puns" button, and clamped so it can never overflow the
-   viewport on tablet-width screens. */
+   not just desktop — md:block/md:hidden weren't compiled into the build. */
 @media (min-width:768px){
 	.md\:block{display:block}
 	.md\:hidden{display:none}
 }
-.cp-dropdown-panel{max-width:calc(100vw - 2rem)}
+
+/* Mega-menu dropdown: anchored to the full header row (left:1rem/right:1rem
+   of the relatively-positioned header container), not centered under the
+   small "Puns" button — that old centering could push it off-screen on
+   tablet widths. No width/transform classes left on the element itself, so
+   there's nothing for Tailwind's higher-specificity :hover rules to fight. */
+.cp-dropdown-panel{left:1rem;right:1rem;margin:.5rem auto 0;max-width:640px}
+.cp-dropdown-item.cp-open .cp-dropdown-panel{visibility:visible;opacity:1}
 
 /* Missing grid-column utilities (not compiled into the static Tailwind build) */
 .grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}
@@ -31,9 +35,6 @@
 /* Pun Generator Tool */
 #pg-generate:disabled{opacity:.5;cursor:not-allowed}
 #pg-results ul{list-style:disc;padding-inline-start:1.625em}
-
-/* Header mega-menu: click-to-open state (mirrors the existing :hover classes) */
-.cp-dropdown-item.cp-open .cp-dropdown-panel{visibility:visible;opacity:1;transform:translate(-50%,0)}
 
 /* Inside the mobile nav, the dropdown can't be an absolute-positioned overlay
    (no room, no hover) — render it inline and always open instead. */
