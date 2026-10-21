@@ -38,8 +38,11 @@
 
 /* Inside the mobile nav, the dropdown can't be an absolute-positioned overlay
    (no room, no hover) — render it inline and always open instead. */
-#cp-mobile-nav .cp-dropdown-panel{position:static;visibility:visible;opacity:1;transform:none;box-shadow:none;border:none;width:100%;margin-top:.75rem;padding:0}
-#cp-mobile-nav .cp-dropdown-panel .grid{grid-template-columns:1fr;gap:1.5rem}
+#cp-mobile-nav .cp-dropdown-item{display:block!important;width:100%}
+#cp-mobile-nav .cp-dropdown-panel{position:static!important;visibility:visible!important;opacity:1!important;transform:none!important;box-shadow:none!important;border:none!important;width:100%!important;margin:.75rem 0 0!important;padding:0!important;display:block!important}
+#cp-mobile-nav .cp-dropdown-panel .grid{display:block!important}
+#cp-mobile-nav .cp-dropdown-panel .grid>div{margin-top:1.25rem}
+#cp-mobile-nav .cp-dropdown-panel .grid>div:first-child{margin-top:0}
 #cp-mobile-nav .cp-dropdown-toggle{pointer-events:none}
 #cp-mobile-nav .cp-dropdown-toggle svg{display:none}
 
