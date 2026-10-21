@@ -35,6 +35,42 @@
 /* Pun Generator Tool */
 #pg-generate:disabled{opacity:.5;cursor:not-allowed}
 #pg-results ul{list-style:disc;padding-inline-start:1.625em}
+/* Utilities used on this page that were never compiled into the build */
+.w-full{width:100%}
+.rounded-lg{border-radius:.5rem}
+.border-slate-300{--tw-border-opacity:1;border-color:rgb(203 213 225/var(--tw-border-opacity,1))}
+.border-amber-300{--tw-border-opacity:1;border-color:rgb(252 211 77/var(--tw-border-opacity,1))}
+.text-amber-800{--tw-text-opacity:1;color:rgb(146 64 14/var(--tw-text-opacity,1))}
+.hover\:bg-amber-100:hover{--tw-bg-opacity:1;background-color:rgb(254 243 199/var(--tw-bg-opacity,1))}
+.mb-1{margin-bottom:.25rem}
+.items-end{align-items:flex-end}
+.py-1\.5{padding-top:.375rem;padding-bottom:.375rem}
+@media (min-width:640px){
+	.sm\:items-end{align-items:flex-end}
+	.sm\:w-auto{width:auto}
+	.sm\:flex-wrap{flex-wrap:wrap}
+}
+
+.pg-field-min{min-width:0}
+#pg-voice.is-listening{border-color:#f59e0b;color:#b45309;background:#fffbeb}
+#pg-voice:disabled{opacity:.5;cursor:not-allowed}
+#pg-copy-all{margin-left:.5rem}
+@media (max-width:480px){#pg-copy-all{margin-left:0;margin-top:.5rem;width:100%}}
+
+.pg-pun-list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:.75rem}
+.pg-pun-item{border:1px solid #f1f5f9;border-radius:1rem;padding:.9rem 1rem;background:#fff}
+.pg-pun-text{display:block;color:#0f172a;line-height:1.5}
+.pg-pun-actions{margin-top:.6rem;display:flex;flex-wrap:wrap;gap:.4rem}
+.pg-action-btn{padding:.25rem .65rem;font-size:.75rem;font-weight:600;line-height:1.4;color:#475569;background:#f8fafc;border:1px solid #e2e8f0;border-radius:9999px;cursor:pointer;transition:background-color .15s,color .15s,border-color .15s}
+.pg-action-btn:hover{background:#fffbeb;border-color:#fde68a;color:#b45309}
+.pg-action-btn.is-copied{background:#15803d;border-color:#15803d;color:#fff}
+.pg-action-btn.pg-fav.is-fav{background:#fef2f2;border-color:#fecaca;color:#b91c1c}
+
+#pg-favorites-list .pg-pun-item{background:#fff}
+
+#pg-history-list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:.4rem}
+.pg-history-item{cursor:pointer;color:#475569;padding:.4rem .6rem;border-radius:.5rem;transition:background-color .15s}
+.pg-history-item:hover{background:#f8fafc;color:#0f172a}
 
 /* Inside the mobile nav, the dropdown can't be an absolute-positioned overlay
    (no room, no hover) — render it inline and always open instead. */
