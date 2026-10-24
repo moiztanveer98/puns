@@ -143,6 +143,63 @@ function craftypuns_excerpt_length( $length ) {
 add_filter( 'excerpt_length', 'craftypuns_excerpt_length' );
 
 /**
+ * Removes the "/category/" segment from category archive URLs, e.g.
+ * /category/animal-puns/ becomes /animal-puns/. WordPress core won't save a
+ * truly empty Category base in Settings > Permalinks (it silently reverts to
+ * "category"), so this reimplements that behavior directly: a link filter to
+ * rewrite the generated URLs, and matching rewrite rules so the clean URLs
+ * actually resolve. A template_redirect 301s the old /category/... URLs to
+ * the new clean ones so existing links/search results/bookmarks keep working.
+ */
+function craftypuns_strip_category_base( $link ) {
+	return str_replace( '/category/', '/', $link );
+}
+add_filter( 'category_link', 'craftypuns_strip_category_base' );
+add_filter( 'term_link', 'craftypuns_strip_category_base' );
+
+function craftypuns_category_rewrite_rules( $wp_rewrite ) {
+	$category_rewrite = array();
+	$categories        = get_categories( array( 'hide_empty' => false ) );
+
+	foreach ( $categories as $category ) {
+		$nicename = $category->slug;
+		if ( $category->parent == $category->cat_ID ) {
+			$category->parent = 0;
+		} elseif ( 0 != $category->parent ) {
+			$nicename = get_category_parents( $category->parent, false, '/', true ) . $nicename;
+		}
+
+		$category_rewrite[ '(' . $nicename . ')/feed/(feed|rdf|rss|rss2|atom)/?$' ] = 'index.php?category_name=$matches[1]&feed=$matches[2]';
+		$category_rewrite[ '(' . $nicename . ')/page/?([0-9]{1,})/?$' ]             = 'index.php?category_name=$matches[1]&paged=$matches[2]';
+		$category_rewrite[ '(' . $nicename . ')/?$' ]                               = 'index.php?category_name=$matches[1]';
+	}
+
+	return $category_rewrite + $wp_rewrite->extra_rules_top;
+}
+add_filter( 'category_rewrite_rules', 'craftypuns_category_rewrite_rules' );
+
+function craftypuns_redirect_old_category_urls() {
+	if ( false !== strpos( $_SERVER['REQUEST_URI'], '/category/' ) ) {
+		$new_url = str_replace( '/category/', '/', $_SERVER['REQUEST_URI'] );
+		wp_safe_redirect( home_url( $new_url ), 301 );
+		exit;
+	}
+}
+add_action( 'template_redirect', 'craftypuns_redirect_old_category_urls', 1 );
+
+/**
+ * One-time rewrite flush so the new category rewrite rules above take effect
+ * immediately, without waiting for a manual visit to Settings > Permalinks.
+ */
+function craftypuns_maybe_flush_rewrite_rules() {
+	if ( '1' !== get_option( 'craftypuns_category_base_flushed' ) ) {
+		flush_rewrite_rules();
+		update_option( 'craftypuns_category_base_flushed', '1' );
+	}
+}
+add_action( 'init', 'craftypuns_maybe_flush_rewrite_rules', 20 );
+
+/**
  * AI custom pun generation: a REST endpoint the Pun Generator page calls to
  * get a brand-new pun for any topic the visitor types in, via the Claude API.
  *
