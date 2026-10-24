@@ -174,9 +174,9 @@ function craftypuns_category_rewrite_rules( $wp_rewrite ) {
 		$category_rewrite[ '(' . $nicename . ')/?$' ]                               = 'index.php?category_name=$matches[1]';
 	}
 
-	return $category_rewrite + $wp_rewrite->extra_rules_top;
+	$wp_rewrite->rules = $category_rewrite + $wp_rewrite->rules;
 }
-add_filter( 'category_rewrite_rules', 'craftypuns_category_rewrite_rules' );
+add_action( 'generate_rewrite_rules', 'craftypuns_category_rewrite_rules' );
 
 function craftypuns_redirect_old_category_urls() {
 	if ( false !== strpos( $_SERVER['REQUEST_URI'], '/category/' ) ) {
