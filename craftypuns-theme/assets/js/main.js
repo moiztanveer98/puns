@@ -100,6 +100,11 @@
 				if ( item.querySelector( '.pun-copy-btn' ) ) {
 					return;
 				}
+				// Related-content lists ("Related Puns", "More Ways to Use
+				// Puns") are just links, not puns, so they stay plain bullets.
+				if ( item.querySelector( 'a' ) ) {
+					return;
+				}
 				var line = item.textContent.trim();
 				if ( ! line ) {
 					return;
