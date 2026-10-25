@@ -1,0 +1,457 @@
+{
+  "thanksgiving-puns": {
+    "hub": "Holiday & Event Puns",
+    "subhub": "Seasonal Holiday Puns",
+    "slug": "/thanksgiving-puns/"
+  },
+  "sloth-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Wild Animal Puns",
+    "slug": "/sloth-puns/"
+  },
+  "ice-cream-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Dessert & Sweet Puns",
+    "slug": "/ice-cream-puns/"
+  },
+  "pizza-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Meal & Dish Puns",
+    "slug": "/pizza-puns/"
+  },
+  "math-puns": {
+    "hub": "Nature & Science Puns",
+    "subhub": "Science Puns",
+    "slug": "/math-puns/"
+  },
+  "spring-puns": {
+    "hub": "Nature & Science Puns",
+    "subhub": "Weather & Season Puns",
+    "slug": "/spring-puns/"
+  },
+  "whale-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Sea Creature Puns",
+    "slug": "/whale-puns/"
+  },
+  "potato-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Vegetable Puns",
+    "slug": "/potato-puns/"
+  },
+  "witch-puns": {
+    "hub": "Holiday & Event Puns",
+    "subhub": "Halloween Puns",
+    "slug": "/witch-puns/"
+  },
+  "space-puns": {
+    "hub": "Nature & Science Puns",
+    "subhub": "Space Puns",
+    "slug": "/space-puns/"
+  },
+  "pasta-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Meal & Dish Puns",
+    "slug": "/pasta-puns/"
+  },
+  "craft-puns": {
+    "hub": "Sport & Hobby Puns",
+    "subhub": "Hobby Puns",
+    "slug": "/craft-puns/"
+  },
+  "lion-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Wild Animal Puns",
+    "slug": "/lion-puns/"
+  },
+  "candy-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Dessert & Sweet Puns",
+    "slug": "/candy-puns/"
+  },
+  "plant-puns": {
+    "hub": "Nature & Science Puns",
+    "subhub": "Plant Puns",
+    "slug": "/plant-puns/"
+  },
+  "new-year-puns": {
+    "hub": "Holiday & Event Puns",
+    "subhub": "Seasonal Holiday Puns",
+    "slug": "/new-year-puns/"
+  },
+  "star-puns": {
+    "hub": "Nature & Science Puns",
+    "subhub": "Space Puns",
+    "slug": "/star-puns/"
+  },
+  "moon-puns": {
+    "hub": "Nature & Science Puns",
+    "subhub": "Space Puns",
+    "slug": "/moon-puns/"
+  },
+  "dog-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Pet Puns",
+    "slug": "/dog-puns/"
+  },
+  "easter-puns": {
+    "hub": "Holiday & Event Puns",
+    "subhub": "Seasonal Holiday Puns",
+    "slug": "/easter-puns/"
+  },
+  "chocolate-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Dessert & Sweet Puns",
+    "slug": "/chocolate-puns/"
+  },
+  "rabbit-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Pet Puns",
+    "slug": "/rabbit-puns/"
+  },
+  "fish-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Sea Creature Puns",
+    "slug": "/fish-puns/"
+  },
+  "sun-puns": {
+    "hub": "Nature & Science Puns",
+    "subhub": "Weather & Season Puns",
+    "slug": "/sun-puns/"
+  },
+  "cookie-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Dessert & Sweet Puns",
+    "slug": "/cookie-puns/"
+  },
+  "bread-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Meal & Dish Puns",
+    "slug": "/bread-puns/"
+  },
+  "cactus-puns": {
+    "hub": "Nature & Science Puns",
+    "subhub": "Plant Puns",
+    "slug": "/cactus-puns/"
+  },
+  "orange-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Fruit Puns",
+    "slug": "/orange-puns/"
+  },
+  "banana-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Fruit Puns",
+    "slug": "/banana-puns/"
+  },
+  "lemon-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Fruit Puns",
+    "slug": "/lemon-puns/"
+  },
+  "donut-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Dessert & Sweet Puns",
+    "slug": "/donut-puns/"
+  },
+  "elephant-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Wild Animal Puns",
+    "slug": "/elephant-puns/"
+  },
+  "summer-puns": {
+    "hub": "Nature & Science Puns",
+    "subhub": "Weather & Season Puns",
+    "slug": "/summer-puns/"
+  },
+  "monkey-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Wild Animal Puns",
+    "slug": "/monkey-puns/"
+  },
+  "pig-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Farm Animal Puns",
+    "slug": "/pig-puns/"
+  },
+  "bear-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Wild Animal Puns",
+    "slug": "/bear-puns/"
+  },
+  "dinosaur-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Reptile & Amphibian Puns",
+    "slug": "/dinosaur-puns/"
+  },
+  "st-patricks-day-puns": {
+    "hub": "Holiday & Event Puns",
+    "subhub": "Seasonal Holiday Puns",
+    "slug": "/st-patricks-day-puns/"
+  },
+  "christmas-puns": {
+    "hub": "Holiday & Event Puns",
+    "subhub": "Christmas Puns",
+    "slug": "/christmas-puns/"
+  },
+  "otter-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Wild Animal Puns",
+    "slug": "/otter-puns/"
+  },
+  "mountain-puns": {
+    "hub": "Nature & Science Puns",
+    "subhub": "Earth & Water Puns",
+    "slug": "/mountain-puns/"
+  },
+  "apple-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Fruit Puns",
+    "slug": "/apple-puns/"
+  },
+  "santa-puns": {
+    "hub": "Holiday & Event Puns",
+    "subhub": "Christmas Puns",
+    "slug": "/santa-puns/"
+  },
+  "pineapple-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Fruit Puns",
+    "slug": "/pineapple-puns/"
+  },
+  "science-puns": {
+    "hub": "Nature & Science Puns",
+    "subhub": "Science Puns",
+    "slug": "/science-puns/"
+  },
+  "frog-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Reptile & Amphibian Puns",
+    "slug": "/frog-puns/"
+  },
+  "shark-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Sea Creature Puns",
+    "slug": "/shark-puns/"
+  },
+  "birthday-puns": {
+    "hub": "Holiday & Event Puns",
+    "subhub": "Life Event Puns",
+    "slug": "/birthday-puns/"
+  },
+  "beach-puns": {
+    "hub": "Nature & Science Puns",
+    "subhub": "Earth & Water Puns",
+    "slug": "/beach-puns/"
+  },
+  "halloween-puns": {
+    "hub": "Holiday & Event Puns",
+    "subhub": "Halloween Puns",
+    "slug": "/halloween-puns/"
+  },
+  "dolphin-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Sea Creature Puns",
+    "slug": "/dolphin-puns/"
+  },
+  "ghost-puns": {
+    "hub": "Holiday & Event Puns",
+    "subhub": "Halloween Puns",
+    "slug": "/ghost-puns/"
+  },
+  "fourth-of-july-puns": {
+    "hub": "Holiday & Event Puns",
+    "subhub": "Seasonal Holiday Puns",
+    "slug": "/fourth-of-july-puns/"
+  },
+  "ocean-puns": {
+    "hub": "Nature & Science Puns",
+    "subhub": "Earth & Water Puns",
+    "slug": "/ocean-puns/"
+  },
+  "llama-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Farm Animal Puns",
+    "slug": "/llama-puns/"
+  },
+  "turtle-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Sea Creature Puns",
+    "slug": "/turtle-puns/"
+  },
+  "sheep-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Farm Animal Puns",
+    "slug": "/sheep-puns/"
+  },
+  "snowman-puns": {
+    "hub": "Holiday & Event Puns",
+    "subhub": "Christmas Puns",
+    "slug": "/snowman-puns/"
+  },
+  "skeleton-puns": {
+    "hub": "Holiday & Event Puns",
+    "subhub": "Halloween Puns",
+    "slug": "/skeleton-puns/"
+  },
+  "horse-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Farm Animal Puns",
+    "slug": "/horse-puns/"
+  },
+  "cow-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Farm Animal Puns",
+    "slug": "/cow-puns/"
+  },
+  "penguin-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Bird Puns",
+    "slug": "/penguin-puns/"
+  },
+  "snow-puns": {
+    "hub": "Nature & Science Puns",
+    "subhub": "Weather & Season Puns",
+    "slug": "/snow-puns/"
+  },
+  "chicken-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Farm Animal Puns",
+    "slug": "/chicken-puns/"
+  },
+  "panda-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Wild Animal Puns",
+    "slug": "/panda-puns/"
+  },
+  "tree-puns": {
+    "hub": "Nature & Science Puns",
+    "subhub": "Plant Puns",
+    "slug": "/tree-puns/"
+  },
+  "snake-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Reptile & Amphibian Puns",
+    "slug": "/snake-puns/"
+  },
+  "coffee-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Drink Puns",
+    "slug": "/coffee-puns/"
+  },
+  "avocado-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Fruit Puns",
+    "slug": "/avocado-puns/"
+  },
+  "tea-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Drink Puns",
+    "slug": "/tea-puns/"
+  },
+  "octopus-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Sea Creature Puns",
+    "slug": "/octopus-puns/"
+  },
+  "beer-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Drink Puns",
+    "slug": "/beer-puns/"
+  },
+  "taco-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Meal & Dish Puns",
+    "slug": "/taco-puns/"
+  },
+  "cat-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Pet Puns",
+    "slug": "/cat-puns/"
+  },
+  "pumpkin-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Vegetable Puns",
+    "slug": "/pumpkin-puns/"
+  },
+  "crab-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Sea Creature Puns",
+    "slug": "/crab-puns/"
+  },
+  "name-puns": {
+    "hub": "Word & Name Puns",
+    "subhub": "Name Puns",
+    "slug": "/name-puns/"
+  },
+  "strawberry-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Fruit Puns",
+    "slug": "/strawberry-puns/"
+  },
+  "watermelon-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Fruit Puns",
+    "slug": "/watermelon-puns/"
+  },
+  "chemistry-puns": {
+    "hub": "Nature & Science Puns",
+    "subhub": "Science Puns",
+    "slug": "/chemistry-puns/"
+  },
+  "cheese-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Meal & Dish Puns",
+    "slug": "/cheese-puns/"
+  },
+  "pie-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Dessert & Sweet Puns",
+    "slug": "/pie-puns/"
+  },
+  "owl-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Bird Puns",
+    "slug": "/owl-puns/"
+  },
+  "fall-puns": {
+    "hub": "Nature & Science Puns",
+    "subhub": "Weather & Season Puns",
+    "slug": "/fall-puns/"
+  },
+  "cake-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Dessert & Sweet Puns",
+    "slug": "/cake-puns/"
+  },
+  "wine-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Drink Puns",
+    "slug": "/wine-puns/"
+  },
+  "best-friend-puns": {
+    "hub": "People & Relationship Puns",
+    "subhub": "Relationship Puns",
+    "slug": "/best-friend-puns/"
+  },
+  "egg-puns": {
+    "hub": "Food & Drink Puns",
+    "subhub": "Meal & Dish Puns",
+    "slug": "/egg-puns/"
+  },
+  "winter-puns": {
+    "hub": "Nature & Science Puns",
+    "subhub": "Weather & Season Puns",
+    "slug": "/winter-puns/"
+  },
+  "goat-puns": {
+    "hub": "Animal Puns",
+    "subhub": "Farm Animal Puns",
+    "slug": "/goat-puns/"
+  },
+  "valentines-day-puns": {
+    "hub": "Holiday & Event Puns",
+    "subhub": "Seasonal Holiday Puns",
+    "slug": "/valentines-day-puns/"
+  }
+}
