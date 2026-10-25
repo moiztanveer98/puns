@@ -80,6 +80,38 @@ function craftypuns_get_seo_description() {
 }
 
 /**
+ * The image to use for og:image/twitter:image: the post's featured image on
+ * singular posts, falling back to the site logo everywhere else (homepage,
+ * category archives, pages) so link previews never show a blank thumbnail.
+ */
+function craftypuns_get_social_image() {
+	if ( is_singular( 'post' ) && has_post_thumbnail() ) {
+		$src = wp_get_attachment_image_src( get_post_thumbnail_id(), 'large' );
+		if ( $src ) {
+			return array(
+				'url'    => $src[0],
+				'width'  => $src[1],
+				'height' => $src[2],
+			);
+		}
+	}
+
+	if ( has_custom_logo() ) {
+		$logo_id  = get_theme_mod( 'custom_logo' );
+		$logo_src = $logo_id ? wp_get_attachment_image_src( $logo_id, 'full' ) : false;
+		if ( $logo_src ) {
+			return array(
+				'url'    => $logo_src[0],
+				'width'  => $logo_src[1],
+				'height' => $logo_src[2],
+			);
+		}
+	}
+
+	return null;
+}
+
+/**
  * Outputs the theme's own <title>/meta description/OG/Twitter tags —
  * only when no recognized SEO plugin is active.
  */
@@ -92,16 +124,27 @@ function craftypuns_head_meta() {
 	$title = craftypuns_get_seo_title();
 	$desc  = craftypuns_get_seo_description();
 	$url   = craftypuns_get_canonical_url();
+	$image = craftypuns_get_social_image();
 
 	printf( '<meta name="description" content="%s" />' . "\n", esc_attr( $desc ) );
 	printf( '<link rel="canonical" href="%s" />' . "\n", esc_url( $url ) );
+	printf( '<meta property="og:site_name" content="%s" />' . "\n", esc_attr( get_bloginfo( 'name' ) ) );
+	printf( '<meta property="og:locale" content="%s" />' . "\n", esc_attr( get_locale() ) );
 	printf( '<meta property="og:title" content="%s" />' . "\n", esc_attr( $title ) );
 	printf( '<meta property="og:description" content="%s" />' . "\n", esc_attr( $desc ) );
 	printf( '<meta property="og:url" content="%s" />' . "\n", esc_url( $url ) );
 	printf( '<meta property="og:type" content="%s" />' . "\n", is_singular( 'post' ) ? 'article' : 'website' );
+	if ( $image ) {
+		printf( '<meta property="og:image" content="%s" />' . "\n", esc_url( $image['url'] ) );
+		printf( '<meta property="og:image:width" content="%d" />' . "\n", (int) $image['width'] );
+		printf( '<meta property="og:image:height" content="%d" />' . "\n", (int) $image['height'] );
+	}
 	printf( '<meta name="twitter:card" content="summary_large_image" />' . "\n" );
 	printf( '<meta name="twitter:title" content="%s" />' . "\n", esc_attr( $title ) );
 	printf( '<meta name="twitter:description" content="%s" />' . "\n", esc_attr( $desc ) );
+	if ( $image ) {
+		printf( '<meta name="twitter:image" content="%s" />' . "\n", esc_url( $image['url'] ) );
+	}
 }
 add_action( 'wp_head', 'craftypuns_head_meta', 1 );
 
