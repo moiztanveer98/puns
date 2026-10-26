@@ -93,6 +93,11 @@
 	}
 
 	function initPunCopyButtons( scope ) {
+		// Only pun-list articles (single posts) get copy buttons; pages like
+		// Privacy Policy, Contact, etc. use .prose too but aren't pun lists.
+		if ( ! scope && ! document.body.classList.contains( 'single-post' ) ) {
+			return;
+		}
 		var containers = ( scope || document ).querySelectorAll( '.prose' );
 		containers.forEach( function ( container ) {
 			var items = container.querySelectorAll( 'li' );
